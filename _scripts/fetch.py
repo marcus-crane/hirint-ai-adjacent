@@ -31,7 +31,7 @@ import html
 import json
 import re
 import time
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -519,6 +519,53 @@ def fetch_sensetime(client: httpx.Client, board: str) -> list[Job]:
     return jobs
 
 
+def fetch_hikvision(client: httpx.Client, board: str) -> list[Job]:
+    # `board` unused (single in-house board). List-only: getPostInfoForSys has no JD text,
+    # but title/location/positionType/dates capture the hiring mix — the signal we want.
+    # Descriptions would need a per-job auth-gated detail call (~1900/run); not worth it.
+    url = "https://talent.hikvision.com/api/ats/official/officialPostPosition/getPostInfoForSys"
+    headers = {
+        "User-Agent": BROWSER_UA,
+        "Content-Type": "application/json",
+        "Accept": "application/json, text/plain, */*",
+        "Origin": "https://talent.hikvision.com",
+        "Referer": "https://talent.hikvision.com/society/index",
+    }
+
+    def _dt(v) -> str | None:
+        if not v:
+            return None
+        if isinstance(v, (int, float)):
+            return _ms_to_iso(int(v))
+        return str(v).replace(" ", "T")
+
+    jobs = []
+    page, size = 1, 50
+    while True:
+        data = post_json(client, url, headers=headers, json={"pageNum": page, "pageSize": size, "companyId": ""}).get("data") or {}
+        recs = data.get("list") or []
+        for j in recs:
+            sid = str(j["postSecureId"])
+            ptype = j.get("positionType")
+            jobs.append(
+                Job(
+                    id=sid,
+                    title=j["postName"],
+                    url=f"https://talent.hikvision.com/society/postDetail?postSecureId={sid}",
+                    source="hikvision",
+                    location=j.get("locationDesc"),
+                    departments=[ptype] if ptype else [],
+                    date=_dt(j.get("createTime")),
+                    lastmod=_dt(j.get("updateTime")) or _dt(j.get("createTime")),
+                    body_html="",
+                )
+            )
+        page += 1
+        if not recs or page > (data.get("pages") or 0):
+            break
+    return jobs
+
+
 ADAPTERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
@@ -529,17 +576,30 @@ ADAPTERS = {
     "unitree": fetch_unitree,
     "dahua": fetch_dahua,
     "sensetime": fetch_sensetime,
+    "hikvision": fetch_hikvision,
 }
 
 
 # --- writing / diffing ------------------------------------------------------
 
+def _content_sig(text: str) -> str:
+    # Ignore the volatile `date`/`lastmod` frontmatter lines when deciding if a posting
+    # really changed, so a source bumping its timestamp doesn't manufacture a diff.
+    return "\n".join(ln for ln in text.splitlines() if not re.match(r"^(date|lastmod): ", ln))
+
+
 def write_if_changed(path: Path, content: str) -> str:
-    if path.exists() and path.read_text(encoding="utf-8") == content:
-        return "unchanged"
-    existed = path.exists()
+    if path.exists():
+        old = path.read_text(encoding="utf-8")
+        if old == content:
+            return "unchanged"
+        # Only the timestamp moved (content identical) → keep the old file, no diff.
+        if _content_sig(old) == _content_sig(content):
+            return "unchanged"
+        path.write_text(content, encoding="utf-8")
+        return "updated"
     path.write_text(content, encoding="utf-8")
-    return "updated" if existed else "new"
+    return "new"
 
 
 def archive_file(src: Path, dst: Path) -> None:
@@ -554,7 +614,7 @@ def archive_file(src: Path, dst: Path) -> None:
     src.unlink()
 
 
-def sync_org(slug: str, jobs: list[Job], out: Path) -> None:
+def sync_org(slug: str, jobs: list[Job], out: Path) -> str:
     active = out / slug / "active"
     archived = out / slug / "archived"
     active.mkdir(parents=True, exist_ok=True)
@@ -576,11 +636,23 @@ def sync_org(slug: str, jobs: list[Job], out: Path) -> None:
             archive_file(f, archived / f.name)
             stats["archived"] += 1
 
-    print(
+    return (
         f"  {slug}: {len(jobs)} live "
         f"(+{stats['new']} new, ~{stats['updated']} updated, ={stats['unchanged']} same, "
         f"↩{stats['reactivated']} reactivated, →{stats['archived']} archived)"
     )
+
+
+def run_source(client: httpx.Client, src: dict, out: Path) -> str:
+    slug = src.get("slug") or slugify(src["name"])
+    fetch = ADAPTERS.get(src["adapter"])
+    if fetch is None:
+        return f"  {slug}: no adapter for {src['adapter']!r}, skipping"
+    try:
+        jobs = fetch(client, src["board"])
+        return sync_org(slug, jobs, out)
+    except Exception as e:  # isolate per source — one bad board never aborts the run
+        return f"  {slug}: failed ({type(e).__name__}: {e}), skipping"
 
 
 def main() -> None:
@@ -588,24 +660,18 @@ def main() -> None:
     ap.add_argument("--sources", type=Path, default=Path("sources.json"))
     ap.add_argument("--out", type=Path, default=Path("content"))
     ap.add_argument("--only", help="slug to fetch (skip the rest)")
+    ap.add_argument("--jobs", "-j", type=int, default=8, help="sources to fetch concurrently")
     args = ap.parse_args()
 
     sources = json.loads(args.sources.read_text())
+    targets = [s for s in sources if not args.only or (s.get("slug") or slugify(s["name"])) == args.only]
+
+    # httpx.Client is thread-safe; sources write to disjoint dirs, so run them concurrently.
     with httpx.Client(headers={"User-Agent": UA}, timeout=TIMEOUT, follow_redirects=True) as client:
-        for src in sources:
-            slug = src.get("slug") or slugify(src["name"])
-            if args.only and slug != args.only:
-                continue
-            fetch = ADAPTERS.get(src["adapter"])
-            if fetch is None:
-                print(f"  {slug}: no adapter for {src['adapter']!r}, skipping")
-                continue
-            try:
-                jobs = fetch(client, src["board"])
-            except httpx.HTTPError as e:
-                print(f"  {slug}: fetch failed ({e!r}), skipping")
-                continue
-            sync_org(slug, jobs, args.out)
+        with ThreadPoolExecutor(max_workers=max(1, args.jobs)) as pool:
+            futures = [pool.submit(run_source, client, src, args.out) for src in targets]
+            for fut in as_completed(futures):
+                print(fut.result(), flush=True)
 
 
 if __name__ == "__main__":
