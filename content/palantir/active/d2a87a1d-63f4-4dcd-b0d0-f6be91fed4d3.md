@@ -1,0 +1,118 @@
+---
+title: Senior Front End Software Engineer - Application Development
+status: active
+id: d2a87a1d-63f4-4dcd-b0d0-f6be91fed4d3
+source: lever
+url: https://jobs.lever.co/palantir/d2a87a1d-63f4-4dcd-b0d0-f6be91fed4d3
+lastmod: '2024-08-06T19:18:21.655000+00:00'
+date: '2024-08-06T19:18:21.655000+00:00'
+location: New York, NY
+departments:
+- Dev
+offices:
+- New York, NY
+---
+
+**A World-Changing Company**
+
+Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
+
+**The Role**
+
+Palantir Foundry is an end-to-end platform for data-driven decision-making. We're transforming the way organizations securely integrate their data, so they can then build reliable, critical applications atop that unified foundation. Our customers use Foundry to perform rich analyses that drive core operations within their organizations. They can also build sophisticated, full-fledged programs, such as common operating pictures, alert-triaging inboxes, and resource allocation planning tools driven by rich-ML models.
+
+As a Senior Front End Software Engineer focused on application development in Foundry, you will be responsible for crafting the tools used by thousands of users to build the sophisticated applications that power their businesses. You will be architecting and developing interfaces, state management and access patterns to support data-intensive workflows that are both powerful and approachable. You may spend one day interviewing users to better understand their needs and identifying product gaps to improve. The next day, you might find yourself considering that customer context along with signal gathered from other customers in different industries, brainstorming approaches to handling intricate UX needs with your teammates.
+
+You’ll regularly be faced with sophisticated technical problems, requiring you to scope out the solution design and finding an incremental path to shipping the new features. As part of this, you will own APIs and schemas that power your frontend code, or work with other backend engineers in developing them together.
+
+We’re hiring engineers who are passionate about solving real-world problems and empowering both developers and end-users to work optimally. If you’re motivated to develop reliable, performant, and scalable systems, and to design robust APIs and primitives, this role offers the opportunity to make a significant impact on our products and the people who use them.
+
+**Frontline**
+
+Foundry Software Engineers may be offered the opportunity to Frontline, an exclusive program unlike any other. This unique, short-term assignment involves being embedded with customers, allowing you to work directly with users and gain firsthand insight into how our products are used and the challenges our customers face. Unlike traditional engineering roles, Frontline immerses you in complex, ambiguous problems, empowering you to deliver impactful solutions across some of the world’s most important industries and institutions.
+
+Some of our most successful products were built on the factory floor, addressing real-world problems for the world's most important institutions. These products were developed by some of our most successful product engineers, who began their careers in roles aligned with Frontline responsibilities, gaining a deep understanding of both our technology and our customers.
+
+Frontliners operate across a broad spectrum of responsibilities, much like a startup CTO. They work in small teams to own the end-to-end execution of high-stakes projects. This spectrum ranges from discussing architecture and building custom web apps to conducting workshops with users and strategizing with customer executives. No two days are alike, as each day is diverse and impactful. By witnessing how customers engage with Foundry and experiencing these pain points firsthand, you’ll gain unique insights that feed directly back into our development process, helping to refine and enhance our products. After your frontline rotation is complete, you will return to your regular role where you can apply the experience and understanding you’ve gained.
+
+### Core Responsiblities
+
+* Leading and mentoring within our community of engineers and building shared frontend tooling to enable teams across Foundry.
+* Architecting and building for high-scale data intensive APIs (example).
+* Developing interactive workflow UIs.
+* Building products which aim to make technical concepts accessible for non-technical users.
+* Creating low-code/no-code WYSIWYG tools, which enable application builders within Foundry to build products for their users.
+* Building the user experience for our next generation of pro-code tools to enable developers to build on top of Foundry.
+* Engaging with signal directly from our forward deployed engineers and deployment strategists to rapidly evolve our product to meet real world requirements.
+
+### Technologies We Use
+
+* Typescript, React, and GQL are central to our frontend development.
+* Blueprint as a re-usable front end component library.
+* A combination of open-source and internal technologies that suit the problems at hand.
+* Industry-standard build tooling, including Webpack, GitHub, and CircleCI.
+
+### What We Value
+
+* Passion for improving user workflows and building user interfaces that enable users to tackle their problems, while still maintaining engineering quality.
+* Ability to work collaboratively in teams of technical and non-technical individuals and understand how technical decisions impact the people who will use what you're building.
+* Skill and comfort working in a constantly evolving environment with dynamic objectives and iteration with users.
+* Experience brainstorming and iterating with product designers.
+* Experience building high-quality software in a fast-paced CI/CD development environment.
+* Proven ability to learn continuously, work independently, and make decisions with minimal supervision.
+* Ability to learn new technology and concepts, even without in-depth experience.
+* Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial, but not necessary.
+
+### What We Require
+
+* 4+ years of frontend software engineering experience.
+* Experience crafting complex user experiences (UX) with a strong intuition for good design and usability.
+* Experience working with design systems such as Blueprint, Material-UI, or similar.
+* Strong frontend coding skills used to write clean, effective code, regardless of framework, and existing proficiency in JavaScript and understanding of how web technologies work.
+* Familiarity with data structures, loading patterns, frontend frameworks, and other technical tools and concepts.
+* Proficiency with programming languages such as JavaScript/TypeScript, or similar languages.
+* Strong written and verbal communication skills.
+
+**Salary**
+
+The estimated salary range for this position is estimated to be $135,000 - $200,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.
+
+Our benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.
+
+**Benefits**
+
+•  Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance
+
+•  Employees are automatically covered by Palantir’s basic life, AD&D and disability insurance
+
+•  Commuter benefits
+
+•  Relocation assistance
+
+•  Take what you need paid time off, not accrual based
+
+•  2 weeks paid time off built into the end of each year (subject to team and business needs)
+
+•  10 paid holidays throughout the calendar year
+
+•  Supportive leave of absence program including time off for military service and medical events
+
+•  Paid leave for new parents and subsidized back-up care for all parents
+
+•  Fertility and family building benefits including but not limited to adoption, surrogacy, and preservation
+
+•  Stipend to help with expenses that come with a new child
+
+•  Employees can enroll in Palantir’s 401k plan
+
+**Life at Palantir**
+
+We want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at [Life at Palantir](https://www.palantir.com/careers/life-at-palantir/) and note that our offerings may vary by region.
+
+In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.
+
+If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process*,* please [reach out](mailto:accommodations@palantir.com) and let us know how we can help.
+
+*Please note that you will never be asked to submit a payment or share financial information to participate in our interview process. If you suspect that you've been contacted by a scammer, we recommend you cease all communication with the individual and consider reporting them to the relevant authorities, such as the US [FBI Internet Crime Complaint Center (IC3)](https://www.ic3.gov/).*  
+  
+*If you would like to understand more about how your personal data will be processed by Palantir, please see our [Privacy Policy](https://www.palantir.com/privacy-and-security/candidate-privacy-notice/).*

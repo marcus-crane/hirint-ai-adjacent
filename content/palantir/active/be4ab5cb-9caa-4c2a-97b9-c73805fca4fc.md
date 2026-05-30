@@ -1,0 +1,106 @@
+---
+title: Forward Deployed Software Engineer - US Government - Federal Health and Civilian
+status: active
+id: be4ab5cb-9caa-4c2a-97b9-c73805fca4fc
+source: lever
+url: https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc
+lastmod: '2026-05-07T17:41:25.599000+00:00'
+date: '2026-05-07T17:41:25.599000+00:00'
+location: New York, NY
+departments:
+- Delta
+offices:
+- New York, NY
+---
+
+**A World-Changing Company**
+
+Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
+
+**The Role**
+
+Palantir powers mission-critical work across federal health and civilian agencies - from [improving patient care](https://www.youtube.com/watch?v=d3FmKfVpn8c) and [accelerating public health responses](https://www.youtube.com/watch?v=1F7apO2hFXk), to [helping farmers access services](https://www.farmweeknow.com/general/palantir-secures-usda-contract-to-consolidate-farmer-data-modernize-programs/article_d0f29758-39c3-4f53-a849-8b773053e783.html), modernizing tax record reviews, and improving aviation safety.  
+  
+Forward Deployed Software Engineers (FDSEs) work directly with customers to rapidly understand their hardest problems and build solutions against them. Projects often start with an open-ended question: *"How do we respond to a foodborne illness outbreak faster?"* or *"Where is our medical supply chain failing patients?"* Your job is to show up and solve them.  
+  
+In Federal Health/Civil, your responsibilities look like those of a startup CTO. You'll own end-to-end execution of high-stakes projects within small, high-ownership teams, spanning the full stack of execution: whiteboarding architecture with engineers, building data pipelines and operational workflows, deploying AI agents, advising customer executives, and driving strategy with your team - sometimes all in the same day.  
+  
+Whether you want to be an entrepreneur or an engineering leader, Palantir is built to get you there. You'll learn to unpack ambiguous problems and reason carefully about the cost and consequence of solutions. You'll work autonomously, make consequential decisions, and build with some of the country's most important institutions - with colleagues who will support and challenge you along the way.
+
+### Technologies We Use
+
+* Core Palantir products provide the foundations for our deployments.
+* Custom applications built on top of core Palantir platforms.
+* Postgres, Cassandra, Hadoop, and Spark for distributed data storage and parallel computing.
+* Java and Groovy for our back-end applications and data integration tools.
+* Typescript, React, Leaflet, and d3 for our web technologies.
+* Python for data processing and analysis.
+* Palantir cloud infrastructure based on AWS EC2 and S3.
+
+### Our Principles
+
+* Impact: We take on meaningful and challenging projects that change the world for the better.
+* Ownership: We see projects through from beginning to end, working through any obstacles we may encounter.
+* Collaboration: We work internally with people from a variety of backgrounds — such as other FDSEs, product teams, and Deployment Strategists. We also work externally with our customers, often on site, to understand and solve their problems.
+* Trust: We trust each other to effectively manage time and priorities and give people the space to think for themselves.
+* Growth: We encourage ourselves and our peers to seek new challenges and opportunities for growth, as well as find new ways to innovate and share knowledge.
+* Learning: We often face entirely novel problems where we need to pick up a lot of new knowledge and learn how to use it to make progress. We believe experiential learning is one of the best teachers.
+
+### What We Value
+
+* Strong engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics.
+* Experience with healthcare, logistics, aviation, or readiness analysis is a plus.
+* Familiarity with AI agents, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+* Understanding of how technical decisions impact the user of what you’re building.
+* Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+* Demonstrated ability to collaborate effectively in teams of technical and non-technical individuals, and comfortable working in a rapidly changing environment with dynamic objectives and iteration with users.
+* Demonstrated ability to continuously learn, work independently, and make decisions with minimal supervision.
+* Willingness and interest to travel as needed.
+
+### What We Require
+
+* Active U.S. security clearance at the Top Secret level, or willingness to obtain or upgrade to a Top Secret clearance
+
+**Salary**
+
+The estimated salary range for this position is estimated to be $135,000- $200,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any potential sign-on bonus; the value of any benefits offered; and the potential future value of any long-term incentives.
+
+Our benefits aim to promote health and wellbeing across all areas of Palantirians’ lives. We work to continuously improve our offerings and listen to our community as we design and update them. The list below details our available benefits and some of the perks that can be enjoyed as an employee of Palantir Technologies.
+
+**Benefits**
+
+•  Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance
+
+•  Employees are automatically covered by Palantir’s basic life, AD&D and disability insurance
+
+•  Commuter benefits
+
+•  Relocation assistance
+
+•  Take what you need paid time off, not accrual based
+
+•  2 weeks paid time off built into the end of each year (subject to team and business needs)
+
+•  10 paid holidays throughout the calendar year
+
+•  Supportive leave of absence program including time off for military service and medical events
+
+•  Paid leave for new parents and subsidized back-up care for all parents
+
+•  Fertility and family building benefits including but not limited to adoption, surrogacy, and preservation
+
+•  Stipend to help with expenses that come with a new child
+
+•  Employees can enroll in Palantir’s 401k plan
+
+**Life at Palantir**
+
+We want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at [Life at Palantir](https://www.palantir.com/careers/life-at-palantir/) and note that our offerings may vary by region.
+
+In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.
+
+If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process*,* please [reach out](mailto:accommodations@palantir.com) and let us know how we can help.
+
+*Please note that you will never be asked to submit a payment or share financial information to participate in our interview process. If you suspect that you've been contacted by a scammer, we recommend you cease all communication with the individual and consider reporting them to the relevant authorities, such as the US [FBI Internet Crime Complaint Center (IC3)](https://www.ic3.gov/).*  
+  
+*If you would like to understand more about how your personal data will be processed by Palantir, please see our [Privacy Policy](https://www.palantir.com/privacy-and-security/candidate-privacy-notice/).*

@@ -1,0 +1,65 @@
+---
+title: Customer Success Manager, DFR Majors - Southeast
+status: active
+id: 3d4ac015-a6db-4a8d-9fec-557eb92eaf8d
+source: ashby
+url: https://jobs.ashbyhq.com/skydio/3d4ac015-a6db-4a8d-9fec-557eb92eaf8d
+lastmod: '2026-05-22T18:25:09.910+00:00'
+date: '2026-05-22T18:25:09.910+00:00'
+location: US Remote
+departments:
+- Operations
+- Professional Services and Training
+---
+
+Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from [utility inspectors](https://www.skydio.com/solutions/energy-and-utilities) to [first responders](https://www.skydio.com/solutions/public-safety), [soldiers in battlefield scenarios](https://www.skydio.com/solutions/national-security/tactical-isr), and [beyond](https://www.skydio.com/solutions).
+
+**About the Team:**
+
+The Customer Success team enables sales by winning the technical validation process, driving value to customers by seamlessly delivering services, and supporting customers with world class on-boarding and technical expertise. We are a rapidly growing team of passionate, mission driven UAS professionals, who sweat the details and ensure our customers are set up for success.
+
+**About the role:**
+
+We are looking for a motivated Customer Success Manager with a deep sense of ownership to lead and drive all aspects of implementation, usage, retention and expansion of our Public Safety customers. A successful candidate will become an indispensable bridge between our customers and Skydio’s extremely agile and world class technical teams. This role reports to the Manager, Customer Success (Public Safety, Major-Markets) and will work closely with our Product, Engineering, and Sales functions to deliver industry leading autonomous solutions that drive value to our customers.
+
+**Location:** This role is ideally suited for candidates based in the Southeast
+
+**How you’ll make an impact:**
+
+* Build scalable processes for customer on-boarding and post sales success
+* Track and manage all implementation projects with our large enterprise customers for successful delivery of technology and services.
+* Develops Healthy Customer Relationship through proactive support and cadence based follow ups
+* Quantifying product feedback and briefing executives to drive software and hardware engineering to better fit our customers needs
+* Create customer Loyalty through proactive support and account management
+* Advocate for Enterprise customers through deep understanding of their use cases and needs
+* Lead Quarterly Business Reviews and customer check-ins to ensure our existing customers are getting value from Skydio technology
+* Ensure expansions and renewals through proactive support.
+* Manage ~20x accounts driving adoption to ensure expansions and renewals of book of business.
+
+**What makes you a good fit:**
+
+* Strong knowledge or previous experience supporting customers in the SLED industries (Public Safety, Law Enforcement).
+* Proven track record of implementing new technology, driving adoption of hardware and software, and interfacing with technical teams to deliver on customer schedules.
+* Excellent communication skills, both written and verbal, and a strong focus on project management tools and concepts.
+* Experience with commercial Unmanned Aircraft Systems and related software development/deployment.
+* Work directly with customers through proactive, metrics based engagement.
+* Work closely with customers to ensure renewals, identifying accounts that are at risk not to renew.
+* Work closely with customers and sales to ensure expansion, identifying the vertical specific pain points that could prevent this expansion.
+
+**Requirements**
+
+* A strong desire to learn, innovate, and adapt to a growing and changing environment.
+* Willingness to travel approximately 40%.
+* Ability to obtain a Part 107 certificate.
+
+**Compensation:** At Skydio, our compensation packages for regular, full-time employees include competitive base salaries, equity in the form of stock options, and comprehensive benefits packages. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Relocation assistance may also be provided for eligible roles. The annual base salary range for this position is $120,000 - $160,000. Fundamentally, we believe that equity is the key to long-term financial growth, and we ensure all regular, full-time employees have the opportunity to significantly benefit from the company's success. Regular, full-time employees are eligible to enroll in the Company’s group health insurance plans. Regular, full-time employees are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.
+
+\*Compensation for certain positions may vary based on the position’s location
+
+#LI-WM1
+
+At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
+
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws.
+
+For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit <https://www.e-verify.gov/>

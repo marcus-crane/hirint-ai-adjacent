@@ -1,0 +1,57 @@
+---
+title: Manufacturing Engineer
+status: active
+id: 6abceabf-eaf9-4c2c-8238-673bbb12ad3d
+source: ashby
+url: https://jobs.ashbyhq.com/saronic/6abceabf-eaf9-4c2c-8238-673bbb12ad3d
+lastmod: '2026-04-14T22:02:47.981+00:00'
+date: '2026-04-14T22:02:47.981+00:00'
+location: Austin, TX
+departments:
+- Production
+- Manufacturing Engineering
+---
+
+Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.
+
+# **Job Overview**
+
+We are seeking a Manufacturing Engineer, specializing in production, to play a crucial role in the development and optimization of manufacturing processes for our autonomous surface vessels. You will work closely with cross-functional teams to ensure the efficient and cost-effective production of high-quality ASVs for the DoD.
+
+# **Responsibilities**
+
+* **Process Development:** Design, develop, and optimize manufacturing processes for the production of autonomous surface vessels. Implement lean manufacturing principles to improve efficiency and reduce waste in the production workflow
+* **Collaboration:** Work closely with design and engineering teams to ensure seamless integration of design specifications into the manufacturing process. Collaborate with suppliers and vendors to source and qualify materials necessary for production
+* **Quality Assurance:** Establish and implement quality control measures to ensure the highest standards of product quality. Conduct root cause analysis and implement corrective actions for any production issues
+* **Continuous Improvement:** Identify opportunities for continuous improvement in manufacturing processes and implement changes to enhance efficiency. Stay abreast of industry trends and emerging technologies to incorporate advancements into the manufacturing process
+* **Documentation and Compliance:** Create and maintain comprehensive documentation for manufacturing processes, ensuring compliance with industry regulations and standards. Work closely with regulatory bodies to ensure all manufacturing processes adhere to applicable standards
+* **Training and Support:** Provide training and support to production personnel to ensure proper execution of manufacturing processes. Troubleshoot and address any issues that may arise during the production process
+
+# **Qualifications**
+
+* Bachelor's degree in Mechanical Engineering, Manufacturing Engineering, or a related field. Master's degree is a plus
+* Proven experience in manufacturing engineering, particularly in the production of complex electromechanical systems
+* Familiarity with autonomous systems, robotics, or maritime technologies is highly desirable
+* Strong understanding of lean manufacturing principles and continuous improvement methodologies
+* Knowledge of industry standards and regulations related to autonomous maritime systems
+
+# **Benefits:**
+
+* **Medical Insurance:**Comprehensive health insurance plans covering a range of services
+* Saronic pays 100% of the premium for employees and 80% for dependents
+* **Dental and Vision Insurance:**Coverage for routine dental check-ups, orthodontics, and vision care
+* Saronic pays 100% of the premium under the basic plan for employees and 80% for dependents
+* **Time Off:**Generous PTO and Holidays
+* **Parental Leave:**Paid maternity and paternity leave to support new parents
+* **Competitive Salary:**Industry-standard salaries with opportunities for performance-based bonuses
+* **Retirement Plan:** 401(k) plan with company match
+* **Stock Options:** Equity options to give employees a stake in the company’s success
+* **Life and Disability Insurance:** Basic life insurance and short- and long-term disability coverage
+* **Pet Insurance:** Discounted pet insurance options including 24/7 Telehealth helpline
+* **Additional Perks:** Free lunch benefit and unlimited free drinks and snacks in the office
+
+[*Saronic CCPA Notice for Candidates and California Employees*](https://saronic-assets-public.s3.us-east-2.amazonaws.com/Saronic%20CCPA%20Notice%20for%20Candidates%20and%20California%20Employees.pdf)
+
+*This role requires access to export-controlled information or items that require “U.S. Person” status. As defined by U.S. law, individuals who are any one of the following are considered to be a “U.S. Person”: (1) U.S. citizens, (2) legal permanent residents (a.k.a. green card holders), and (3) certain protected classes of asylees and refugees, as defined in* [*8 U.S.C. 1324b(a)(3)*](https://www.govinfo.gov/link/uscode/8/1324b)*.*
+
+Saronic does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
