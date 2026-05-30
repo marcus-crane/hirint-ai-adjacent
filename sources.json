@@ -11,7 +11,7 @@
   {"adapter": "ashby", "board": "suno", "name": "Suno", "slug": "suno"},
   {"adapter": "ashby", "board": "poolside", "name": "Poolside", "slug": "poolside"},
   {"adapter": "ashby", "board": "reka", "name": "Reka", "slug": "reka"},
-  {"adapter": "ashby", "board": "runway", "name": "Runway", "slug": "runway"},
+  {"adapter": "ashby", "board": "runway-ml", "name": "Runway", "slug": "runway"},
   {"adapter": "ashby", "board": "contextual", "name": "Contextual AI", "slug": "contextual"},
   {"adapter": "feishu", "board": "zhipu-ai.jobs.feishu.cn", "name": "Zhipu AI", "slug": "zhipu"},
   {"adapter": "feishu", "board": "vrfi1sk8a0.jobs.feishu.cn", "name": "MiniMax", "slug": "minimax"},
