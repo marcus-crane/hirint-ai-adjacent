@@ -290,11 +290,39 @@ def fetch_moka(client: httpx.Client, board: str) -> list[Job]:
     return jobs
 
 
+def fetch_lever(client: httpx.Client, board: str) -> list[Job]:
+    data = get_json(client, f"https://api.lever.co/v0/postings/{board}?mode=json")
+    jobs = []
+    for j in data:
+        cats = j.get("categories") or {}
+        body_parts = [j.get("description", "")]
+        for lst in j.get("lists", []):
+            body_parts.append(f"<h3>{lst.get('text', '')}</h3><ul>{lst.get('content', '')}</ul>")
+        body_parts.append(j.get("additional", ""))
+        created = _ms_to_iso(j.get("createdAt"))
+        jobs.append(
+            Job(
+                id=str(j["id"]),
+                title=j["text"],
+                url=j.get("hostedUrl", ""),
+                source="lever",
+                location=cats.get("location"),
+                departments=[cats["team"]] if cats.get("team") else [],
+                offices=cats.get("allLocations") or [],
+                date=created,
+                lastmod=created,
+                body_html="".join(p for p in body_parts if p),
+            )
+        )
+    return jobs
+
+
 ADAPTERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
     "feishu": fetch_feishu,
     "moka": fetch_moka,
+    "lever": fetch_lever,
 }
 
 
