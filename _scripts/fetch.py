@@ -73,10 +73,12 @@ class Job:
             fm["date"] = self.date
         if self.location:
             fm["location"] = self.location
+        # Sort the list fields: sources return these in unstable order, which would
+        # otherwise manufacture diffs on re-fetch (a reshuffle isn't a real change).
         if self.departments:
-            fm["departments"] = self.departments
+            fm["departments"] = sorted(set(self.departments))
         if self.offices:
-            fm["offices"] = self.offices
+            fm["offices"] = sorted(set(self.offices))
         if self.compensation:
             fm["compensation"] = self.compensation
         return fm
