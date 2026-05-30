@@ -31,6 +31,7 @@ import html
 import json
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -107,6 +108,17 @@ def post_json(client: httpx.Client, url: str, *, headers: dict, json: dict, retr
     for attempt in range(retries):
         try:
             return client.post(url, headers=headers, json=json).raise_for_status().json()
+        except (httpx.TransportError, httpx.HTTPStatusError):
+            if attempt == retries - 1:
+                raise
+            time.sleep(2 * (attempt + 1))
+    raise AssertionError("unreachable")
+
+
+def post_form(client: httpx.Client, url: str, *, headers: dict, data: dict, retries: int = 3) -> dict:
+    for attempt in range(retries):
+        try:
+            return client.post(url, headers=headers, data=data).raise_for_status().json()
         except (httpx.TransportError, httpx.HTTPStatusError):
             if attempt == retries - 1:
                 raise
@@ -437,6 +449,76 @@ def fetch_dahua(client: httpx.Client, board: str) -> list[Job]:
     return list(jobs.values())
 
 
+def fetch_sensetime(client: httpx.Client, board: str) -> list[Job]:
+    # `board` is the Dayee/大易 org id, e.g. "SU60fa3bdabef57c1023fc1cbc".
+    # Form-urlencoded API under /wecruit/. The list lacks descriptions, so each job
+    # needs a detail call (workContent + serviceCondition) — fanned out in parallel.
+    org = board
+    api = "https://hr.sensetime.com/wecruit/positionInfo"
+    portal = f"https://hr.sensetime.com/{org}/pb/social.html"
+    headers = {
+        "User-Agent": BROWSER_UA,
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Origin": "https://hr.sensetime.com",
+        "Referer": portal,
+    }
+    client.get(portal, headers={"User-Agent": BROWSER_UA})  # seed SERVERID cookie
+
+    summaries: dict[str, tuple[dict, int]] = {}
+    for rt in (2, 1):  # 2 = social/社招, 1 = campus/校园
+        page, got = 1, 0
+        while True:
+            data = post_form(
+                client, f"{api}/listPosition/{org}?request_locale=zh_CN", headers=headers,
+                data={"isFrompb": "true", "recruitType": rt, "pageSize": 50, "currentPage": page},
+            ).get("data") or {}
+            posts = (data.get("pageForm") or {}).get("pageData") or []
+            for j in posts:
+                summaries.setdefault(str(j["postId"]), (j, rt))
+            got += len(posts)
+            page += 1
+            if not posts or got >= (data.get("positonNum") or 0):
+                break
+
+    def detail(item: tuple[str, tuple[dict, int]]) -> tuple[str, dict]:
+        post_id, (_, rt) = item
+        try:
+            d = post_form(
+                client, f"{api}/listPositionDetail/{org}?request_locale=zh_CN", headers=headers,
+                data={"postId": post_id, "recruitType": rt},
+            ).get("data") or {}
+            return post_id, d
+        except httpx.HTTPError:
+            return post_id, {}
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        details = dict(pool.map(detail, summaries.items()))
+
+    jobs = []
+    for post_id, (s, _) in summaries.items():
+        d = details.get(post_id) or {}
+        body_html = (
+            f"<h2>工作内容</h2>{_text_to_html(d.get('workContent'))}"
+            f"<h2>任职要求</h2>{_text_to_html(d.get('serviceCondition'))}"
+        )
+        published = (s.get("publishDate") or "").replace(" ", "T") or None
+        jobs.append(
+            Job(
+                id=post_id,
+                title=s["postName"],
+                url=f"https://hr.sensetime.com/{org}/pb/posDetail.html?postId={post_id}&postType=society",
+                source="sensetime",
+                location=s.get("workPlaceStr"),
+                departments=[s["department"]] if s.get("department") else [],
+                date=published,
+                lastmod=published,
+                body_html=body_html,
+            )
+        )
+    return jobs
+
+
 ADAPTERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
@@ -446,6 +528,7 @@ ADAPTERS = {
     "beisen": fetch_beisen,
     "unitree": fetch_unitree,
     "dahua": fetch_dahua,
+    "sensetime": fetch_sensetime,
 }
 
 
