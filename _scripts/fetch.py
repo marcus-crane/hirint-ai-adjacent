@@ -92,10 +92,10 @@ def slugify(name: str) -> str:
 
 # --- adapters ---------------------------------------------------------------
 
-def get_json(client: httpx.Client, url: str, retries: int = 3) -> dict:
+def get_json(client: httpx.Client, url: str, *, headers: dict | None = None, retries: int = 3) -> dict:
     for attempt in range(retries):
         try:
-            return client.get(url).raise_for_status().json()
+            return client.get(url, headers=headers).raise_for_status().json()
         except (httpx.TransportError, httpx.HTTPStatusError):
             if attempt == retries - 1:
                 raise
@@ -323,12 +323,129 @@ def fetch_lever(client: httpx.Client, board: str) -> list[Job]:
     return jobs
 
 
+def fetch_beisen(client: httpx.Client, board: str) -> list[Job]:
+    # `board` is the tenant subdomain host, e.g. "iflytek.zhiye.com" (Beisen/北森 portal).
+    # The tenant is resolved from the host, so no PageId is needed; the list response
+    # already carries Duty/Require (full text), so no per-job detail call.
+    origin = f"https://{board}"
+    headers = {
+        "User-Agent": BROWSER_UA,
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "X-Requested-With": "xmlhttprequest",
+        "langType": "zh_CN",
+        "Referer": f"{origin}/social/jobs",
+        "Origin": origin,
+    }
+    jobs: dict[str, Job] = {}
+    for cat in ("1", "2"):  # 1 = social/社招, 2 = campus/校园
+        index, size = 0, 50
+        while True:
+            body = {"Category": [cat], "PageIndex": index, "PageSize": size, "langType": "zh_CN"}
+            data = post_json(client, f"{origin}/api/Jobad/GetJobAdPageList", headers=headers, json=body)
+            posts = data.get("Data") or []
+            for j in posts:
+                jid = str(j["Id"])
+                if jid in jobs:
+                    continue
+                cls = j.get("ClassificationOne")
+                body_html = (
+                    f"<h2>职位描述</h2>{_text_to_html(j.get('Duty'))}"
+                    f"<h2>任职要求</h2>{_text_to_html(j.get('Require'))}"
+                )
+                # PostDate is usually the null sentinel "0001-...", ChangeDate carries the real value.
+                def _dt(v: str | None) -> str | None:
+                    return v if v and not v.startswith("0001") else None
+                changed, posted = _dt(j.get("ChangeDate")), _dt(j.get("PostDate"))
+                locs = j.get("LocNames") or []
+                jobs[jid] = Job(
+                    id=jid,
+                    title=j["JobAdName"],
+                    url=f"{origin}/jobs/{jid}",
+                    source="beisen",
+                    location=", ".join(locs) or None,
+                    departments=[cls] if isinstance(cls, str) and cls else [],
+                    offices=locs,
+                    date=posted or changed,
+                    lastmod=changed or posted,
+                    body_html=body_html,
+                )
+            index += 1
+            if len(posts) < size:
+                break
+    return list(jobs.values())
+
+
+def fetch_unitree(client: httpx.Client, board: str) -> list[Job]:
+    # Unitree's own first-party API (board arg unused; single endpoint). Full text in the list.
+    origin = "https://www.unitree.com"
+    headers = {"User-Agent": BROWSER_UA, "Origin": origin, "Referer": origin + "/"}
+    data = get_json(client, "https://api.unitree.com/website/job/list?perPage=500", headers=headers)
+    jobs = []
+    for j in data.get("data", {}).get("items", []):
+        jid = str(j["id"])
+        body_html = f"<h2>岗位职责</h2>{_text_to_html(j.get('duty'))}<h2>任职要求</h2>{_text_to_html(j.get('ability'))}"
+        jobs.append(
+            Job(
+                id=jid,
+                title=j["title"],
+                url=f"{origin}/cn/position/{jid}",
+                source="unitree",
+                location=j.get("cityId"),
+                departments=[j["categoryId"]] if j.get("categoryId") else [],
+                body_html=body_html,
+            )
+        )
+    return jobs
+
+
+def fetch_dahua(client: httpx.Client, board: str) -> list[Job]:
+    # Dahua's Zhiye/智业 ATS (board arg unused). recruitType 1 and 2 cover campus + social;
+    # the list response carries duty + require, so no per-job detail call.
+    url = "https://job.dahuatech.com/talent-pool/api/bs-info/list-position-by-search"
+    headers = {
+        "User-Agent": BROWSER_UA,
+        "Content-Type": "application/json",
+        "syscode": "Recruit",
+        "Referer": "https://job.dahuatech.com/",
+        "Origin": "https://job.dahuatech.com",
+    }
+    # Dahua ignores pageNum/pageSize and returns the full set per recruitType in one call.
+    jobs: dict[str, Job] = {}
+    for recruit_type in (1, 2):
+        data = post_json(client, url, headers=headers, json={"pageNum": 1, "pageSize": 1000, "recruitType": recruit_type})
+        for j in data.get("data") or []:
+            jid = str(j["jobAdId"])
+            if jid in jobs:
+                continue
+            body_html = (
+                f"<h2>职位描述</h2>{_text_to_html(j.get('duty'))}"
+                f"<h2>任职要求</h2>{_text_to_html(j.get('require') or j.get('requirements'))}"
+            )
+            posted = j.get("postDate") or None
+            jobs[jid] = Job(
+                id=jid,
+                title=j.get("jobAdName") or j.get("jobTitle"),
+                url=f"https://job.dahuatech.com/post/{jid}",
+                source="dahua",
+                location=j.get("workingPlace"),
+                departments=[j["jobCategroyDescription"]] if j.get("jobCategroyDescription") else [],
+                date=posted,
+                lastmod=posted,
+                body_html=body_html,
+            )
+    return list(jobs.values())
+
+
 ADAPTERS = {
     "greenhouse": fetch_greenhouse,
     "ashby": fetch_ashby,
     "feishu": fetch_feishu,
     "moka": fetch_moka,
     "lever": fetch_lever,
+    "beisen": fetch_beisen,
+    "unitree": fetch_unitree,
+    "dahua": fetch_dahua,
 }
 
 
