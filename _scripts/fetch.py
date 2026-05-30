@@ -244,12 +244,18 @@ def fetch_moka(client: httpx.Client, board: str) -> list[Job]:
     # Moka returns the job list AES-encrypted: body is {"data": <base64>, "necromancer": <key>}.
     # AES-128-CBC/PKCS7, key = necromancer (per response), IV = the page's bootstrap `aesIv` (static).
     org, site_id = board.split("/")
-    page_url = f"https://app.mokahr.com/social-recruitment/{org}/{site_id}"
-    page = html.unescape(client.get(page_url, headers={"User-Agent": BROWSER_UA}).text)
-    m = re.search(r'"aesIv"\s*:\s*"([^"]+)"', page)
-    if not m:
-        raise RuntimeError(f"moka: aesIv not found in page for {org}")
-    iv = m.group(1).encode()
+    # The aesIv is tenant-level but only rendered on a real board page, and the path
+    # prefix varies by recruitment type (social/campus/intern), so try the known ones.
+    iv = page_url = None
+    for prefix in ("social-recruitment", "apply", "campus-recruitment", "campus_apply", "school"):
+        page_url = f"https://app.mokahr.com/{prefix}/{org}/{site_id}"
+        page = html.unescape(client.get(page_url, headers={"User-Agent": BROWSER_UA}).text)
+        m = re.search(r'"aesIv"\s*:\s*"([0-9a-f]{16})"', page)
+        if m:
+            iv = m.group(1).encode()
+            break
+    if not iv:
+        raise RuntimeError(f"moka: aesIv not found for {org}/{site_id}")
 
     headers = {
         "User-Agent": BROWSER_UA,
