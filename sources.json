@@ -47,5 +47,15 @@
   {"adapter": "greenhouse", "board": "epirus", "name": "Epirus", "slug": "epirus"},
   {"adapter": "greenhouse", "board": "babelstreet", "name": "Babel Street", "slug": "babel-street"},
   {"adapter": "ashby", "board": "flock", "name": "Flock Safety", "slug": "flock"},
-  {"adapter": "greenhouse", "board": "scaleai", "name": "Scale AI", "slug": "scale"}
+  {"adapter": "greenhouse", "board": "scaleai", "name": "Scale AI", "slug": "scale"},
+  {"adapter": "feishu", "board": "agirobot.jobs.feishu.cn", "name": "AgiBot", "slug": "agibot"},
+  {"adapter": "feishu", "board": "modelbest.jobs.feishu.cn", "name": "ModelBest", "slug": "modelbest"},
+  {"adapter": "feishu", "board": "owm6ymi5v9b.jobs.feishu.cn", "name": "Galbot", "slug": "galbot"},
+  {"adapter": "feishu", "board": "mthreads.jobs.feishu.cn", "name": "Moore Threads", "slug": "moore-threads"},
+  {"adapter": "feishu", "board": "moonshot.jobs.feishu.cn", "name": "Moonshot AI", "slug": "moonshot"},
+  {"adapter": "moka", "board": "cambricon/1113", "name": "Cambricon", "slug": "cambricon"},
+  {"adapter": "moka", "board": "biren/44726", "name": "Biren", "slug": "biren"},
+  {"adapter": "moka", "board": "yitu-inc/3701", "name": "Yitu", "slug": "yitu"},
+  {"adapter": "moka", "board": "fftai/147078", "name": "Fourier Intelligence", "slug": "fourier"},
+  {"adapter": "moka", "board": "megviihr/38642", "name": "Megvii", "slug": "megvii"}
 ]
