@@ -53,7 +53,7 @@
   {"adapter": "feishu", "board": "owm6ymi5v9b.jobs.feishu.cn", "name": "Galbot", "slug": "galbot"},
   {"adapter": "beisen", "board": "mthreads.zhiye.com", "name": "Moore Threads", "slug": "moore-threads"},
   {"adapter": "beisen", "board": "iflytek.zhiye.com", "name": "iFlytek", "slug": "iflytek"},
-  {"adapter": "moka", "board": "cloudwalk/4872", "name": "CloudWalk", "slug": "cloudwalk"},
+  {"adapter": "moka", "board": "cloudwalk/4871", "name": "CloudWalk", "slug": "cloudwalk"},
   {"adapter": "unitree", "board": "unitree", "name": "Unitree", "slug": "unitree"},
   {"adapter": "dahua", "board": "dahua", "name": "Dahua", "slug": "dahua"},
   {"adapter": "sensetime", "board": "SU60fa3bdabef57c1023fc1cbc", "name": "SenseTime", "slug": "sensetime"},
@@ -62,5 +62,5 @@
   {"adapter": "moka", "board": "biren/44726", "name": "Biren", "slug": "biren"},
   {"adapter": "moka", "board": "yitu-inc/3701", "name": "Yitu", "slug": "yitu"},
   {"adapter": "moka", "board": "fftai/147078", "name": "Fourier Intelligence", "slug": "fourier"},
-  {"adapter": "moka", "board": "megviihr/38642", "name": "Megvii", "slug": "megvii"}
+  {"adapter": "moka", "board": "megviihr/38641", "name": "Megvii", "slug": "megvii"}
 ]
