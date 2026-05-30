@@ -1,0 +1,41 @@
+name: fetch
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours (UTC: 00:00, 06:00, 12:00, 18:00)
+  workflow_dispatch: {}      # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+# Never let two runs commit on top of each other.
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Fetch postings
+        # Per-source errors are isolated inside the script, so a blocked/flaky
+        # board skips itself rather than failing the whole run.
+        run: uv run _scripts/fetch.py
+
+      - name: Commit any changes
+        run: |
+          git config user.name "hirint-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          git add -A
+          git commit -m "Scheduled fetch: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push
