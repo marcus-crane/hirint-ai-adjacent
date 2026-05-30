@@ -1,0 +1,70 @@
+---
+title: Developer Experience Engineer
+status: active
+id: bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6
+source: ashby
+url: https://jobs.ashbyhq.com/openai/bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6
+lastmod: '2025-06-18T01:53:23.432+00:00'
+date: '2025-06-18T01:53:23.432+00:00'
+location: San Francisco
+departments:
+- Go To Market
+- Developer Experience
+compensation: $198K – $335K • Offers Equity
+---
+
+**About the Team**
+
+The Developer Experience team at OpenAI has a singular focus: empowering developers globally. Our mission is to provide every developer and startup on the planet with the most delightful and seamless experience to integrate AI into their applications and products. We ensure developers have the tools, resources, and support they need to unlock AI’s full potential.
+
+We create inspiring demos, developer tools, sample applications, and technical content that show developers how to build with Codex and frontier models like GPT-5.5 and GPT-Image-2 to create powerful agents and AI-native applications.
+
+We collaborate closely with product, engineering, research, and GTM teams to ensure the developer journey, from onboarding with Codex to first API call to production deployment, is seamless, effective, and delightful.
+
+**About the Role**
+
+As a Developer Experience Engineer, you will create compelling technical content, developer tools, and sample applications designed to inspire developers and enable them to succeed with Codex and OpenAI’s APIs and products for developers.
+
+You will engage with developers and technical founders, demonstrating best practices and building innovative applications powered by frontier models, multimodal capabilities, and tools like Codex.
+
+We’re looking for people who combine strong technical skills, creativity, and a passion for engaging with and empowering developers.
+
+**In this role, you will:**
+
+* Develop demos and sample applications that showcase best practices for building with Codex, frontier models, multimodal capabilities, and agents.
+* Create high-quality technical content—including tutorials, blog posts, videos, and code samples—to educate and inspire the developer community about our models, APIs, and Codex.
+* Actively engage with and foster a vibrant local and global developer ecosystem around OpenAI’s platform and products.
+* Represent OpenAI at developer events and online, serving as a knowledgeable and approachable advocate for developers.
+* Gather and synthesize developer feedback to inform and improve our product roadmap.
+* Collaborate cross-functionally with product, engineering, and marketing teams to drive adoption and success across OpenAI’s developer products, including Codex and our APIs.
+* Contribute directly to improving and refining OpenAI’s developer products, interfaces, and surfaces.
+* Own challenges end-to-end, proactively closing gaps and developing new skills to solve complex problems.
+
+**You might thrive in this role if you:**
+
+* Are passionate about crafting exceptional developer experiences and creating inspirational technical content and projects.
+* Bring a robust full-stack engineering background with demonstrated experience building innovative applications using AI and large language models (LLMs).
+* Have strong user empathy and care deeply about delivering experiences developers truly appreciate.
+* Have a proven track record of successfully creating engaging technical content, compelling demos, or innovative developer tooling that accelerates technology adoption.
+* Find joy in coding, continuously shipping high-quality, impactful software.
+* Excel in dynamic environments characterized by rapidly evolving priorities, ambiguity, and competing deadlines.
+* Are an exceptional collaborator who thrives working cross-functionally and enjoys partnering with diverse teams.
+* Maintain a genuine commitment to AI ethics and safety, strongly aligning with OpenAI's responsible AI development principles.
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+For additional information, please see [OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement](https://cdn.openai.com/policies/eeo-policy-statement.pdf).
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through [this form](https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA). No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this [link](https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241).
+
+[OpenAI Global Applicant Privacy Policy](https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf)
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.

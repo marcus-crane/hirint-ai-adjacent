@@ -1,0 +1,22 @@
+[
+  {"adapter": "greenhouse", "board": "anthropic", "name": "Anthropic"},
+  {"adapter": "ashby", "board": "openai", "name": "OpenAI"},
+  {"adapter": "greenhouse", "board": "xai", "name": "xAI", "slug": "xai"},
+  {"adapter": "greenhouse", "board": "togetherai", "name": "Together AI", "slug": "together"},
+  {"adapter": "greenhouse", "board": "blackforestlabs", "name": "Black Forest Labs", "slug": "blackforestlabs"},
+  {"adapter": "greenhouse", "board": "magic", "name": "Magic", "slug": "magic"},
+  {"adapter": "ashby", "board": "elevenlabs", "name": "ElevenLabs", "slug": "elevenlabs"},
+  {"adapter": "ashby", "board": "cohere", "name": "Cohere", "slug": "cohere"},
+  {"adapter": "ashby", "board": "writer", "name": "Writer", "slug": "writer"},
+  {"adapter": "ashby", "board": "suno", "name": "Suno", "slug": "suno"},
+  {"adapter": "ashby", "board": "poolside", "name": "Poolside", "slug": "poolside"},
+  {"adapter": "ashby", "board": "reka", "name": "Reka", "slug": "reka"},
+  {"adapter": "ashby", "board": "runway", "name": "Runway", "slug": "runway"},
+  {"adapter": "ashby", "board": "contextual", "name": "Contextual AI", "slug": "contextual"},
+  {"adapter": "feishu", "board": "zhipu-ai.jobs.feishu.cn", "name": "Zhipu AI", "slug": "zhipu"},
+  {"adapter": "feishu", "board": "vrfi1sk8a0.jobs.feishu.cn", "name": "MiniMax", "slug": "minimax"},
+  {"adapter": "feishu", "board": "01ai.jobs.feishu.cn", "name": "01.AI", "slug": "01ai"},
+  {"adapter": "feishu", "board": "cq6qe6bvfr6.jobs.feishu.cn", "name": "Baichuan", "slug": "baichuan"},
+  {"adapter": "moka", "board": "high-flyer/140576", "name": "DeepSeek", "slug": "deepseek"},
+  {"adapter": "moka", "board": "step/94904", "name": "StepFun", "slug": "stepfun"}
+]
