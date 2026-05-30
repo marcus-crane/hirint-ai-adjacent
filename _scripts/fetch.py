@@ -622,6 +622,7 @@ def sync_org(slug: str, jobs: list[Job], out: Path) -> str:
     active.mkdir(parents=True, exist_ok=True)
     archived.mkdir(parents=True, exist_ok=True)
 
+    prior = len(list(active.glob("*.md")))  # known-good size before this fetch
     live_ids = {j.id for j in jobs}
     stats = {"new": 0, "updated": 0, "unchanged": 0, "reactivated": 0, "archived": 0}
 
@@ -633,16 +634,24 @@ def sync_org(slug: str, jobs: list[Job], out: Path) -> str:
             stats["reactivated"] += 1
         stats[write_if_changed(path, job.to_markdown())] += 1
 
-    for f in active.glob("*.md"):
-        if f.stem not in live_ids:
-            archive_file(f, archived / f.name)
-            stats["archived"] += 1
+    # Guard against partial/flaky fetches: if the live set collapses to under half of
+    # what we already had, it's far more likely a bad fetch (truncated page, 200-wrapped
+    # error, cache miss) than a real mass-removal — skip archiving and keep last-known-good.
+    suspect = prior > 10 and len(jobs) < prior * 0.5
+    if not suspect:
+        for f in active.glob("*.md"):
+            if f.stem not in live_ids:
+                archive_file(f, archived / f.name)
+                stats["archived"] += 1
 
-    return (
+    line = (
         f"  {slug}: {len(jobs)} live "
         f"(+{stats['new']} new, ~{stats['updated']} updated, ={stats['unchanged']} same, "
         f"↩{stats['reactivated']} reactivated, →{stats['archived']} archived)"
     )
+    if suspect:
+        line += f"  ⚠ archive skipped (suspect: {len(jobs)} live vs {prior} prior)"
+    return line
 
 
 def run_source(client: httpx.Client, src: dict, out: Path) -> str:
