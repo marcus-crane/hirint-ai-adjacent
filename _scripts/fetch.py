@@ -103,6 +103,17 @@ def get_json(client: httpx.Client, url: str, retries: int = 3) -> dict:
     raise AssertionError("unreachable")
 
 
+def post_json(client: httpx.Client, url: str, *, headers: dict, json: dict, retries: int = 3) -> dict:
+    for attempt in range(retries):
+        try:
+            return client.post(url, headers=headers, json=json).raise_for_status().json()
+        except (httpx.TransportError, httpx.HTTPStatusError):
+            if attempt == retries - 1:
+                raise
+            time.sleep(2 * (attempt + 1))
+    raise AssertionError("unreachable")
+
+
 def fetch_greenhouse(client: httpx.Client, board: str) -> list[Job]:
     # Greenhouse returns the `content` field HTML-entity-escaped.
     url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs?content=true"
@@ -184,8 +195,8 @@ def fetch_feishu(client: httpx.Client, board: str) -> list[Job]:
     offset, limit = 0, 50
     while True:
         body = {"offset": offset, "limit": limit}
-        resp = client.post(f"{origin}/api/v1/search/job/posts", headers=headers, json=body).raise_for_status()
-        data = resp.json().get("data", {})
+        resp = post_json(client, f"{origin}/api/v1/search/job/posts", headers=headers, json=body)
+        data = resp.get("data", {})
         posts = data.get("job_post_list") or []
         for j in posts:
             jid = str(j["id"])
@@ -251,9 +262,9 @@ def fetch_moka(client: httpx.Client, board: str) -> list[Job]:
     offset, limit = 0, 50
     while True:
         body = {"orgId": org, "siteId": int(site_id), "locale": "zh-CN", "offset": offset, "limit": limit}
-        resp = client.post(
-            "https://app.mokahr.com/api/outer/ats-apply/website/jobs/v2", headers=headers, json=body
-        ).raise_for_status().json()
+        resp = post_json(
+            client, "https://app.mokahr.com/api/outer/ats-apply/website/jobs/v2", headers=headers, json=body
+        )
         key = resp["necromancer"].encode()
         plain = unpad(AES.new(key, AES.MODE_CBC, iv).decrypt(base64.b64decode(resp["data"])), 16)
         posts = (json.loads(plain).get("data") or {}).get("jobs") or []
