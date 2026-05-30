@@ -10,10 +10,10 @@ location: Toronto
 departments:
 - Inference
 offices:
-- San Francisco
 - London
-- New York
 - Montreal
+- New York
+- San Francisco
 ---
 
 **Who are we?**

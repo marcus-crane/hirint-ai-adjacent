@@ -11,10 +11,10 @@ departments:
 - Engineering & Product
 - Enterprise - Deployment
 offices:
-- New York
-- India
 - Brazil
 - France
+- India
+- New York
 ---
 
 ## About ElevenLabs

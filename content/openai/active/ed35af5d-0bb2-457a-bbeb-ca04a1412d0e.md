@@ -8,8 +8,8 @@ lastmod: '2025-08-27T19:18:37.491+00:00'
 date: '2025-08-27T19:18:37.491+00:00'
 location: Tokyo, Japan
 departments:
-- Go To Market
 - AI Success
+- Go To Market
 ---
 
 **About the Team**

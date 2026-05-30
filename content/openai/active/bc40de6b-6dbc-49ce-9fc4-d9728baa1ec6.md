@@ -8,8 +8,8 @@ lastmod: '2025-06-18T01:53:23.432+00:00'
 date: '2025-06-18T01:53:23.432+00:00'
 location: San Francisco
 departments:
-- Go To Market
 - Developer Experience
+- Go To Market
 compensation: $198K – $335K • Offers Equity
 ---
 

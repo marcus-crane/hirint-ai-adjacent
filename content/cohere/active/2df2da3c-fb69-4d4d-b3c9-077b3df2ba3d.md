@@ -10,10 +10,10 @@ location: Toronto
 departments:
 - Modeling
 offices:
-- New York
 - London
-- Paris
 - Montreal
+- New York
+- Paris
 ---
 
 **Who are we?**

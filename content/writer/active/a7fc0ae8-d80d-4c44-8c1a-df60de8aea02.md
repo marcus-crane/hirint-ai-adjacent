@@ -8,8 +8,8 @@ lastmod: '2026-04-13T22:16:37.161+00:00'
 date: '2026-04-13T22:16:37.161+00:00'
 location: New York City, NY
 departments:
-- Delivery & customer success
 - Customer success
+- Delivery & customer success
 compensation: $173.5K – $219.5K • Offers Equity • Offers Commission
 ---
 

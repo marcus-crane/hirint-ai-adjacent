@@ -10,20 +10,20 @@ location: United Kingdom
 departments:
 - Engineering & Product
 offices:
-- New York
-- Dublin
-- Warsaw
 - Amsterdam
 - Boston
-- Washington, D.C.
+- Bulgaria
+- Dublin
+- Ireland
+- London
 - Los Angeles
 - Netherlands
+- New York
 - Portugal
-- Sweden
 - Sofia
-- London
-- Bulgaria
-- Ireland
+- Sweden
+- Warsaw
+- Washington, D.C.
 ---
 
 ## About ElevenLabs

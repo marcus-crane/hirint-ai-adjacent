@@ -8,8 +8,8 @@ lastmod: '2026-04-20T19:33:18.325+00:00'
 date: '2026-04-20T19:33:18.325+00:00'
 location: San Francisco
 departments:
-- Scaling
 - Hardware
+- Scaling
 offices:
 - Seattle
 compensation: $266K – $445K • Offers Equity

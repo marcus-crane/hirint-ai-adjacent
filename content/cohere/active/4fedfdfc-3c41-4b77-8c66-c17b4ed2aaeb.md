@@ -11,10 +11,10 @@ departments:
 - Revenue
 - Solutions Architecture
 offices:
+- Chicago
+- Montreal
 - New York
 - Toronto
-- Montreal
-- Chicago
 ---
 
 **Who are we?**

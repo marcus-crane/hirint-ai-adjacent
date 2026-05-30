@@ -8,15 +8,15 @@ lastmod: '2026-04-08T12:50:59.314+00:00'
 date: '2026-04-08T12:50:59.314+00:00'
 location: Japan
 departments:
-- Operations
 - Customer Support
+- Operations
 offices:
-- Brazil
 - Australia
+- Brazil
 - Canada
+- India
 - Korea
 - Philippines
-- India
 - Singapore
 - United States
 ---

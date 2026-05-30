@@ -10,8 +10,8 @@ location: Dallas, Texas
 departments:
 - X-BAT Engineering - Mechanical
 offices:
-- Dallas, Texas
 - Boston, MA
+- Dallas, Texas
 - San Diego, California
 ---
 
