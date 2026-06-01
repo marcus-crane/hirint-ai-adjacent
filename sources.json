@@ -56,7 +56,7 @@
   {"adapter": "moka", "board": "cloudwalk/4871", "name": "CloudWalk", "slug": "cloudwalk"},
   {"adapter": "unitree", "board": "unitree", "name": "Unitree", "slug": "unitree"},
   {"adapter": "dahua", "board": "dahua", "name": "Dahua", "slug": "dahua"},
-  {"adapter": "sensetime", "board": "SU60fa3bdabef57c1023fc1cbc", "name": "SenseTime", "slug": "sensetime"},
+  {"adapter": "sensetime", "board": "SU60fa3bdabef57c1023fc1cbc", "name": "SenseTime", "slug": "sensetime", "archive": false},
   {"adapter": "hikvision", "board": "hikvision", "name": "Hikvision", "slug": "hikvision"},
   {"adapter": "feishu", "board": "moonshot.jobs.feishu.cn", "name": "Moonshot AI", "slug": "moonshot"},
   {"adapter": "moka", "board": "cambricon/1113", "name": "Cambricon", "slug": "cambricon"},
