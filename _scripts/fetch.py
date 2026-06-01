@@ -616,7 +616,7 @@ def archive_file(src: Path, dst: Path) -> None:
     src.unlink()
 
 
-def sync_org(slug: str, jobs: list[Job], out: Path) -> str:
+def sync_org(slug: str, jobs: list[Job], out: Path, archive: bool = True) -> str:
     active = out / slug / "active"
     archived = out / slug / "archived"
     active.mkdir(parents=True, exist_ok=True)
@@ -634,11 +634,12 @@ def sync_org(slug: str, jobs: list[Job], out: Path) -> str:
             stats["reactivated"] += 1
         stats[write_if_changed(path, job.to_markdown())] += 1
 
-    # Guard against partial/flaky fetches: if the live set collapses to under half of
-    # what we already had, it's far more likely a bad fetch (truncated page, 200-wrapped
-    # error, cache miss) than a real mass-removal — skip archiving and keep last-known-good.
+    # `archive: false` sources (e.g. SenseTime, whose list omits live roles and whose
+    # detail never 404s) are add-only — list-absence isn't a reliable removal signal there.
+    # Otherwise: guard against flaky fetches — if the live set collapses to under half of
+    # what we had, it's likelier a bad fetch than a real mass-removal, so skip archiving.
     suspect = prior > 10 and len(jobs) < prior * 0.5
-    if not suspect:
+    if archive and not suspect:
         for f in active.glob("*.md"):
             if f.stem not in live_ids:
                 archive_file(f, archived / f.name)
@@ -649,7 +650,9 @@ def sync_org(slug: str, jobs: list[Job], out: Path) -> str:
         f"(+{stats['new']} new, ~{stats['updated']} updated, ={stats['unchanged']} same, "
         f"↩{stats['reactivated']} reactivated, →{stats['archived']} archived)"
     )
-    if suspect:
+    if not archive:
+        line += "  (add-only)"
+    elif suspect:
         line += f"  ⚠ archive skipped (suspect: {len(jobs)} live vs {prior} prior)"
     return line
 
@@ -661,7 +664,7 @@ def run_source(client: httpx.Client, src: dict, out: Path) -> str:
         return f"  {slug}: no adapter for {src['adapter']!r}, skipping"
     try:
         jobs = fetch(client, src["board"])
-        return sync_org(slug, jobs, out)
+        return sync_org(slug, jobs, out, archive=src.get("archive", True))
     except Exception as e:  # isolate per source — one bad board never aborts the run
         return f"  {slug}: failed ({type(e).__name__}: {e}), skipping"
 
