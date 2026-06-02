@@ -1,6 +1,6 @@
 ---
 title: 海康消防-技术支持工程师-杭州
-status: active
+status: archived
 id: 1CABDAABED5EE1271FCF29AB1AAFDF2F
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=1CABDAABED5EE1271FCF29AB1AAFDF2F
