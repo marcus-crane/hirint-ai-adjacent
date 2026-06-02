@@ -1,5 +1,5 @@
 ---
-title: Member of Technical Staff, Synthetic Data
+title: Senior Member of Technical Staff, Synthetic Data
 status: active
 id: 2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d
 source: ashby
@@ -28,13 +28,13 @@ Join us on our mission and shape the future!
 
 **Why this role?**
 
-As a Machine Learning Engineer specializing in synthetic data, you will play a pivotal role in developing the synthetic data pipeline that is crucial to Cohere’s advanced language models. Your responsibilities will encompass the end-to-end management of synthetic data, including maintaining and optimizing the synthetic data pipeline, data analysis and generation, as well as conducting data ablations and model evaluation to gauge data quality. You will work with diverse web data and code data and transform them using generative models to improve token efficiency and model quality. By combining research and engineering, you will bridge the gap between raw data and cutting-edge AI models, directly contributing to improvements in critical training metrics like throughput and accelerator utilization.
+As a Senior Machine Learning Engineer specializing in synthetic data, you will play a pivotal role in developing the synthetic data pipeline that is crucial to Cohere’s advanced language models. Your responsibilities will encompass the end-to-end management of synthetic data, including maintaining and optimizing the synthetic data pipeline, data analysis and generation, as well as conducting data ablations and model evaluation to gauge data quality. You will work with diverse web data and code data and transform them using generative models to improve token efficiency and model quality. By combining research and engineering, you will bridge the gap between raw data and cutting-edge AI models, directly contributing to improvements in critical training metrics like throughput and accelerator utilization.
 
 Your work will be essential to Cohere’s mission of delivering efficient and reliable language understanding and generation capabilities, driving innovation in natural language processing. If you are passionate about transforming data into the foundation of AI systems, this role offers a unique opportunity to make a meaningful impact.
 
 *Please Note: We have offices in London, Paris, Toronto, San Francisco and New York but also embrace being remote-friendly! There are no restrictions on where you can be located for this role between EST and EU*
 
-**As a Member of Technical Staff, Synthetic Data, you will:**
+**As a Senior Member of Technical Staff, Synthetic Data, you will:**
 
 * Design and build scalable inference pipelines that run on large GPU clusters.
 * Conduct data ablations to assess data quality and experiment with data mixtures to enhance model performance.
