@@ -25,40 +25,40 @@ This role sits close to the founders and works cross-functionally with research,
 
 **In This Role You Will**
 
--Own and execute cross-functional projects with high ambiguity and real business impact.
+- Own and execute cross-functional projects with high ambiguity and real business impact.
 
--Drive data, compute, and infrastructure partnerships, from sourcing through negotiation and management.
+- Drive data, compute, and infrastructure partnerships, from sourcing through negotiation and management.
 
--Plug into deployment efforts: sourcing opportunities, structuring contracts, pricing, and operational setup.
+- Plug into deployment efforts: sourcing opportunities, structuring contracts, pricing, and operational setup.
 
--Assist with and drive internal scaling initiatives such as office expansion, international operations, and company planning.
+- Assist with and drive internal scaling initiatives such as office expansion, international operations, and company planning.
 
--Support investor, board, and external communications including decks, analyses, and prep.
+- Support investor, board, and external communications including decks, analyses, and prep.
 
--Act as an execution arm for founders and leaders, translating priorities into outcomes.
+- Act as an execution arm for founders and leaders, translating priorities into outcomes.
 
 **What We Hope You’ll Bring**
 
--Strong analytical and strategic instincts with a bias toward action.
+- Strong analytical and strategic instincts with a bias toward action.
 
--Comfort operating independently in ambiguous environments.
+- Comfort operating independently in ambiguous environments.
 
--Commercial mindset and basic financial fluency (contracts, pricing, tradeoffs).
+- Commercial mindset and basic financial fluency (contracts, pricing, tradeoffs).
 
--Exceptional written and verbal communication.
+- Exceptional written and verbal communication.
 
--Willingness to do anything, paired with strong prioritization instincts and comfort pushing back when work is low-leverage.
+- Willingness to do anything, paired with strong prioritization instincts and comfort pushing back when work is low-leverage.
 
--Strong π-fit: respect for research and engineering culture, curiosity, and intellectual humility.
+- Strong π-fit: respect for research and engineering culture, curiosity, and intellectual humility.
 
 **Bonus Points If You Have**
 
--Background in consulting, venture capital, private equity, or finance.
+- Background in consulting, venture capital, private equity, or finance.
 
--Experience negotiating vendor, data, or infrastructure agreements.
+- Experience negotiating vendor, data, or infrastructure agreements.
 
--Exposure to startups that have scaled quickly or inflected suddenly.
+- Exposure to startups that have scaled quickly or inflected suddenly.
 
--International operations or cross-border project experience.
+- International operations or cross-border project experience.
 
-Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+*Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.*

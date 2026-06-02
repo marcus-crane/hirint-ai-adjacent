@@ -1,5 +1,5 @@
 ---
-title: Staff Thermal Engineer - Aircraft Avionics & Thermal Systems (R3930)
+title: Sr. Staff Thermal Engineer - Aircraft Avionics & Thermal Systems (R3930)
 status: active
 id: eef811a9-5e6d-44af-9ee2-f4259de7aeee
 source: lever
@@ -21,7 +21,7 @@ Founded in 2015, Shield AI is a venture-backed deep-tech company with the missio
 
 Are you a passionate and innovative thermal engineer looking to help develop state of the art AI and aircraft products? Are you eager to make a positive difference in the world? Do you want to work alongside mission driven and values focused teammates?  Shield AI is just the place for you!
 
-As a Staff Thermal Engineer at Shield AI, you will lead the design, analysis, and integration of aircraft avionics thermal management systems, with opportunities to flex into aircraft-level thermal and fluid systems.
+As a Sr. Staff Thermal Engineer at Shield AI, you will lead the design, analysis, and integration of aircraft avionics thermal management systems, with opportunities to flex into aircraft-level thermal and fluid systems.
 
 This role is best suited for an engineer who thrives on first-principles problem solving, is comfortable with ambiguous, open-ended challenges, and can bridge technical disciplines with strong communication and collaboration skills and the ability to simplify and communicate complex problems. The engineer will be a key contributor in shaping designs, mentoring peers, and ensuring robust thermal solutions that meet mission-critical aerospace requirements.
 
