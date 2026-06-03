@@ -1,6 +1,6 @@
 ---
 title: 硬件技术-EMC工程师-杭州
-status: active
+status: archived
 id: C111B6AFFAABA79FAEFE9BE23A5A2CA3
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=C111B6AFFAABA79FAEFE9BE23A5A2CA3
