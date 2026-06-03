@@ -1,0 +1,89 @@
+---
+title: Technical Customer Support Specialist - Mandarin
+status: archived
+id: fa0ab1d4-85ca-46f9-8e08-37baccbccdc4
+source: ashby
+url: https://jobs.ashbyhq.com/elevenlabs/fa0ab1d4-85ca-46f9-8e08-37baccbccdc4
+lastmod: '2026-04-08T12:50:59.314+00:00'
+date: '2026-04-08T12:50:59.314+00:00'
+location: Japan
+departments:
+- Customer Support
+- Operations
+offices:
+- Australia
+- Brazil
+- Canada
+- India
+- Korea
+- Philippines
+- Singapore
+- United States
+---
+
+## About ElevenLabs
+
+ElevenLabs is an AI research and product company transforming how we interact with technology.
+
+We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always.  
+  
+We have expanded from voice into three main platforms:
+
+* ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.
+* ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.
+* ElevenAPI gives developers access to our leading AI audio foundational models.
+
+Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.
+
+## How we work
+
+* **High-velocity:** Rapid experimentation, lean autonomous teams, and minimal bureaucracy.
+* **Impact not job titles:** We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.
+* **AI first:** We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.
+* **Excellence everywhere:** Everything we do should match the quality of our AI models.
+* **Global team:** We prioritize your talent, not your location.
+
+## What we offer
+
+* **Innovative culture:** You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.
+* **Growth paths:** Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.
+* **Learning & development**: ElevenLabs proactively supports professional development through an annual discretionary stipend.
+* **Social travel**: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.
+* **Annual company offsite:** Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
+* **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
+
+**Technical Customer Support Specialist - Mandarin (Contract, Remote)**
+
+**Who we are** A global team united by curiosity and a shared mission: to be the first choice for AI audio. We're building a new category of technology from the ground up — moving fast, holding ourselves to a high bar, and giving everyone the autonomy to do their best work. The best idea wins, regardless of where it comes from.
+
+**About the role** As a Technical Customer Support Specialist, you'll be on the front lines with our enterprise and B2B customers — helping them get the most out of ElevenLabs, including our API and the ElevenAgents platform, which orchestrates LLMs, telephony, and other AI integrations. You're not just resolving tickets; you're the person who understands what's actually going wrong, communicates it clearly, and helps make the product better because of it. This role requires someone who's proactive, technically sharp, and genuinely excited about where AI is going.
+
+A key part of this role is supporting our growing Mandarin-speaking enterprise customer base, so native or near-native Mandarin proficiency is required.
+
+**What you'll do**
+
+* Own enterprise support end-to-end — diagnose complex issues quickly, communicate clearly, and follow through until resolved
+* Provide high-quality technical support in both English and Mandarin
+* Become a deep expert in ElevenAgents and how our customers use it to orchestrate LLMs, telephony, and other AI integrations
+* Identify patterns across support tickets and surface product gaps to engineering and product teams
+* Build and maintain documentation that actually helps — clear, accurate, and kept up to date
+* Act as a trusted technical partner for enterprise customers throughout their journey with ElevenLabs
+
+**What you bring**
+
+* 2–3 years in technical customer support at a SaaS or high-growth tech company, with B2B or enterprise experience
+* Native or near-native Mandarin proficiency, with strong written and spoken English
+* Familiarity with LLMs, AI agents, and/or telephony systems (e.g. Twilio, SIP, WebSockets) — either through support work or building things yourself
+* Solid understanding of APIs and how developers integrate them; comfortable reading and troubleshooting code, especially Python or JavaScript
+* A genuine interest in implementing and experimenting with AI solutions — not just supporting them from the outside
+* Experience working autonomously in a fast-moving, international, remote team
+
+**Who you are**
+
+* Passionate about AI and the problems it can solve — you follow the space closely and have opinions about it
+* Analytically sharp with a first-principles approach to debugging and problem-solving
+* A strong communicator who can translate technical complexity into clear, actionable responses — in both English and Mandarin
+* Self-directed: you don't wait to be told what to do, and you hold yourself to a high standard
+* Energised by a startup environment where things move fast and you can have real impact
+
+*#LI-remote*

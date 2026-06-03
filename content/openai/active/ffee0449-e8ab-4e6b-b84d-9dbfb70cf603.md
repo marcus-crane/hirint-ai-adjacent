@@ -9,7 +9,7 @@ date: '2026-05-20T17:06:10.300+00:00'
 location: San Francisco
 departments:
 - Legal
-compensation: $248K – $330K • Offers Equity
+compensation: $297K – $330K • Offers Equity
 ---
 
 ## **About the Team**
@@ -37,7 +37,7 @@ This role is based in San Francisco, CA. We use a hybrid work model of 3 days in
 
 ## **You might thrive in this role if you:**
 
-* Have 7+ years of experience across in-house and technology-focused law firm roles.
+* Have 10+ years of experience across in-house and technology-focused law firm roles.
 * Bring a strong background in drafting and negotiating complex commercial contracts.
 * Are comfortable operating in an entrepreneurial environment, and are proactive and independent.
 * Communicate with clarity and business judgment, tailoring advice to enable responsible growth.
