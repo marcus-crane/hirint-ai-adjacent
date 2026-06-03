@@ -1,5 +1,5 @@
 ---
-title: 中级资源项目经理
+title: AI研究院-中级资源项目经理
 status: active
 id: 3a3c9aa5-a50b-482e-ad41-bf3ac3fca1dd
 source: beisen
