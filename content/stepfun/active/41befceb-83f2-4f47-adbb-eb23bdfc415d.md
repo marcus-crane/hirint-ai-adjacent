@@ -1,0 +1,14 @@
+---
+title: 音频研发工程师
+status: active
+id: 41befceb-83f2-4f47-adbb-eb23bdfc415d
+source: moka
+url: https://app.mokahr.com/social-recruitment/step/94904/job/41befceb-83f2-4f47-adbb-eb23bdfc415d
+lastmod: '2026-06-04T14:15:18'
+date: '2026-05-12T17:18:08'
+location: 徐汇区
+offices:
+- 徐汇区
+---
+
+【岗位职责】1. 负责手机平板产品中音频系统的研发、调试与优化，包括语音、媒体播放、通话、录音等音频场景；2. 参与手机平板音频架构设计、方案评估及硬件选型，协调软件与硬件接口定义；3. 负责音频驱动（Audio HAL）、音频中间层（AudioFlinger）或相关音频算法模块的开发与维护；4. 分析和解决音频相关的问题，如杂音、回声、延迟、失真等问题；5. 协同多部门完成音频指标调试（如SNR、THD+N、功耗、音质等）并满足客户与运营商认证要求；6. 参与音频新技术预研（如ANC、空间音频、Hi-Res、AI音频增强等）并推动产品落地。【任职要求】1. 本科及以上学历，电子、通信、声学、计算机或相关专业；2. 熟悉安卓音频框架（Audio HAL / AudioFlinger / ALSA / tinyalsa / AudioPolicy 等）；3. 熟悉一种或多种音频协议/标准（如VoLTE、BT SCO、USB Audio、Hi-Res、Dolby、DTS等）；4. 有音频驱动调试经验，熟悉调音流程，有独立解决音频问题能力；5. 熟悉音频硬件（Codec、PA、MIC、Speaker）电路结构及工作原理；6. 有ANC、TWS耳机、语音识别、AI音频算法等项目经验者优先；7. 有手机厂、ODM厂、芯片原厂音频开发经验者优先；8. 具备良好的沟通能力与团队合作精神，工作积极主动，责任心强。加分项1. 熟悉Qualcomm / MTK等主流平台音频架构；2. 有调试工具使用经验，如AudioToolBox、Audio Precision、QACT、MTK Debug Tool；3. 能阅读英文技术文档，有海外客户项目经验者优先。
