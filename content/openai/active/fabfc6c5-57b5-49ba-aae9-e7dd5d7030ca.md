@@ -1,48 +1,41 @@
 ---
-title: Software Engineer, API SDK
+title: Robotics Software Engineer
 status: active
-id: 77fbf383-bb97-4006-9b2d-e5de2d6f79d3
+id: fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca
 source: ashby
-url: https://jobs.ashbyhq.com/openai/77fbf383-bb97-4006-9b2d-e5de2d6f79d3
-lastmod: '2026-05-22T17:19:45.625+00:00'
-date: '2026-05-22T17:19:45.625+00:00'
-location: Seattle
+url: https://jobs.ashbyhq.com/openai/fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca
+lastmod: '2026-06-05T05:02:58.415+00:00'
+date: '2026-06-05T05:02:58.415+00:00'
+location: San Francisco
 departments:
-- Core Product & Platform
-- Core Product & Platform | API
-offices:
-- New York City
-- San Francisco
-compensation: $293K – $385K • Offers Equity
+- Research
+- Robotics
+compensation: $255K – $325K • Offers Equity
 ---
 
 **About the Team**
 
-Our team brings OpenAI’s most capable technology to the world through our developer platform: the OpenAI API. As the leading AI development platform, our API is used by millions of developers and the majority of enterprises around the world, and powers the majority of AI applications that you may use on a daily basis. The platform supports everything from simple model calls to stateful, multimodal, tool-using applications through the Responses API, Agents SDK, Realtime API, and more. Our SDKs turn that fast-moving platform into reliable, idiomatic developer experiences across languages.
+Our Robotics team is focused on unlocking general-purpose robotics and pushing towards AGI-level intelligence in dynamic, real-world settings. Working across the entire model stack, we integrate cutting-edge hardware and software to explore a broad range of robotic form factors. We strive to seamlessly blend high-level AI capabilities with the constraints of physical systems to improve peoples’ lives.
 
 **About the Role**
 
-We are looking for a software engineer to help build the official SDKs that power the OpenAI API. Currently offered in Python, Node.js, Golang, Java, and Ruby – our SDKs are some of the most popular in the world. You will help shape the developer experience for all new API features, as well as all future versions of our APIs. We are looking for engineers who will sweat the details about SDK design, who love building for AI developers, and who believe in the potential for AI to transform the world for the better. Prior experience building SDKs is lovely, but not absolutely necessary.
+We're seeking talented Robotics Software Engineers to expand our robotics data collection and evaluation program. This highly technical role involves designing, implementing, and optimizing software solutions across diverse robotics hardware. You'll work closely and collaboratively with multidisciplinary teams; including software, hardware, research, and operations - to drive advancements in our robotic systems.
+
+**This role is based in San Francisco, CA, and requires in-person 4 days a week.**
 
 **In this role, you will:**
 
-* Define and implement the SDK experience for all new API features, as well as all future versions of our API.
-* Build and maintain our systems to make SDK maintenance and generation streamlined and automated.
-* Contribute to our SDK strategy and roadmap, including which languages to support and what features to support.
-* Collaborate closely with the rest of the API team, our Developer Experience team, and our GTM team to make our SDKs the best in the world.
-* Work directly with developers adding features, fixing issues, and contributing to documentation.
+* Help develop and grow our data collection labs, owning the entire integration lifecycle, from identifying and sourcing new hardware to collaborating with mechanical and electrical engineers on setup, software integration, and operational deployment.
+* Develop innovative robot control interfaces suited to a variety of morphologies, environments, and tasks.
+* Collaborate closely with research and engineering teams to develop automation tools and machinery that facilitate the evaluation of advanced robotic policies.
+* Lead the design and implementation of data collection, visualization, and quality control processes.
 
-**Your background might look something like:**
+**You might thrive in this role if you:**
 
-* 7+ years of professional engineering experience (excluding internships) in relevant roles at tech and product-driven companies
-
-* You love building for other developers, and thrive on feedback from opinionated users
-* You thrive working in the open source community, and love engaging directly with developers
-* You can thrive and operate independently in a fast-paced environment with ambiguous requirements and goals
-* You are an engineer at heart, but are willing to lean into product decisions
-* You have previous experience maintaining SDKs or building SDK generation software
-
-**Compensation Range:** $293K - $385K USD
+* Have 5+ years of professional software engineering experience developing and shipping production-quality systems in robotics or hardware-integrated environments.
+* Have extensive experience integrating and deploying industrial automation systems, off-the-shelf robotics platforms, or custom hardware into production environments.
+* Bring hands-on experience delivering production-quality software within collaborative, cross-functional engineering teams.
+* Have strong proficiency in Rust or C++.
 
 **About OpenAI**
 

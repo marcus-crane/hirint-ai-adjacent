@@ -14,13 +14,13 @@ departments:
 
 Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code.
 
-**About the role**
+## **About the role**
 
 As an Account Associate at Cursor, you'll be the tip of the spear for pipeline generation — the first voice a prospective customer hears and the person who earns their attention before an Account Executive ever gets on a call. You'll work across the full range of our commercial segments, from fast-moving startups to mid-market engineering organizations, identifying the right buyers and creating the conditions for meaningful sales conversations.
 
 This isn't a role for someone who waits for leads to come in. You'll build pipeline from scratch, learn how great engineering teams think, and develop a deep understanding of how Cursor transforms developer productivity. It's the fastest way to learn enterprise sales at one of the most exciting companies in AI.
 
-**What you'll do**
+## **What you'll do**
 
 * Generate qualified pipeline for our Account Executive team through high-volume outbound prospecting — cold calls, personalized emails, LinkedIn, and creative multi-channel sequences
 * Research target accounts and map stakeholders across Engineering, Product, and Leadership to identify the right entry points
@@ -31,7 +31,7 @@ This isn't a role for someone who waits for leads to come in. You'll build pipel
 * Bring market intelligence back to the team: what resonates, what objections are coming up, what messaging is landing
 * Help build the playbook — as an early AA, your patterns and learnings will shape how this function scales
 
-**You may be a fit if**
+## **You may be a fit if**
 
 * You have 1–2 years of experience in a sales, customer-facing, or business development role — SDR/BDR experience at a SaaS or developer tools company is a strong plus
 * You're a relentless self-starter who takes ownership of your pipeline and doesn't wait to be handed leads
