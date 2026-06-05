@@ -6,11 +6,13 @@ source: lever
 url: https://jobs.lever.co/shieldai/cca5ba8a-6fbd-4cff-a2d4-0faf9c3a57e7
 lastmod: '2026-03-27T15:55:03.811000+00:00'
 date: '2026-03-27T15:55:03.811000+00:00'
-location: United States
+location: Dallas, Texas
 departments:
 - X-BAT Engineering - Aerostructures
 offices:
-- United States
+- Dallas, Texas
+- Remote
+- San Diego, California
 ---
 
 Founded in 2015, Shield AI is a venture-backed deep-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include the V-BAT and X-BAT aircraft, Hivemind Enterprise, and the Hivemind Vision product lines. With offices and facilities across the U.S., Europe, the Middle East, and the Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](http://www.shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).

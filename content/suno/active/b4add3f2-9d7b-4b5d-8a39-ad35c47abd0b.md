@@ -26,7 +26,7 @@ We're looking for someone to lead recommendations at Suno. You'll be instrumenta
 
 This role is for someone who has deep experience with recommendation systems at scale and is energized about building a new and better one. You're excited to apply and adapt your expertise in a new context and grow an excellent team to get there.
 
-[Check out the Suno version of this role here!](https://suno.com/s/AFpBtpFHI8ORqLtf)
+Check out the Suno version of this role here: <https://suno.com/s/AFpBtpFHI8ORqLtf>
 
 # **What You'll Do**
 
@@ -47,6 +47,10 @@ This role is for someone who has deep experience with recommendation systems at 
 
 * Applicants must be eligible to work in the US.
 * This is an onsite role in our SF office
+
+## **Compensation**
+
+The annual salary range for this role is $280K – $350K + target equity + benefits (including medical, dental, vision, and 401k)
 
 # **Perks & Benefits for Full-Time Employees**
 
