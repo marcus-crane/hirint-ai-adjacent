@@ -1,5 +1,5 @@
 ---
-title: Staff Digital Operations Lead - Marketing (R4912)
+title: Staff Paid Media Marketing Manager (R4912)
 status: active
 id: fa95eccf-0aea-429e-bfdb-d8ac4aca4905
 source: lever
@@ -19,7 +19,7 @@ Founded in 2015, Shield AI is a venture-backed deep-tech company with the missio
 
 ### Job Description:
 
-Shield AI is hiring a Digital Operations Lead to drive execution, coordination, and operational integrity across paid media campaigns and website experiences. This role functions as a digital producer, responsible for translating strategy into structured plans, aligning resources, and ensuring work is delivered accurately and on time.
+Shield AI is hiring a Staff Paid Media Marketing Manager to drive execution, coordination, and operational integrity across paid media campaigns and website experiences. This role functions as a digital producer, responsible for translating strategy into structured plans, aligning resources, and ensuring work is delivered accurately and on time.
 
 This is not a concepting or creative development role. It is focused on executional excellence, production systems, and managing the flow of work across campaigns and digital surfaces. You’ll work closely with one of the strongest in-house creative teams, helping translate high-quality ideas into fully realized campaigns across paid media and digital touchpoints.
 
