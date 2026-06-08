@@ -1,6 +1,6 @@
 ---
 title: 数据研发工程师（北京）
-status: active
+status: archived
 id: f66f7cfa-5feb-49c7-ab09-b24eaa7c70eb
 source: moka
 url: https://app.mokahr.com/social-recruitment/high-flyer/140576/job/f66f7cfa-5feb-49c7-ab09-b24eaa7c70eb
