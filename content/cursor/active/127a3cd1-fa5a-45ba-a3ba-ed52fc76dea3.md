@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/cursor/127a3cd1-fa5a-45ba-a3ba-ed52fc76dea3
 lastmod: '2026-06-08T23:59:23.815+00:00'
 date: '2026-06-08T23:59:23.815+00:00'
-location: APJ
+location: Tokyo
 departments:
 - Sales
 ---
