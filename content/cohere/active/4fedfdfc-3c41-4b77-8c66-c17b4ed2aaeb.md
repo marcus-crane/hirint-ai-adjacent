@@ -71,6 +71,8 @@ As the **Head of Solutions Architecture** at Cohere, you will be the strategic l
 * Experience with CRM and sales enablement tools (e.g., Salesforce, HubSpot) and technical sales methodologies.
 * Track record of exceeding sales targets and delivering measurable revenue growth.
 
+*Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience. $296,000 - $352,700 USD*
+
 If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply!
 
 We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an [Accommodations Request Form](https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit), and we will work together to meet your needs.
