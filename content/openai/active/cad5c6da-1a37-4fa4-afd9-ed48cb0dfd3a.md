@@ -1,5 +1,5 @@
 ---
-title: Workplace Business Partner
+title: Senior Workplace Business Partner
 status: active
 id: cad5c6da-1a37-4fa4-afd9-ed48cb0dfd3a
 source: ashby
@@ -14,29 +14,36 @@ compensation: $158K – $175K • Offers Equity
 
 **About the Team**
 
-The Real Estate & Workplace (REW) team at OpenAI designs and manages spaces, programs, and services that empower our employees and advance our mission. Our team covers a diverse range of functions, including leasing, global operations, analytics, construction, workplace experience, and employee services. We strive to support OpenAI’s mission of researching and deploying safe artificial general intelligence that benefits all of humanity by optimizing the employee experience and maintaining operational excellence and financial discipline through rigorous focus on flexibility, cost effectiveness, intentional design, and scalable, people-centric solutions.
+The Real Estate & Workplace (REW) team at OpenAI designs and manages the spaces, programs, and services that help employees do their best work and advance our mission. The team spans leasing, global operations, analytics, construction, workplace experience, employee services, and workplace programs. We support OpenAI’s mission by building flexible, scalable, cost-effective, and people-centered workplace solutions with strong operational discipline.
 
 **About the Role**
 
-We are seeking a highly experienced workplace professional to support employee engagement and operational collaboration. This is an extremely collaborative role that is pivotal to ensuring our employees work in the best facilities possible with an ever-changing environment.This role reports to the AMERs Sr. Workplace Manager within the Workplace Operations org and involves close collaboration across various REW pillars and other cross-functional partners including Leasing, Workplace Experience, Global Food Programs, Executive Business Partners, Corporate Security, IT, and other external partners.
+We are seeking an experienced Workplace Business Partner to lead cross-functional workplace programs that improve the employee experience and strengthen how teams operate across our San Francisco office. This role is highly collaborative and requires someone who can move fluidly between strategic planning and hands-on execution in a fast-changing environment.
 
-This position is based in San Francisco, CA, with the requirement of being in the office **5 days per week**. Relocation assistance is available for new hires.
+You will partner across REW and with teams including Workplace Experience, Leasing, Global Food Programs, Executive Business Partners, Corporate Security, IT, Finance, People, and external vendors. You will serve as a trusted workplace partner for one or more organizations, translating business needs into scalable programs, clear operating rhythms, and practical solutions.
+
+This role reports to the AMERs Sr. Workplace Manager within Workplace Operations and is based in San Francisco, CA, with the requirement of being in the office 5 days per week. Relocation assistance is available for new hires.
 
 **In this role, you will:**
 
-* Own and run workplace programs end-to-end, ensuring smooth execution and a consistently positive employee experience.
-* Communicate workplace-related updates and concerns clearly and proactively to employees, acting as a trusted and approachable point of contact.
-* Design and launch initiatives that strengthen company culture, employee engagement, and connection across teams.
-* Partner closely with cross-functional stakeholders (e.g., People, IT, Facilities, Security, Finance) through regular check-ins and ongoing collaboration.
-* Provide dedicated workplace support for one or more organizations within the company, understanding their unique needs and advocating on their behalf.
-* Serve as a source of truth for the teams you support, maintaining accurate information, documentation, and guidance related to workplace programs and policies.
+* Own large-scale workplace programs end-to-end, from identifying needs and defining scope through execution, measurement, and iteration.
+* Partner with leaders and cross-functional stakeholders to understand team needs, prioritize tradeoffs, and align workplace priorities with company and organizational goals.
+* Build scalable systems, processes, and documentation that improve clarity, consistency, and quality of execution across recurring workplace needs.
+* Navigate ambiguous or fast-moving situations with sound judgment, identifying root problems and driving practical solutions rather than only addressing immediate requests.
+* Serve as a trusted point of contact for workplace-related updates, questions, and escalations, communicating clearly and proactively with employees and stakeholders.
+* Manage complex stakeholder and vendor relationships, driving alignment and accountability without relying on formal authority.
+* Design and launch initiatives that strengthen employee connection, culture, and workplace experience across teams.
+* Mentor peers or more junior team members by sharing context, raising execution quality, and helping others build strong workplace delivery practices.
 
 **You might thrive in this role if you have:**
 
-* Strong, natural people skills and the ability to work effectively with stakeholders at all levels.
-* The ability to move fast, think on their feet, and thrive in a constantly changing environment.
-* A true “no problem too small” approach — equally comfortable handling high-impact work and day-to-day details.
-* A wide-ranging understanding of the REW ecosystem, with curiosity and flexibility to stretch across functions as needed.
+* Experience leading cross-functional workplace, employee experience, facilities, operations, or similar programs in a dynamic environment.
+* Strong judgment and ownership, with the ability to independently prioritize, make tradeoffs, and know when to seek input on complex decisions.
+* A systems mindset, with a track record of creating processes, tools, or operating rhythms that solve recurring problems and scale beyond one-off execution.
+* Excellent stakeholder management skills and the ability to build trust with employees, leaders, vendors, and cross-functional partners.
+* Clear, proactive communication skills, especially when translating operational complexity into simple guidance for different audiences.
+* Comfort balancing strategic work with hands-on execution, including a “no problem too small” approach when the moment requires it.
+* Curiosity about the full REW ecosystem and flexibility to stretch across functions as business and employee needs evolve.
 
 **About OpenAI**
 
