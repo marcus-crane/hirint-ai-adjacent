@@ -10,7 +10,6 @@ location: Dublin, Ireland
 departments:
 - Trust & Safety
 - User Operations
-compensation: $252K – $280K • Offers Equity
 ---
 
 ## **About the Team — Account & Platform Integrity**
