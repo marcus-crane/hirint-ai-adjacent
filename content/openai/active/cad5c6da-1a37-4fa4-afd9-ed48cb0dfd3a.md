@@ -9,7 +9,7 @@ date: '2026-05-27T21:18:58.113+00:00'
 location: San Francisco
 departments:
 - Workplace
-compensation: $158K – $175K • Offers Equity
+compensation: $158K – $225K • Offers Equity
 ---
 
 **About the Team**
