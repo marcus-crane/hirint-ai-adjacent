@@ -1,6 +1,6 @@
 ---
 title: IT Systems Engineer
-status: active
+status: archived
 id: 0ec3e4a3-03f7-4a80-bb5d-6b2afa23aefc
 source: ashby
 url: https://jobs.ashbyhq.com/cursor/0ec3e4a3-03f7-4a80-bb5d-6b2afa23aefc
