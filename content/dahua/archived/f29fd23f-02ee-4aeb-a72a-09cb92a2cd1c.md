@@ -1,19 +1,19 @@
 ---
-title: 【华感科技】区域销售工程师（北京）(J22469)
-status: active
-id: 7989bd23-4aae-4c12-8198-8f97fdcd40cb
+title: 【华感科技】区域销售工程师（成都）(J23211)
+status: archived
+id: f29fd23f-02ee-4aeb-a72a-09cb92a2cd1c
 source: dahua
-url: https://job.dahuatech.com/post/7989bd23-4aae-4c12-8198-8f97fdcd40cb
-lastmod: '2025-10-31T10:19:00.000+08:00'
-date: '2025-10-31T10:19:00.000+08:00'
-location: 北京市
+url: https://job.dahuatech.com/post/f29fd23f-02ee-4aeb-a72a-09cb92a2cd1c
+lastmod: '2026-06-09T16:49:24.000+08:00'
+date: '2026-06-09T16:49:24.000+08:00'
+location: 成都市
 departments:
 - 社会招聘
 ---
 
 ## 职位描述
 
-1、工作地点在北京；
+1、工作地点：成都；
 
 2、拓展行业和渠道市场，挖掘行业潜力客户和商机，负责热成像产品市场渠道开拓与销售工作，完成公司年度制定的销售计划和回款任务；
 

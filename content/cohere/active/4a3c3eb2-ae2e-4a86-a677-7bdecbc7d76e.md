@@ -51,10 +51,10 @@ Example problems you might work on include helping users turn natural-language i
 
 * You have built, shipped, and operated production software used by real users or customers.
 * You are comfortable working across backend, frontend, product, data, and infrastructure boundaries.
-* You have strong product judgment, pay attention to product details and care deeply about whether your work helps the end user.
+* You have strong product judgment, pay close attention to user experience details, and care deeply about whether your work helps the end user.
 * You bring high agency: you act, tinker, learn quickly, and drive change without waiting for perfect instructions.
 * You move quickly while maintaining a high bar for correctness, maintainability, and user impact.
-* You communicate clearly, document important decisions, and collaborate well across functions.
+* You communicate clearly in a distributed, asynchronous team, document important decisions, and collaborate well across functions
 * You can advocate for a point of view, change your mind when the evidence changes, and commit once a decision is made.
 * You are excited to use AI to do your best work, while staying accountable for the systems you build.
 
