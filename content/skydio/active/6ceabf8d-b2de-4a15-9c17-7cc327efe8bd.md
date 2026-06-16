@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/skydio/6ceabf8d-b2de-4a15-9c17-7cc327efe8bd
 lastmod: '2026-06-04T15:58:22.843+00:00'
 date: '2026-06-04T15:58:22.843+00:00'
-location: US CA San Mateo
+location: San Mateo, California, United States
 departments:
 - Operations
 - Sales
