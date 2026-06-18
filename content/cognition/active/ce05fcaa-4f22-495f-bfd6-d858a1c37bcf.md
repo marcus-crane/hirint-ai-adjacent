@@ -1,11 +1,11 @@
 ---
-title: Head of Partnerships - APAC
+title: Head of Partnerships - Japan
 status: active
 id: ce05fcaa-4f22-495f-bfd6-d858a1c37bcf
 source: ashby
 url: https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf
-lastmod: '2026-04-05T04:21:13.985+00:00'
-date: '2026-04-05T04:21:13.985+00:00'
+lastmod: '2026-06-17T22:36:40.587+00:00'
+date: '2026-06-17T22:36:40.587+00:00'
 location: Tokyo
 departments:
 - Sales

@@ -1,42 +1,40 @@
 ---
-title: Strategic Hardware Partnerships
+title: Corporate Business Development Lead
 status: active
 id: c4ecfceb-6e04-44ef-baa9-47e681eee750
 source: ashby
 url: https://jobs.ashbyhq.com/openai/c4ecfceb-6e04-44ef-baa9-47e681eee750
-lastmod: '2026-06-03T23:14:17.849+00:00'
-date: '2026-06-03T23:14:17.849+00:00'
+lastmod: '2026-06-17T23:08:33.581+00:00'
+date: '2026-06-17T23:08:33.581+00:00'
 location: San Francisco
 departments:
 - Product Partnerships
-compensation: $400K – $445K • Offers Equity
+compensation: $330K – $370K • Offers Equity
 ---
 
 **About the Role**  
-We are a small, fast-moving partnerships team that shapes and executes OpenAI’s most strategic collaborations. In this role, you will own the end-to-end hardware partnership strategy and portfolio spanning silicon, systems, and manufacturing partners that make our product roadmap real. You will build deep relationships, set and ensure we have the right joint strategy and programs in place, lead cross-functional workstreams, and iterate on complex deals to break new ground and advance OpenAI’s most ambitious hardware programs.
+We are a small, fast-moving partnerships team that shapes and executes OpenAI’s most strategic collaborations. In this role, you will lead initiatives spanning everything from strategic deals to enabling new ecosystem launches in consumer and enterprise software as well as hardware. You will build deep relationships, set and ensure we have the right joint strategy and programs in place, lead cross-functional workstreams, and iterate on complex deals to break new ground and advance OpenAI’s mission.
 
-You are a seasoned leader with deep experience in complex hardware ecosystems, comfortable operating amid ambiguity, and capable of driving alignment across executives, boards, and partners while simultaneously pushing critical programs to delivery. You have a background working closely with product and engineering leaders and expertise in strategic hardware and systems supply deals. You’re able to drive work at high velocity and can motivate external and internal partners including product, engineering, sales, finance, legal and operations.
+You are a seasoned leader with deep experience in architecting complex deals across all aspects of the business, comfortable operating amid ambiguity, and capable of driving alignment at the executive level while simultaneously pushing critical programs to delivery. You have a background in both software and hardware industries and prior experience scaling new platforms and ecosystems.
 
 **Key Responsibilities:**
 
-* Own strategic hardware partner relationships end-to-end. Be the primary point of contact internally and externally for OpenAI’s most important strategic hardware partners.
-* Define and drive joint strategy and roadmap alignment. Translate product and engineering priorities into partner roadmaps, milestones, and decision points (requirements, capacity, cost targets, reliability, and timelines).
-* Technical diligence and partner strategy. Evaluate build/buy/partner options, understand where advantages/risks sit, and provide clear recommendations grounded in technical and business analysis (silicon, connectivity, systems, device HW/SW stack, OS, etc.).
-* Structure and negotiate complex agreements. Lead negotiations across supply, capacity reservations, pricing/TCO, NRE/JDM/JDA structures, warranties/quality terms, IP/licensing, and launch/expansion/renewal mechanics.
+* Own the partner relationship end-to-end. Be the primary point of contact internally and externally for OpenAI’s most important strategic partners.
+* Define and drive joint strategy and roadmap alignment. Collaborate with product, engineering, finance, sales, legal to translate product and engineering priorities into partner roadmaps, milestones, and decision points.
+* Technical diligence and partner strategy. Evaluate build/buy/partner options, understand where advantages/risks sit, and provide clear recommendations grounded in technical and business analysis (user experience, data sets, cost targets, silicon device HW/SW stack, timelines etc.).
+* Structure and negotiate complex agreements. Lead negotiations with the partner, owning the lifecycle from initial deal structure through launch, expansion and renewal.
 * Run operating rhythm and governance. Establish and lead QBRs, steering committees, and exec briefings. Unblock issues fast and hold both sides accountable to outcomes.
-* Measure and communicate impact. Own the KPI framework and reporting: secured capacity, cost reduction, on-time NPI, yield/quality, reliability, supply risk, and partner satisfaction; communicate progress crisply to leadership.
+* Measure and communicate impact. Own the KPI framework and reporting: launch milestones, partner adoption, revenue or usage impact, ecosystem growth, strategic leverage, and partner health.
 
 * Build trusted, long-term relationships with partner executives; influence roadmaps, investment decisions, and capacity allocation.
 
 **Qualifications:**
 
-* 12+ years of experience in hardware partnerships, supply chain, sourcing, or commercial leadership within semiconductors, systems, consumer electronics, cloud infrastructure, or adjacent ecosystems.
-* Proven track record owning strategic, multi-year partner portfolios and closing first-of-kind or industry-defining agreements.
-* Deep experience across CM / ODM / JDM models, silicon partnerships, capacity planning, cost modeling, and lifecycle execution.
-* Demonstrated ability to operate at the executive level, influencing product and engineering strategy, investment decisions, and partner roadmaps.
-* Exceptional cross-functional leadership across engineering, operations, finance, legal, and security in high-stakes environments.
-* High judgment, strong negotiation instincts, and comfort making irreversible decisions with incomplete information.
-* Thrives in fast-changing environments and brings clarity, structure, and momentum amid ambiguity.
+* 12+ years of experience in business development, strategic partnerships, or general management of marketplaces/ecosystems. Commercial leadership within semiconductors, consumer electronics, cloud infrastructure, or marketplaces preferred.
+* Demonstrated success across the lifecycle of complex strategic partnerships that combine product integration, commercial terms, GTM execution, and long-term platform alignment.
+* Strong technical fluency and cross-functional leadership across product, engineering, GTM, legal, policy, security, support, and operations, particularly where execution depends on influence.
+* Clear communication, structured thinking, and comfort making prioritization calls in a fast-moving and ambiguous environment.
+* Exceptionally high quality judgment and integrity.
 
 **About OpenAI**
 
