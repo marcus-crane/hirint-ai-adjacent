@@ -1,12 +1,12 @@
 ---
 title: AI Deployment Engineer | Codex
-status: active
-id: 8335b0cb-bad7-4f10-9e44-b245ccc2842e
+status: archived
+id: 744e5dde-a51f-445c-bc4a-f9ddb68e2fc2
 source: ashby
-url: https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e
-lastmod: '2026-04-22T07:57:27.997+00:00'
-date: '2026-04-22T07:57:27.997+00:00'
-location: London, UK
+url: https://jobs.ashbyhq.com/openai/744e5dde-a51f-445c-bc4a-f9ddb68e2fc2
+lastmod: '2026-04-14T17:30:47.639+00:00'
+date: '2026-04-14T17:30:47.639+00:00'
+location: Paris, France
 departments:
 - Go To Market
 - Technical Success
