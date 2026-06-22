@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/cohere/4fedfdfc-3c41-4b77-8c66-c17b4ed2aaeb
 lastmod: '2026-05-21T21:50:03.146+00:00'
 date: '2026-05-21T21:50:03.146+00:00'
-location: San Francisco
+location: Chicago
 departments:
 - Revenue
 - Solutions Architecture
