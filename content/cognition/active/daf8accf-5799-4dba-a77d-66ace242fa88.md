@@ -18,9 +18,9 @@ We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-
 
 Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
-Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
+Building Devin is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
 
-## **Job Description**
+## **About the role**
 
 We're seeking an onsite IT Specialist to manage our technology infrastructure and support our growing team. You'll be the point person for identity and access management, endpoint management, and end-user support in a collaborative environment that values agency and results.
 
