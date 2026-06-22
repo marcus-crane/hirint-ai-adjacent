@@ -4,8 +4,8 @@ status: active
 id: e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5
 source: ashby
 url: https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5
-lastmod: '2026-06-21T18:53:32.963+00:00'
-date: '2026-06-21T18:53:32.963+00:00'
+lastmod: '2026-06-22T10:07:08.626+00:00'
+date: '2026-06-22T10:07:08.626+00:00'
 location: Delhi, India
 departments:
 - AI Success
@@ -47,7 +47,7 @@ This role can be based in Delhi, Mumbai, or Bengaluru.
 
 **You’ll thrive in this role if you:**
 
-* 8+ years of experience in technical customer facing roles such as technical account management, technical GenAI consulting, solutions architecture, technical delivery leadership, or deep technical enterprise SaaS adoption work
+* 8+ years of experience in technical customer facing roles such as technical account management, technical product management, technical GenAI consulting, solutions architecture, technical delivery leadership, or deep technical enterprise SaaS adoption work
 * Deep, hands-on knowledge of OpenAI product capabilities, APIs, SDKs, connectors, and common integration patterns and able to explain model behavior, limitations, technical tradeoffs, embeddings, retrieval augmentation, and approaches to fine-tuning or custom model usage.
 * Can translate technical concepts into clear business language and help customers understand the strategic impact of AI technologies
 * Are comfortable embedding with customers to map workflows, identify requirements, and diagnose adoption challenges
