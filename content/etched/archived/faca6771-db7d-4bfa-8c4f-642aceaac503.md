@@ -1,6 +1,6 @@
 ---
 title: PCB Rework Technician (Taiwan)
-status: active
+status: archived
 id: faca6771-db7d-4bfa-8c4f-642aceaac503
 source: ashby
 url: https://jobs.ashbyhq.com/etched/faca6771-db7d-4bfa-8c4f-642aceaac503
