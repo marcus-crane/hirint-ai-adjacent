@@ -1,0 +1,80 @@
+---
+title: Senior / Staff Product Manager, Consumer Create (Web)
+status: active
+id: bae3aa2a-ba82-4015-9f62-2fd0aa35aaee
+source: ashby
+url: https://jobs.ashbyhq.com/suno/bae3aa2a-ba82-4015-9f62-2fd0aa35aaee
+lastmod: '2026-06-23T21:12:24.293+00:00'
+date: '2026-06-23T21:12:24.293+00:00'
+location: NYC
+departments:
+- Product
+compensation: $180K – $280K
+---
+
+# **About Suno**
+
+We're building the world's first creative entertainment platform, where the entire world can feel the joy and fulfilment of making music. Music is for everyone: Our users include everyone from grandmothers creating songs for their loved ones, to Grammy winners using Suno Studio, our power tool, to make the most popular hits in the world.
+
+Building the future of entertainment requires ambition. The pace is fast, the problems are hard, and the work demands ownership and intensity. For the right people, it’s incredibly rewarding: a chance to shape a new medium, work with a small team that cares deeply about quality, make music, drink too much coffee, and build something that millions of people use to express themselves in ways that were never before possible.
+
+Suno is the fastest growing consumer entertainment company and the leader in AI music. We are backed by leading investors including Bond Capital, Menlo Ventures, Lightspeed Venture Partners, IVP, Forerunner, Union Square Ventures, Alkeon, Quiet, Matrix Partners, Schroders Capital and, NVentures (venture arm of NVIDIA).
+
+Founded in 2023 by Harvard alumni with a shared passion for music, Suno has quickly grown to **200 employees** while empowering more than 100 million people to create original songs. In 2026, we raised a **$400 million Series D** at a $5.4 billion valuation to continue building innovative products that amplify creativity and imagination.
+
+## **About the Role**
+
+For most people, making music has always felt out of reach. Suno is changing that.
+
+Millions of people are experiencing the joy of making music for the first time through Suno. We believe this is the beginning of a new category of consumer product, one where anyone can make music and develop greater fluency and control over time.
+
+We are seeking a Product Manager to lead the creation experience on web. This is a rare opportunity to shape how millions of people engage with music, helping them move from their first song to increasingly sophisticated forms of expression through a tool that feels less like software and more like an instrument.
+
+This role is ideal for a technical Product Manager who has significant experience building exceptional consumer web products and wants to help build the next iconic platform for expression. You combine strong product intuition with deep empathy for users, a refined sense of taste, and a high bar for craft. You have a talent for making sophisticated products feel simple—balancing power and accessibility, introducing complexity thoughtfully, and helping users grow from beginners into more capable makers.
+
+Check out the Suno version of this role: <https://suno.com/s/Y0WfEP7qALvaZanH>
+
+## **What You’ll Do**
+
+* **Define the future of music creation on the web** - Set the vision and roadmap for how users create, edit, refine, and iterate on music in Suno’s web experience. Build the features and workflows that help users move from first-time creators to more capable musicians.
+* **Build powerful tools that feel simple** - Partner with Design and Engineering to develop increasingly sophisticated creation capabilities while maintaining an intuitive, approachable user experience. Balance power and accessibility at every step.
+* **Create pathways to deeper creativity** - Translate emerging AI capabilities into intuitive experiences that help users build confidence, fluency, and greater control over their music.
+* **Use judgment to navigate complexity** - Make thoughtful product decisions in a rapidly evolving space. Know when to introduce new capabilities, when to simplify, and when to focus on polishing existing experiences.
+* **Use data and intuition together** - Combine product judgment, user research, and quantitative analysis to understand user needs and make informed decisions.
+* **Collaborate across disciplines** - Work closely with Engineering, Design, User Research, and Product Marketing to deliver cohesive creation experiences that delight users and drive meaningful engagement.
+
+## **Who You Are**
+
+A product leader who is passionate about empowering creative expression:
+
+* 6+ years of product management experience, ideally building consumer web products or creative tools
+* Proven track record of shipping high-quality consumer experiences at scale
+* Exceptional product judgment and a demonstrated ability to simplify complex workflows
+* Deep empathy for users and a strong intuition for how people learn, create, and develop new skills
+* Ability to balance short-term user needs with a long-term product vision
+* Comfortable navigating ambiguity and making thoughtful tradeoffs in fast-moving environments
+* Clear and effective communicator across technical and non-technical audiences
+* Excited by the intersection of AI, creativity, and consumer technology
+* Strong technical foundation, with a background in computer science, engineering, or a related field
+
+## Additional Notes
+
+* You must be authorized to work in the United States.
+* You must be willing to work 5 days per week at our New York City office.
+
+## Perks & Benefits for Full-Time Employees
+
+* Company Equity Package
+* 401(k) with 3% Employer Match & Roth 401(k)
+* Medical, Dental, & Vision Insurance (PPO w/ HSA & FSA options)
+* 11 Paid Holidays + Unlimited PTO & Sick Time
+* 16 Weeks of Paid Parental Leave
+* Creative Education Stipend
+* Generous Commuter Allowance
+* In-Office Lunch (5 days per week)
+
+## Compensation
+
+The annual salary range for this role is $180K – $280K + target equity
+
+Suno is proud to be an Equal Opportunity Employer. We consider qualified applicants without regard to race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, genetic information, veteran status, or any other legally protected basis under provincial, federal, state, and local laws, regulations, or ordinances. We will also consider qualified applicants with criminal histories in a manner consistent with the requirements of state and local laws, including the Massachusetts Fair Chance in Employment Act, NYC Fair Chance Act, LA City Fair Chance Ordinance, and San Francisco Fair Chance Ordinance.
