@@ -14,7 +14,7 @@ compensation: $40 – $65 per hour
 
 **About Etched**
 
-Etched is building AI chips that are hard-coded for individual model architectures. Our first product (Sohu) only supports transformers, but has an order of magnitude more throughput and lower latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep & parallel chain-of-thought reasoning agents.
+Etched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on **inference**. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.
 
 **Job Summary**
 
@@ -63,6 +63,6 @@ We are seeking a highly skilled PCB Rework Technician with advanced capabilities
 
 **How we’re different**
 
-Etched believes in the [Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). We think most of the progress in the AI field has come from using more FLOPs to train and run models, and the best way to get more FLOPs is to build model-specific hardware. Larger and larger training runs encourage companies to consolidate around fewer model architectures, which creates a market for single-model ASICs.
+Etched believes in the [Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). We are the first inference-focused frontier AI system, betting early on transformer and transformer-like architectures and on increasing model sizes. Our addressable market is the entirety of inference, unlike many of our competitors.
 
-We are a fully in-person team in San Jose and Taipei, and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both as needed.
+We are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.
