@@ -1,6 +1,6 @@
 ---
 title: Consumer Marketing Lead, Japan
-status: active
+status: archived
 id: 55afdf4a-d030-4eb2-bfdf-50fee70ddf8c
 source: ashby
 url: https://jobs.ashbyhq.com/openai/55afdf4a-d030-4eb2-bfdf-50fee70ddf8c
