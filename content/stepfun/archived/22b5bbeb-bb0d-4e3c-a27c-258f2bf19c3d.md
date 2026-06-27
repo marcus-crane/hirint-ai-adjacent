@@ -1,6 +1,6 @@
 ---
 title: 战略投融资
-status: active
+status: archived
 id: 22b5bbeb-bb0d-4e3c-a27c-258f2bf19c3d
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/22b5bbeb-bb0d-4e3c-a27c-258f2bf19c3d
