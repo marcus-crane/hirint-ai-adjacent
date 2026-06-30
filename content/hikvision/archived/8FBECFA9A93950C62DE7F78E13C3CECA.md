@@ -1,6 +1,6 @@
 ---
 title: 安徽业务中心-产品销售-安徽
-status: active
+status: archived
 id: 8FBECFA9A93950C62DE7F78E13C3CECA
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=8FBECFA9A93950C62DE7F78E13C3CECA
