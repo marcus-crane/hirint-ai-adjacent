@@ -18,39 +18,42 @@ Etched is building hardware for frontier intelligence. We co-design chips, racks
 
 **Job Summary**
 
-Etched is hiring a Quality Engineer based in the US to ensure robust quality systems across our suppliers, domestic contract manufacturing and integration partners (L10 server, L11 rack). You will own quality assurance for our advanced AI hardware builds—driving inspection and test strategies, resolving systemic issues, and ensuring that every system leaving the factory meets Etched’s standards for performance and reliability.
+Etched is hiring a Product Quality Engineer based in the US to ensure robust quality systems across our suppliers, domestic contract manufacturing and integration partners (L10 server, L11 rack). You will own quality assurance for our advanced AI hardware builds—driving inspection and test strategies, resolving systemic issues, and ensuring that every system leaving the factory meets Etched’s standards for performance and reliability.
 
 This role will collaborate closely with Manufacturing Operations, Supply Chain, and Test Engineering, serving as the bridge between Etched HQ and factory teams. It is ideal for someone who enjoys being hands-on in the factory, while also establishing the scalable quality processes needed to support high-volume production.
 
 **Key Responsibilities**
 
-* Lead quality assurance for overseas and US-based suppliers, contract manufacturers and integrators (semiconductor, PCBA, L10 servers, L11 racks).
-* Establish and maintain incoming, in-process, and outgoing inspection processes to ensure compliance with Etched standards.
-* Partner with Test Engineering to define system-level test coverage, burn-in protocols, and reliability validation.
-* Drive failure analysis, root-cause investigations, and corrective/preventive actions (8D, CAPA).
-* Track, analyze, and report on quality metrics (yield, defect density, escapes, DPPM) to both engineering and operations stakeholders.
-* Participate in ECO reviews, configuration changes, and NPI build reviews to enforce quality gates.
-* Conduct supplier audits and ensure adherence to industry standards (ISO/AS, IPC).
-* Collaborate with Manufacturing Operations to scale line capability, training, and documentation.
-* Champion continuous improvement projects across yield, throughput, and defect reduction.
+* Lead quality assurance across semiconductor (ASIC/chip), PCB/A, L6 component suppliers, L10 server manufacturers, and L11 rack integration partners in both the US and overseas.
+* Establish and maintain robust IQC, IPQC, and OQC processes, including inspection criteria, control plans, and quality gates across incoming materials, PCB/A manufacturing, system assembly, and rack integration.
+* Partner with suppliers and contract manufacturers to oversee SMT processes, including SPI, AOI, and X-ray inspection, ensuring process capability and defect prevention throughout PCB/A production.
+* Partner with Test Engineering to define system-level test coverage, burn-in protocols, reliability validation, and production acceptance criteria.
+* Drive failure analysis, root-cause investigations, and structured corrective and preventive actions using 8D, CAPA, and FMEA methodologies.
+* Track, analyze, and report quality metrics including yield, Cpk/SPC, defect density, escapes, and DPPM, driving data-based improvements with engineering and operations teams.
+* Participate in ECO reviews, configuration changes, and NPI build reviews to establish and enforce quality gates throughout product introduction and production ramp.
+* Conduct supplier audits and ensure adherence to applicable quality standards (ISO/AS, IPC) and Etched manufacturing requirements.
+* Collaborate with Manufacturing Operations to improve line capability, documentation, training, process controls, and continuous improvement initiatives across suppliers and manufacturing partners.
 
 **You may be a good fit if you have (Must-have qualifications)**
 
-* 5+ years of experience in quality engineering, supplier quality, or manufacturing quality roles in datacenter hardware, servers, or semiconductor-related systems.
-* Proven track record working with Tier 1 overseas and/or US-based contract manufacturers and/or ODMs.
+* 5+ years of experience in quality engineering, supplier quality, or manufacturing quality supporting ASIC/chip, semiconductor, PCB/A, server, or other high-performance hardware products.
+* Hands-on experience supporting quality across L6 components, L10 server assembly, and L11 rack integration in partnership with Tier 1 contract manufacturers and/or ODMs.
+* Strong working knowledge of PCB/A manufacturing processes, including SMT, SPI, AOI, and X-ray inspection, with the ability to drive process improvements alongside manufacturing partners.
+* Demonstrated experience establishing and managing IQC, IPQC, and OQC quality systems in high-volume manufacturing environments.
+* Deep knowledge of structured quality methodologies including 8D, CAPA, FMEA, SPC, Cpk, control plans, and statistical process control.
+* Experience tracking and improving manufacturing quality metrics such as yield, DPPM, defect density, and production escapes.
 * Familiarity with server assembly, burn-in, and system-level test workflows.
-* Strong knowledge of quality tools and methodologies (SPC, FMEA, control plans, DOE).
-* Excellent cross-functional communication skills; ability to drive alignment across engineering, ops, and suppliers.
-* Comfortable working on-site at CM factories and resolving issues in real time**.**
+* Excellent cross-functional communication skills with the ability to drive alignment across engineering, operations, suppliers, and contract manufacturers.
+* Comfortable working on-site at supplier and CM factories, resolving production issues in real time.
 
 **Strong candidates may also have experience with (Nice-to-have qualifications)**
 
 * Background in AI ASIC or high-performance compute hardware.
-* Familiarity with the SMT and DIP process.
 * Experience with L11 rack-level integration and validation.
 * Exposure to thermal/power stress testing and system reliability engineering.
-* Prior experience ramping high-complexity systems from NPI into MP.
-* Engineering background in electrical, mechanical, or manufacturing domains.
+* Prior experience ramping high-complexity systems from NPI into mass production.
+* Engineering background in electrical, mechanical, manufacturing, or industrial engineering.
+* Experience developing supplier quality strategies for advanced compute hardware programs.
 
 **Benefits**
 
