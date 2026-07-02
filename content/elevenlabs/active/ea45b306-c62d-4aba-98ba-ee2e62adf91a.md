@@ -1,17 +1,21 @@
 ---
-title: Account Executive - UK/I - Enterprise
+title: Writer and Editor
 status: active
-id: d961d827-4529-4c70-9eff-c521b8923744
+id: ea45b306-c62d-4aba-98ba-ee2e62adf91a
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/d961d827-4529-4c70-9eff-c521b8923744
-lastmod: '2026-04-02T11:07:54.974+00:00'
-date: '2026-04-02T11:07:54.974+00:00'
+url: https://jobs.ashbyhq.com/elevenlabs/ea45b306-c62d-4aba-98ba-ee2e62adf91a
+lastmod: '2026-07-02T09:26:10.186+00:00'
+date: '2026-07-02T09:26:10.186+00:00'
 location: United Kingdom
 departments:
-- Revenue
-- Revenue - Europe
+- Creator Growth
+- Growth
 offices:
-- London
+- Denmark
+- Ireland
+- New York
+- Poland
+- Spain
 ---
 
 ## About ElevenLabs
@@ -45,25 +49,34 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual company offsite:** Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-We’re looking for an experienced, motivated Enterprise Account Executive to drive ElevenLabs' growth in FTSE 100 and large-scale enterprises across the United Kingdom and Ireland. Our ideal candidate is passionate about the transformative possibilities of AI voice technology, and eager to act as a strategic partner - enabling organizations to leverage our industry-leading models and product to reimagine their customer experience, internal workflows, and monetization strategies.
+## About the role
 
-## In this role you will:
+We're looking for an entrepreneurial writer and editor to shape how ElevenLabs communicates in long form – from the blog to the stage. In this role, you'll collaborate closely with growth, research, engineering, product, partnerships and other teams to produce compelling content that engages and informs our most important audiences.
 
-1. Build and manage a growing portfolio of new accounts across industries adopting conversational AI to help ElevenLabs meet its revenue goals
-2. Identify new business opportunities where ElevenLabs’ conversational AI capabilities can drive user engagement, automation, or cost efficiency
-3. Develop and maintain a deep understanding of the conversational AI landscape, including customer use cases, competitive solutions, and emerging trends
-4. Demonstrate expertise—or a strong willingness to learn—about conversational AI and how ElevenLabs’ voice technology can unlock value across customer support, virtual agents, in-app assistants, and more
-5. Develop and execute account strategies to expand ElevenLabs’ presence within key enterprise verticals
-6. Partner closely with customer success and solutions engineering to ensure smooth onboarding and expansion of accounts.
-7. Serve as a trusted advisor to clients, educating them on emerging trends in generative AI, voice interfaces, and conversational agents.
+You'll be responsible for:
 
-## **Requirements**
+* Owning the ElevenLabs blog – setting the editorial standard, writing new content, and editing draft posts from other teams.
+* Interviewing domain experts, mining data sets, and monitoring internal updates to unearth the best ideas and stories.
+* Making complex business and technical updates legible through clear writing and compelling visualizations.
+* Defining the house style and ensuring ElevenLabs maintains a consistent voice.
+* Writing keynotes and remarks for senior leadership that stick in the minds of audiences.
+* Managing a network of freelance writers and editors to scale output as needed.
 
-* 7+ years of quota‑carrying enterprise sales experience in SaaS or technology, ideally with exposure to AI, generative AI, LLM-based products, or API‑driven platforms.
-* Proven success closing seven‑figure deals and managing complex sales cycles with multiple stakeholders.
-* Deep understanding of enterprise procurement and legal processes, with ability to accelerate deal velocity.
-* Experience selling technical solutions to product and engineering leaders; ability to translate complex technology into business value.
-* Strong executive presence and ability to build relationships at the C‑suite and board level.
-* Comfort operating in an early‑stage, high‑growth environment, including building new playbooks and iterating quickly.
-* Passion for voice and audio AI and how it can unlock transformative value for customers.
-* A hybrid of customer & product-driven mentality that prioritizes client satisfaction & scale
+## Requirements
+
+The ideal candidate is an exceptional writer with a journalist's instincts – someone who knows how to find the story, sharpen an argument, and explain why it matters. You have a strong editorial point of view and you excel at turning unstructured ideas and data into a compelling and accessible argument. You care deeply about craft and quality, and you’re motivated to help others improve their own work too.
+
+We are looking for someone who has:
+
+* A background in journalism, editorial, or long-form writing, ideally covering AI, tech, or audio.
+* Exceptional writing across different formats.
+* Strong editing skills and the ability to reshape others' work while preserving their intent.
+* Strong instincts for distribution and a good understanding of how to shape writing to ensure it reaches and resonates with target audiences.
+* A track record of owning and improving editorial output, not just contributing to it.
+* Genuine curiosity about AI and an interest in helping the world understand what we’re building.
+
+## Location
+
+This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, Madrid, Warsaw and many more.
+
+#LI-Remote
