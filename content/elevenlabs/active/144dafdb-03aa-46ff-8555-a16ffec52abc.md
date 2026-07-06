@@ -1,15 +1,17 @@
 ---
-title: Account Executive - North America - Enterprise (Government)
+title: Account Executive - North America - Corporate
 status: active
-id: 68a1ad0b-d74e-4ebe-b6d0-877c53c9df7f
+id: 144dafdb-03aa-46ff-8555-a16ffec52abc
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/68a1ad0b-d74e-4ebe-b6d0-877c53c9df7f
-lastmod: '2026-04-03T22:39:41.926+00:00'
-date: '2026-04-03T22:39:41.926+00:00'
-location: Washington, D.C.
+url: https://jobs.ashbyhq.com/elevenlabs/144dafdb-03aa-46ff-8555-a16ffec52abc
+lastmod: '2026-07-03T02:11:17.874+00:00'
+date: '2026-07-03T02:11:17.874+00:00'
+location: San Francisco
 departments:
 - Revenue
 - Revenue - US
+offices:
+- New York
 ---
 
 ## About ElevenLabs
@@ -45,31 +47,31 @@ Everything we do is the result of the creativity and commitment of our team - bu
 
 ## **About the role**
 
-We’re looking for an experienced, motivated Enterprise Account Executive to drive ElevenLabs' growth in Federal Government. Our ideal candidate is passionate about the transformative possibilities of AI voice technology, and eager to act as a strategic partner - enabling organizations to leverage our industry-leading models and product to reimagine their customer experience, internal workflows, and monetization strategies. Given our success across the enterprise, we are looking for a builder to be our first Account Executive dedicated to government and to work closely with product and engineering to add value for our customers.
+We’re looking for an experienced, motivated Corporate Account Executive to drive ElevenLabs' growth in small to medium sized businesses across the United States. Our ideal candidate is passionate about the transformative possibilities of AI voice technology, and eager to act as a strategic partner - enabling organizations to leverage our industry-leading models and product to reimagine their customer experience, internal workflows, and monetization strategies.
 
 In this role you will:
 
-1. Build and manage a growing portfolio of new accounts across industries adopting conversational AI to help ElevenLabs meet its revenue goals
-2. Identify new business opportunities where ElevenLabs’ conversational AI capabilities can drive user engagement, automation, or cost efficiency
-3. Develop and maintain a deep understanding of the conversational AI landscape, including customer use cases, competitive solutions, and emerging trends
-4. Demonstrate expertise—or a strong willingness to learn—about conversational AI and how ElevenLabs’ voice technology can unlock value across customer support, virtual agents, in-app assistants, and more
-5. Develop and execute account strategies to expand ElevenLabs’ presence within key enterprise verticals (e.g., healthcare, government, finance).
+1. Build and manage a growing portfolio of new accounts across industries adopting conversational AI to help ElevenLabs meet its revenue goals.
+2. Identify new business opportunities where ElevenLabs’ conversational AI capabilities can drive user engagement, automation, or cost efficiency.
+3. Develop and maintain a deep understanding of the conversational AI landscape, including customer use cases, competitive solutions, and emerging trends.
+4. Demonstrate expertise—or a strong willingness to learn—about conversational AI and how ElevenLabs’ voice technology can unlock value across customer support, virtual agents, in-app assistants, and more.
+5. Develop and execute account strategies to expand ElevenLabs’ presence within key verticals.
 6. Partner closely with customer success and solutions engineering to ensure smooth onboarding and expansion of accounts.
 7. Serve as a trusted advisor to clients, educating them on emerging trends in generative AI, voice interfaces, and conversational agents.
 
 ## **Requirements**
 
-* 7+ years of quota‑carrying enterprise sales experience in SaaS or technology, ideally with exposure to AI, generative AI, LLM-based products, or API‑driven platforms.
-* Proven success closing seven‑figure deals and managing complex sales cycles with multiple stakeholders.
+* 3+ years of quota‑carrying enterprise sales experience in SaaS or technology, ideally with exposure to AI, generative AI, LLM-based products, or API‑driven platforms.
+* Proven success closing deals and managing complex sales cycles with multiple stakeholders.
 * Deep understanding of enterprise procurement and legal processes, with ability to accelerate deal velocity.
 * Experience selling technical solutions to product and engineering leaders; ability to translate complex technology into business value.
-* Strong executive presence and ability to build relationships at the C‑suite and board level.
+* Strong executive presence and ability to build relationships at the exec level.
 * Comfort operating in an early‑stage, high‑growth environment, including building new playbooks and iterating quickly.
 * Passion for voice and audio AI and how it can unlock transformative value for customers.
 * A hybrid of customer & product-driven mentality that prioritizes client satisfaction & scale
 
 ## **Location**
 
-This role is remote-first, so it can be executed from anywhere in the United States, however the ability to operate in EST, CST, or PST timezones is required. There is a preference for candidates to be based in Washington DC.
+This role is remote-first, so it can be executed from anywhere in the United States, however the ability to operate in EST, CST, or PST timezones is required.
 
 #LI-remote
