@@ -10,6 +10,8 @@ location: San Francisco
 departments:
 - General & Administrative
 - IT
+offices:
+- New York City
 ---
 
 ## **We are an applied AI lab building end-to-end software agents.**
@@ -24,7 +26,7 @@ Building Devin is just the first step—our hardest challenges still lie ahead. 
 
 We're seeking an onsite IT Specialist to manage our technology infrastructure and support our growing team. You'll be the point person for identity and access management, endpoint management, and end-user support in a collaborative environment that values agency and results.
 
-This role is required to be **in-person, working 5 days a week from our San Francisco office**. We value teamwork and in-person collaboration.
+This role is required to be **in-person, working 5 days a week from our San Francisco or New York office**. We value teamwork and in-person collaboration.
 
 ## **Key Responsibilities**
 
