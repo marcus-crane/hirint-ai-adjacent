@@ -1,6 +1,6 @@
 ---
 title: Full-Stack Software Engineer, Inference
-status: active
+status: archived
 id: f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
