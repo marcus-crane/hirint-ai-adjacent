@@ -8,7 +8,7 @@ lastmod: '2026-07-02T09:26:10.186+00:00'
 date: '2026-07-02T09:26:10.186+00:00'
 location: United Kingdom
 departments:
-- Creator Growth
+- Communications
 - Growth
 offices:
 - Denmark
