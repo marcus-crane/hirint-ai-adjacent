@@ -1,5 +1,5 @@
 ---
-title: Senior / Staff Product Manager, Consumer Create (Web)
+title: Senior / Staff Product Manager, Music Creation (Web)
 status: active
 id: bae3aa2a-ba82-4015-9f62-2fd0aa35aaee
 source: ashby

@@ -1,0 +1,72 @@
+---
+title: Front Desk Coordinator (R5313)
+status: active
+id: bddfa4f1-a13d-45cb-8dd9-7a23f76de5eb
+source: lever
+url: https://jobs.lever.co/shieldai/bddfa4f1-a13d-45cb-8dd9-7a23f76de5eb
+lastmod: '2026-07-09T02:13:17.323000+00:00'
+date: '2026-07-09T02:13:17.323000+00:00'
+location: Bonham, Texas
+departments:
+- Facilities
+offices:
+- Bonham, Texas
+---
+
+Founded in 2015, Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software and V-BAT and X-BAT aircraft. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://www.shield.ai). Follow Shield AI on [LinkedIn](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4619680-1&h=3309389735&u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fshield-ai&a=LinkedIn), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai/), and [YouTube](https://www.youtube.com/@Shield_AI).
+
+### Job Description:
+
+The Front Desk Coordinator serves as the first point of contact for visitors, clients, and employees, creating a professional and welcoming experience. This role is responsible for managing front desk operations, coordinating office activities, and supporting day-to-day administrative and facility needs.
+
+### What you'll do:
+
+* Greet and assist visitors, ensuring a positive and professional first impression
+* Manage emails and general inquiries, routing as appropriate
+* Coordinate visitor access, badging, and check-in processes
+* Maintain front desk organization, cleanliness, and readiness at all times
+* Schedule meetings and manage conference room bookings
+* Support office operations including mail distribution, deliveries, and supply inventory
+* Coordinate with vendors and service providers as needed
+* Assist with planning and execution of office events and meetings
+* Partner with Facilities, IT, and Security teams to support workplace needs
+* Maintain accurate records and handle sensitive information with discretion
+
+### Required qualifications:
+
+* Highschool Diploma or equivalent (Associate or Bachelor’s degree preferred)
+* 1–3 years of experience in a front desk, receptionist, or administrative role
+* Strong verbal and written communication skills
+* Proficiency in Microsoft Office or Google Workspace
+* Ability to multitask and prioritize in a fast-paced environment
+* Strong organizational skills and attention to detail
+* Professional demeanor with a customer-service mindset
+
+### Preferred qualifications:
+
+* Experience in a corporate or high-growth blended manufacturing/office environment
+* Familiarity with visitor management systems (Envoy)
+* Experience supporting facilities or office operations
+* Basic knowledge of access control and office security protocols
+* Experience coordinating vendors, deliveries, and events
+* Strong problem-solving skills and ability to work independently
+
+### Work environment:
+
+This role is Monday to Friday from 8am-5pm, based on-site in Bonham, TX and requires consistent presence during posted hours.
+
+#LB
+
+Full-time regular employee offer package:
+
+Pay within range listed + Bonus + Benefits + Equity
+
+Temporary employee offer package:
+
+Pay within range listed above + temporary benefits package (applicable after 60 days of employment)
+
+Salary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. All offers are contingent on a cleared background and possible reference check. Military fellows and part-time employees are not eligible for benefits. Please speak to your talent acquisition representative for more information.
+
+###
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.
