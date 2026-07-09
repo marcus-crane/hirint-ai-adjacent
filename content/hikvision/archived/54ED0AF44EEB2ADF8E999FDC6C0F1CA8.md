@@ -1,6 +1,6 @@
 ---
 title: 财务-财务报告经理(国内）-杭州
-status: active
+status: archived
 id: 54ED0AF44EEB2ADF8E999FDC6C0F1CA8
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=54ED0AF44EEB2ADF8E999FDC6C0F1CA8
