@@ -18,11 +18,11 @@ Etched is building hardware for frontier intelligence. We co-design chips, racks
 
 **Job Summary**
 
-We are seeking a highly skilled PCB Rework Technician with advanced capabilities in large BGA rework (including components >70mm) and complex board-level repairs involving fine-pitch components down to 0402. This role is critical to supporting engineering, validation, and bring-up efforts by performing high-reliability rework on advanced PCBs, including those supporting custom ASICs.
+We are seeking a highly skilled PCB Rework Technician with advanced capabilities in large BGA rework (including components >70mm) and complex board-level repairs involving fine-pitch components down to 0402. This role is critical to supporting engineering, validation, and bring-up efforts by performing high-reliability rework on advanced PCBs, including those supporting our chips.
 
 **Key responsibilities**
 
-* Perform precision rework and re-balling of very-large BGAs (custom ASIC packages > 70 mm) with high first-pass yield.
+* Perform precision rework and re-balling of very-large BGAs (large chip packages > 70 mm) with high first-pass yield.
 * Operate large-format BGA rework systems, ensuring exact alignment, controlled thermal profiles, and clean re-flow on high-pin-count ICs.
 * Rework SMT and through-hole components down to 0402 packages, maintaining exceptional workmanship and consistency across boards.
 * Read and interpret ECNs, schematics, layout files, and BOMs to execute component swaps and design modifications accurately.
@@ -35,7 +35,7 @@ We are seeking a highly skilled PCB Rework Technician with advanced capabilities
 
 * 5 + years of hands-on PCB rework experience on production-quality and/or R&D hardware.
 * Proven expertise with large BGAs (> 70 mm), fine-pitch QFNs/BGAs, and 0402-scale components.
-* Proficiency using advanced hot-air/IR rework platforms, precision microscopes, and large-area heaters designed for custom ASICs or high-power devices.
+* Proficiency using advanced hot-air/IR rework platforms, precision microscopes, and large-area heaters designed for large chips or high-power devices.
 * Skill in following detailed engineering rework instructions, layout files, and schematics with minimal supervision.
 * Familiarity with IPC-A-610 and IPC-7711/21 workmanship and rework standards.
 * Exceptional attention to detail, steady manual dexterity, and strong visual-inspection skills.
@@ -45,7 +45,7 @@ We are seeking a highly skilled PCB Rework Technician with advanced capabilities
 
 * Operating and programming X-ray or AOI systems for real-time inspection and failure analysis.
 * Performing micro-soldering, trace repair, and circuit rerouting on high-density, multi-layer boards.
-* Reballing custom ASIC packages and handling ultra-large, high-pin-count ICs.
+* Reballing large chip packages and handling ultra-large, high-pin-count ICs.
 * Developing or optimizing thermal profiles for challenging package types (e.g., stacked dies, high-power BGAs).
 * Documenting rework processes in MES/PLM systems and feeding back design-for-rework (DFR) recommendations.
 * Supporting engineering bring-up with rapid component swaps, blue-wire fixes, and on-the-fly design experiments.
