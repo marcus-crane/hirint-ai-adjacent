@@ -4,8 +4,8 @@ status: active
 id: aabab672-e4da-4e1f-bdf1-bf7f28622adf
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/aabab672-e4da-4e1f-bdf1-bf7f28622adf
-lastmod: '2026-07-13T09:38:49.475+00:00'
-date: '2026-07-13T09:38:49.475+00:00'
+lastmod: '2026-07-13T14:35:33.121+00:00'
+date: '2026-07-13T14:35:33.121+00:00'
 location: France
 departments:
 - Revenue
@@ -67,3 +67,5 @@ This is a 0→1 build: you'll design and pilot partner incentive and enablement 
 **Location**
 
 This role is remote-first but Paris is preferred.
+
+#LI-remote
