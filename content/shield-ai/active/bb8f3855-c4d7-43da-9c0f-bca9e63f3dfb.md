@@ -60,6 +60,14 @@ Shield AI is seeking a Senior Solutions Engineer based in New Delhi to support t
 * 5+ years of experience in an presales/solutions engineering role 3+ years of experience working in a startup environment.
 * Demonstrated understanding of specific MOD operational scenarios and systems.
 
+### Why join Shield AI:
+
+* Help build the defining defence technology company of this century.
+* Work at the forefront of AI, autonomy, and next-generation defence systems.
+* Operate in a highly entrepreneurial and mission-driven environment.
+* Make a direct impact on international growth and strategic defence partnerships.
+* Collaborate with exceptional teams solving some of the world’s most complex operational challenges.
+
 #LI-LD2
 
 #LE
