@@ -9,7 +9,7 @@ date: '2026-07-13T15:07:25.252+00:00'
 location: Remote - US
 departments:
 - Marketing
-compensation: $374K – $415K • Offers Equity
+compensation: $255.6K – $415K • Offers Equity
 ---
 
 **About the Team**

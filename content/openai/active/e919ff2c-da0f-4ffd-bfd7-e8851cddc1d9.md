@@ -9,7 +9,7 @@ date: '2026-05-05T20:37:00.425+00:00'
 location: New York City
 departments:
 - Go To Market
-compensation: $335K – $350K • Offers Equity
+compensation: $335K – $350K • Offers Equity • Offers Commission
 ---
 
 ## **About the Role**
