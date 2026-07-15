@@ -1,6 +1,6 @@
 ---
 title: Third Party Risk Manager, APAC
-status: active
+status: archived
 id: feba5afa-8b01-4050-ad6c-889dfeaafd9f
 source: ashby
 url: https://jobs.ashbyhq.com/openai/feba5afa-8b01-4050-ad6c-889dfeaafd9f
