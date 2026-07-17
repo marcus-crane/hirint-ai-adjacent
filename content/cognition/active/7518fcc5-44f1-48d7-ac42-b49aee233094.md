@@ -16,9 +16,9 @@ offices:
 
 ## **We are an applied AI lab building end-to-end software agents.**
 
-We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-native IDE. Together, they represent our vision for collaborative AI teammates that enable engineers to focus on more interesting problems and empower teams to strive for more ambitious goals.
+We're the makers of Devin, the first AI software engineer.
 
-Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
+Our team is extremely talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
 Building Devin is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
 
