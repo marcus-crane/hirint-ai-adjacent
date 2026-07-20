@@ -4,11 +4,16 @@ status: active
 id: cbb71f8e-bed7-495d-bf16-3fae2f7aedf7
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7
-lastmod: '2026-07-08T13:57:30.890+00:00'
-date: '2026-07-08T13:57:30.890+00:00'
+lastmod: '2026-07-20T16:13:33.076+00:00'
+date: '2026-07-20T16:13:33.076+00:00'
 location: New York
 departments:
 - Revenue
+offices:
+- Boston
+- Nashville
+- Richmond, VA
+- Washington, DC
 ---
 
 **Who are we?**
