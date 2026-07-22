@@ -10,6 +10,8 @@ location: United States
 departments:
 - Revenue
 - Solutions Architecture
+offices:
+- Canada
 ---
 
 **Who are we?**

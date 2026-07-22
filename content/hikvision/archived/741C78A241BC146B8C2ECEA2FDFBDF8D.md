@@ -1,6 +1,6 @@
 ---
 title: 泛欧业务中心-渠道销售-杭州
-status: active
+status: archived
 id: 741C78A241BC146B8C2ECEA2FDFBDF8D
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=741C78A241BC146B8C2ECEA2FDFBDF8D
