@@ -91,6 +91,6 @@ This is an exciting opportunity to work on cutting-edge technologies and make a 
 
 ## Location
 
-This role is remote-first, so it can be executed from anywhere, with the ability to operate between GMT-5 and GMT+1 timezones required. If you prefer, you can work from our offices in Dublin, London, New York, and Warsaw.
+This role is remote-first, so it can be executed from anywhere with the ability to operate between GMT and GMT-3 preferred.
 
 #LI-remote

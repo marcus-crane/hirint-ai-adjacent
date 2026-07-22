@@ -4,8 +4,8 @@ status: active
 id: cbb71f8e-bed7-495d-bf16-3fae2f7aedf7
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7
-lastmod: '2026-07-20T16:13:33.076+00:00'
-date: '2026-07-20T16:13:33.076+00:00'
+lastmod: '2026-07-21T21:33:58.521+00:00'
+date: '2026-07-21T21:33:58.521+00:00'
 location: New York
 departments:
 - Revenue
@@ -66,6 +66,10 @@ We are a global technology company co-headquartered in Toronto and San Francisco
 * Ability to articulate strategic value propositions for AI/NLP solutions across healthcare use cases including clinical trial optimization, medical document processing, drug discovery acceleration, and patient outcome prediction
 * Experience navigating complex healthcare procurement processes, including stakeholder mapping across clinical, IT, and administrative functions
 * Experience with channel partnerships including EHR vendors, healthcare IT consultants, and life sciences service providers
+
+*Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.*
+
+*For candidates in the United States, the Base Salary Range is : $155,000 - $222,500 USD*
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
