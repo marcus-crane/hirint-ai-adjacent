@@ -1,5 +1,5 @@
 ---
-title: Marketing Manager, Startup Events & Community
+title: Marketing Manager, Startup Events & Programs
 status: active
 id: 8acfb92a-eb71-4159-acef-a988eac40fcb
 source: ashby
