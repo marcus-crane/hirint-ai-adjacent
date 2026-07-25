@@ -8,7 +8,7 @@ lastmod: '2026-07-21T08:28:03.534+00:00'
 date: '2026-07-21T08:28:03.534+00:00'
 location: Tokyo, Japan
 departments:
-- Model Deployment for Business
+- Forward Deployed Engineering
 ---
 
 **About the Team**
