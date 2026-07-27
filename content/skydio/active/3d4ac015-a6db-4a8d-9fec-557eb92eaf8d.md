@@ -1,5 +1,5 @@
 ---
-title: Customer Success Manager, DFR Majors - Southeast
+title: Customer Success Manager, DFR Majors - Florida
 status: active
 id: 3d4ac015-a6db-4a8d-9fec-557eb92eaf8d
 source: ashby
@@ -22,7 +22,7 @@ The Customer Success team enables sales by winning the technical validation proc
 
 We are looking for a motivated Customer Success Manager with a deep sense of ownership to lead and drive all aspects of implementation, usage, retention and expansion of our Public Safety customers. A successful candidate will become an indispensable bridge between our customers and Skydio’s extremely agile and world class technical teams. This role reports to the Manager, Customer Success (Public Safety, Major-Markets) and will work closely with our Product, Engineering, and Sales functions to deliver industry leading autonomous solutions that drive value to our customers.
 
-**Location:** This role is ideally suited for candidates based in the Southeast
+**Location:** This role is ideally suited for candidates based in the state of Florida or in the Southeast near a major airport
 
 **How you’ll make an impact:**
 
