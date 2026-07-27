@@ -1,6 +1,6 @@
 ---
 title: Android Engineer
-status: active
+status: archived
 id: b05d28ca-bd69-4a3e-ba47-3fa12aa0ef8d
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/b05d28ca-bd69-4a3e-ba47-3fa12aa0ef8d
