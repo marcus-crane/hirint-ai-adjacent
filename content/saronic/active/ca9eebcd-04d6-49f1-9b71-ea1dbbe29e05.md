@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/saronic/ca9eebcd-04d6-49f1-9b71-ea1dbbe29e05
 lastmod: '2026-06-08T17:32:01.848+00:00'
 date: '2026-06-08T17:32:01.848+00:00'
-location: Washington, DC
+location: Arlington, VA
 departments:
 - Business Development
 - Programs

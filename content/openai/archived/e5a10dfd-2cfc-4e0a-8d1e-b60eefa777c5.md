@@ -1,6 +1,6 @@
 ---
 title: AI Success Engineer
-status: active
+status: archived
 id: e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5
 source: ashby
 url: https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5

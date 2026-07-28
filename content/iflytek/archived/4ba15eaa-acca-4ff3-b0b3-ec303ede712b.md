@@ -1,6 +1,6 @@
 ---
 title: 中级软件开发工程师(J13002)
-status: active
+status: archived
 id: 4ba15eaa-acca-4ff3-b0b3-ec303ede712b
 source: beisen
 url: https://iflytek.zhiye.com/jobs/4ba15eaa-acca-4ff3-b0b3-ec303ede712b
