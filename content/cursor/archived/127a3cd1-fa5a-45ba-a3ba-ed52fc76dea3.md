@@ -1,6 +1,6 @@
 ---
 title: Country Leader - Japan
-status: active
+status: archived
 id: 127a3cd1-fa5a-45ba-a3ba-ed52fc76dea3
 source: ashby
 url: https://jobs.ashbyhq.com/cursor/127a3cd1-fa5a-45ba-a3ba-ed52fc76dea3

@@ -1,23 +1,24 @@
 ---
 title: Android Engineer
-status: archived
+status: active
 id: b05d28ca-bd69-4a3e-ba47-3fa12aa0ef8d
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/b05d28ca-bd69-4a3e-ba47-3fa12aa0ef8d
-lastmod: '2026-07-20T14:53:32.510+00:00'
-date: '2026-07-20T14:53:32.510+00:00'
+lastmod: '2026-07-29T09:46:40.807+00:00'
+date: '2026-07-29T09:46:40.807+00:00'
 location: London
 departments:
 - Creative App
 - Engineering & Product
 offices:
 - Berlin
+- Europe
 - France
 - Germany
-- New York
 - Portugal
-- San Francisco
 - Sofia
+- Tokyo
+- United Kingdom
 - Warsaw
 ---
 
@@ -91,6 +92,6 @@ This is an exciting opportunity to work on cutting-edge technologies and make a 
 
 ## Location
 
-This role is remote-first, so it can be executed from anywhere with the ability to operate between GMT and GMT-3 preferred.
+This role is remote-first, so it can be executed from anywhere with the ability to operate between GMT and GMT+5 preferred.
 
 #LI-remote
