@@ -1,5 +1,5 @@
 ---
-title: Senior Cloud Security Architect - Security Engineering
+title: Senior Staff - Cloud Security Architect - Security Engineering
 status: active
 id: adce36fb-4e3a-4e54-be20-daea9a9ec7c5
 source: ashby
