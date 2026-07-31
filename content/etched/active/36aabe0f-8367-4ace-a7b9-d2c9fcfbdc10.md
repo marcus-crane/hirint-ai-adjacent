@@ -1,5 +1,5 @@
 ---
-title: 'Equity Accounting Lead '
+title: Equity Accounting and Financial Reporting
 status: active
 id: 36aabe0f-8367-4ace-a7b9-d2c9fcfbdc10
 source: ashby
