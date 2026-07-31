@@ -1,6 +1,6 @@
 ---
 title: Engineering Lead
-status: active
+status: archived
 id: aa3cfa19-c0ff-437f-a9e5-95be7f77bdf0
 source: ashby
 url: https://jobs.ashbyhq.com/flock/aa3cfa19-c0ff-437f-a9e5-95be7f77bdf0
