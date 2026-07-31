@@ -1,18 +1,18 @@
 ---
-title: B2B Marketing - UKI Growth Lead
+title: Detection Engineer - APAC
 status: active
-id: 4bafa4ea-5271-43af-903e-2dfca0123753
+id: 6fb6f3a3-9680-41ac-bcde-e5a7abfc5f5c
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/4bafa4ea-5271-43af-903e-2dfca0123753
-lastmod: '2026-05-29T16:48:39.529+00:00'
-date: '2026-05-29T16:48:39.529+00:00'
-location: United Kingdom
+url: https://jobs.ashbyhq.com/elevenlabs/6fb6f3a3-9680-41ac-bcde-e5a7abfc5f5c
+lastmod: '2026-07-29T07:52:29.160+00:00'
+date: '2026-07-29T07:52:29.160+00:00'
+location: Singapore
 departments:
-- B2B Marketing
-- Growth
+- Engineering & Product
+- Security
 offices:
-- Ireland
-- London
+- Australia
+- Philippines
 ---
 
 ## About ElevenLabs
@@ -48,31 +48,20 @@ Everything we do is the result of the creativity and commitment of our team - bu
 
 ## About the role
 
-We are looking for a powerhouse Growth Marketer to own and accelerate our B2B footprint in the UK and Ireland. This isn't a traditional marketing role; we need a "jack of all trades" who can pivot from high-level campaign planning to setting up complex outbound sequences in the same afternoon.
-
-You will be the primary driver for growth in these regions, taking full ownership of projects from inception to the final outcome. You are someone who views "chaos" as an opportunity to build and thrives when managing multiple work streams simultaneously.
-
-## **Your Responsibilities**
-
-* **Full-Funnel Ownership:** Drive the UKI B2B growth strategy and partially tackle the Nordic markets, owning the pipeline target from lead gen to conversion
-* **Outbound Mastery:** Set up, manage, and optimize complex outbound sequences to reach enterprise decision-maker
-* **Event & Campaign Execution:** Organize high-impact events, webinars, and trade shows from start to finish
-* **Performance & Analysis:** Work closely with the performance team on retargeting and ABM, while being comfortable diving deep into the numbers to analyze what’s working
-* **Creative Content:** Craft compelling sales collateral, thought leadership content, and messaging tailored to the UKI and Nordic tech landscapes
-* **Vendor & Partner Management:** Identify and orchestrate top-tier local partnerships and sponsorships
+As a Security Detection & Response Engineer at ElevenLabs, you'll be on the front lines of our security operations, playing a critical role in building and maintaining our detection and incident response capabilities. You'll have an automation mindset, constantly looking for ways to scale our security efforts and reduce manual work, leveraging frontier AI models. This role is perfect for someone passionate about security frameworks and best practices, driven by ownership, and eager to continuously improve our security posture. You’ll be instrumental in developing best-in-class security practices as we scale.
 
 ## Requirements
 
-* Native English Speaker
-* **The "Owner" Mentality:** Proven track record of delivering projects from start to finish and taking full accountability for the results
-* **Entrepreneurial Drive:** Ideally, you have founded a company, worked in an early-stage startup, or have a history of high-engagement "side quests"
-* **Chaos Compatibility:** You enjoy a fast-paced environment and have the mental bandwidth to handle multiple complex workstreams without dropping the ball
-* **The Growth Toolkit:** Broad knowledge across performance marketing, data analysis, campaign execution, and event organization
-* **Bias toward Action:** You are a self-starter who doesn't wait for permission to experiment and scale
-* **Strategic Instincts:** Ability to understand our customer base and craft positioning that resonates with the UK and Ireland markets
+* Proven experience in incident response and security operations, including triaging security alerts, conducting investigations, and leading response efforts.
+* Strong background in detection engineering, including developing, tuning, and maintaining security detection rules and alerts.
+* Hands-on experience with SIEM Infrastructure, specifically with Google SecOps (Chronicle). This includes data onboarding, parsing, rule creation, and dashboarding.
+* Proficiency in security monitoring across various platforms, including JAMF MDM for macOS endpoints, Google Workspace, Okta and general SaaS applications.
+* Experience with cloud security monitoring, particularly in Google Cloud (GCP) with familiarity in GCP Security Command Center (SCC).
+* Solid scripting skills (e.g., Python, Bash) for automating detection and response tasks, data parsing, and security tooling integration.
+* Deep understanding of common attack techniques, threat intelligence, and the ability to translate them into actionable detections.
+* Familiarity with security frameworks and best practices (e.g., MITRE ATT&CK, NIST Cybersecurity Framework).
+* Excellent analytical and problem-solving skills, with a keen eye for detail and the ability to connect disparate pieces of information during investigations.
 
-## **Bonus Experience**
+## Location
 
-* SEO and content strategy expertise.
-* Design skills (Figma/Adobe Suite).
-* Experience with AI-native workflows.
+This role is remote, so it can be executed from anywhere in the APAC region with the ability to operate in [GMT+10] timezones. We’re particularly looking for candidates based in Singapore, Australia or the Philippines.
