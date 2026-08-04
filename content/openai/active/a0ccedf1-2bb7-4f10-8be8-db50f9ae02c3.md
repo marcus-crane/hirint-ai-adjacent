@@ -12,7 +12,7 @@ departments:
 offices:
 - Dublin, Ireland
 - London, UK
-compensation: $293K – $405K • Offers Equity
+compensation: $293K – $325K • Offers Equity
 ---
 
 **About the Team**
