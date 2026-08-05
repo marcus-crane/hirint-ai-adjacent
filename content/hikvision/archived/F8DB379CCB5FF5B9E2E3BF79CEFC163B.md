@@ -1,6 +1,6 @@
 ---
 title: 人力-员工关系实习生-签证管理-杭州
-status: active
+status: archived
 id: F8DB379CCB5FF5B9E2E3BF79CEFC163B
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=F8DB379CCB5FF5B9E2E3BF79CEFC163B
