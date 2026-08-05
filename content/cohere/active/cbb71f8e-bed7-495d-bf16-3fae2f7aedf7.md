@@ -4,8 +4,8 @@ status: active
 id: cbb71f8e-bed7-495d-bf16-3fae2f7aedf7
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/cbb71f8e-bed7-495d-bf16-3fae2f7aedf7
-lastmod: '2026-07-21T21:33:58.521+00:00'
-date: '2026-07-21T21:33:58.521+00:00'
+lastmod: '2026-07-29T13:41:42.001+00:00'
+date: '2026-07-29T13:41:42.001+00:00'
 location: New York
 departments:
 - Revenue
@@ -88,7 +88,7 @@ We are a global technology company co-headquartered in Toronto and San Francisco
 
 ## **How and Where We Work:**
 
-* Cohere is remote-friendly. We have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, and more coming soon.
+* Cohere is remote-friendly, but we also have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, Seoul with more opening soon.
 * For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
 * For those not near an office: a co-working benefit so you can work alongside others in your city.
 * Everyone receives a $500 home office stipend to set up your workspace properly.

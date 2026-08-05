@@ -8,7 +8,7 @@ lastmod: '2026-07-01T16:59:48.957+00:00'
 date: '2026-07-01T16:59:48.957+00:00'
 location: Virginia Beach, VA
 departments:
-- Mission Services
+- Mission Operations
 - Mission Training
 ---
 

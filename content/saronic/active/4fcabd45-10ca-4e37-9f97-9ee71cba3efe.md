@@ -8,8 +8,7 @@ lastmod: '2026-02-18T18:46:30.121+00:00'
 date: '2026-02-18T18:46:30.121+00:00'
 location: Austin, TX
 departments:
-- Internal Tools
-- Mission Services
+- Enterprise Technology
 ---
 
 Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.
