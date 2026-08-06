@@ -77,3 +77,5 @@ In this role you'll act as a strategic partner and trusted advisor, enabling cli
 This is an in-country role with a preference for a candidate based in Stockholm. You can work remotely or from our office in Stockholm.
 
 #LI-remote
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

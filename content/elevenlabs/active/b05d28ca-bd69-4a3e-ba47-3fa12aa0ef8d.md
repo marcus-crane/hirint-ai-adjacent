@@ -95,3 +95,5 @@ This is an exciting opportunity to work on cutting-edge technologies and make a 
 This role is remote-first, so it can be executed from anywhere with the ability to operate between GMT and GMT+5 preferred.
 
 #LI-remote
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

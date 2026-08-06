@@ -65,3 +65,5 @@ As a Security Detection & Response Engineer at ElevenLabs, you'll be on the fron
 ## Location
 
 This role is remote, so it can be executed from anywhere in the APAC region with the ability to operate in [GMT+10] timezones. We’re particularly looking for candidates based in Singapore, Australia or the Philippines.
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

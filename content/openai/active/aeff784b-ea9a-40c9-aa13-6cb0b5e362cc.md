@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/openai/aeff784b-ea9a-40c9-aa13-6cb0b5e362cc
 lastmod: '2026-03-23T20:19:14.153+00:00'
 date: '2026-03-23T20:19:14.153+00:00'
-location: Remote - US
+location: US - Remote
 departments:
 - Applied AI
 - B2B Applications

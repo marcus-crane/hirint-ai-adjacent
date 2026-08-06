@@ -89,3 +89,5 @@ We believe in hiring the best talent in the world to make an impact in the right
 This role is remote-first, so it can be executed from anywhere in NA and EU. If you prefer, you can work from our offices in Dublin, London, New York, and Warsaw.
 
 #LI-Remote
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

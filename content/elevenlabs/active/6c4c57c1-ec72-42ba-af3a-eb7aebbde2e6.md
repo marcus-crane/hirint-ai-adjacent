@@ -69,3 +69,5 @@ What you will do:
 * Excellent communication and problem-solving skills. Especially in terms of ability to summarize complex technical knowledge and using logic in pursuing optimal solutions.
 
 #LI-remote
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

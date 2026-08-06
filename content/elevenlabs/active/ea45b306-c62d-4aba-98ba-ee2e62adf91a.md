@@ -80,3 +80,5 @@ We are looking for someone who has:
 This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, Madrid, Warsaw and many more.
 
 #LI-Remote
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
