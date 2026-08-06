@@ -19,7 +19,7 @@ We’re training and deploying frontier models for enterprises who are building 
 
 We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
 
-We are a global technology company co-headquartered in Toronto and San Francisco, with key offices in London, New York City, Montreal, Seoul, Germany and Paris. Join us!
+We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
 
 ## **Role Overview:**
 
@@ -61,7 +61,7 @@ As a Business Development Representative (BDR) at Cohere, you will drive revenue
 
 ## **How and Where We Work:**
 
-* Cohere is remote-friendly, but we also have offices in Toronto, San Francisco, New York City, London, Paris, Montreal, Seoul with more opening soon.
+* Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.
 * For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
 * For those not near an office: a co-working benefit so you can work alongside others in your city.
 * Everyone receives a $500 home office stipend to set up your workspace properly.

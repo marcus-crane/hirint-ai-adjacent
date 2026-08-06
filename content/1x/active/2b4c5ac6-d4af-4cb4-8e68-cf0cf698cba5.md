@@ -4,8 +4,8 @@ status: active
 id: 2b4c5ac6-d4af-4cb4-8e68-cf0cf698cba5
 source: ashby
 url: https://jobs.ashbyhq.com/1x/2b4c5ac6-d4af-4cb4-8e68-cf0cf698cba5
-lastmod: '2026-07-30T17:38:47.129+00:00'
-date: '2026-07-30T17:38:47.129+00:00'
+lastmod: '2026-08-06T00:18:22.691+00:00'
+date: '2026-08-06T00:18:22.691+00:00'
 location: San Carlos, CA
 departments:
 - Manufacturing Operations
@@ -74,7 +74,7 @@ Team members at 1X who thrive here are builders. They move fast, own their work 
 
 **Compensation Range:**
 
-**$XXX,XXXX - $XXX,XXX / $XX.XX/hr - $XX.XX/hr**
+**$90,000 - $115,000**
 
 **Benefits:**
 
