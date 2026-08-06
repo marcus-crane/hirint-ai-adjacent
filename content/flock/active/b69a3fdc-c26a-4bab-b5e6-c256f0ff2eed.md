@@ -102,7 +102,7 @@ Working closely with your PM, you'll bring clarity to complex problems and help 
 * Share Incentive Plan 📈
 * Workplace Pension 💰
 * Private Medical Insurance 🏩 (including Optical 👓 & Mental Health 💆‍♀️ support options)
-* Various Salary Sacrifice Schemes - Workplace Nursery, Holiday Purchase, Tech, Gym, Cycle to Work, Electric Vehicle, Private Medical Insurance for families 💵
+* Various Salary Sacrifice Schemes - Holiday Purchase, Tech, Gym, Cycle to Work, Electric Vehicle, Private Medical Insurance for families 💵
 * Enhanced Parental Leave and Pay 🐣
 * £1000 toward relevant professional qualifications 🎓
 * £500 per annum towards learning and development 🌱
