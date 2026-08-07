@@ -1,6 +1,6 @@
 ---
 title: Senior Technical Sourcer- Hardware, Contract (6 months)
-status: active
+status: archived
 id: 77aac5b1-4c17-4fba-bd63-a3bab1e4cb67
 source: lever
 url: https://jobs.lever.co/shieldai/77aac5b1-4c17-4fba-bd63-a3bab1e4cb67
