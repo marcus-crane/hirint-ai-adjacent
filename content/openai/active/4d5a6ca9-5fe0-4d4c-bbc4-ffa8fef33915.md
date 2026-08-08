@@ -1,12 +1,12 @@
 ---
-title: Account Director, Professional Services
+title: Account Director, GSIs & Consulting
 status: active
 id: 4d5a6ca9-5fe0-4d4c-bbc4-ffa8fef33915
 source: ashby
 url: https://jobs.ashbyhq.com/openai/4d5a6ca9-5fe0-4d4c-bbc4-ffa8fef33915
 lastmod: '2026-06-25T19:59:25.486+00:00'
 date: '2026-06-25T19:59:25.486+00:00'
-location: New York City
+location: US - Remote
 departments:
 - Go To Market
 - Sales
