@@ -1,6 +1,6 @@
 ---
 title: Associate Facilities Coordinator (R5455)
-status: archived
+status: active
 id: faadba0f-23fc-4398-b3b4-f2ad4dbafe25
 source: lever
 url: https://jobs.lever.co/shieldai/faadba0f-23fc-4398-b3b4-f2ad4dbafe25

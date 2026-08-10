@@ -1,6 +1,6 @@
 ---
 title: 【研发中心】2026届人力资源管培生(J23945)
-status: active
+status: archived
 id: f0ade4ed-dcd6-4e7e-bfbd-73f383ba24ad
 source: dahua
 url: https://job.dahuatech.com/post/f0ade4ed-dcd6-4e7e-bfbd-73f383ba24ad
