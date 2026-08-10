@@ -1,11 +1,11 @@
 ---
-title: Paralegal
+title: Paralegal, Entity Management & Corporate Governance
 status: active
 id: faf6f3a3-c215-4f25-aaee-5111dddde3c9
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/faf6f3a3-c215-4f25-aaee-5111dddde3c9
-lastmod: '2026-08-07T18:37:47.043+00:00'
-date: '2026-08-07T18:37:47.043+00:00'
+lastmod: '2026-08-10T12:45:28.050+00:00'
+date: '2026-08-10T12:45:28.050+00:00'
 location: United States
 departments:
 - Legal
@@ -45,39 +45,42 @@ Everything we do is the result of the creativity and commitment of our team - bu
 
 ## **About the Role**
 
-We’re seeking a first-class Contract Manager / Paralegal to support the ElevenLabs Legal team on a range of commercial, corporate, compliance, litigation and operational matters. You’ll collaborate closely with colleagues all over the world to enable growth while effectively managing risk across numerous jurisdictions.
+We are looking for a Paralegal to join our Legal team and support the Company's growing international entity portfolio. The ideal candidate will have experience in international subsidiary management, a strong understanding of corporate law, and experience leveraging technology to efficiently maintain corporate records.
 
-**In this role, you will:**
+In this role, you will:
 
-* Review, manage, and track customer and vendor agreements (NDAs, MSAs, SOWs, DPAs, amendments).
-* Maintain contract records and reporting through our CLM systems and DocuSign.
-* Review and negotiate NDAs, ensuring compliance with company policies.
-* Support contract negotiations and assist with template/playbook updates.
-* Maintain corporate records for U.S. and international subsidiaries (board minutes, resolutions, signatory updates).
-* Coordinate with external counsel on entity formation, registrations, and compliance filings.
-* Assist with the management of our intellectual property portfolio, including tracking filings and maintaining records.
-* Participate in special projects including corporate diligence, litigation matters, and compliance rollouts.
+* Coordinate the formation of new international subsidiaries, including preparing and organizing incorporation documents, organizational document amendments, notary and apostille requirements, state and local filings, and foreign qualifications.
+* Assist with M&A deal execution, including organizing data rooms, tracking closing checklists, and coordinating document signatures.
+* Own the global compliance calendar by proactively tracking filing deadlines, tax registrations, board meeting requirements, and government submissions across all entities.
+* Ensure entities remain in good standing by coordinating required filings through outside counsel, corporate service providers, and entity management platforms.
+* Maintain corporate governance records, including director and officer information, constitutional documents, signatory registers, and formation files.
+* Support the onboarding and day-to-day use of the Company's entity management platform.
+* Serve as a key point of contact for entity-related requests from internal and external teams across multiple jurisdictions.
+* Manage and work together with members of the Legal, Finance, People, and other teams on the Company's corporate governance matters, including constitutive documents, filings, business permits, and Board and shareholder documentation.
+* Manage the signature coordination and filing of vendor contracts across the organization .
+* Coordinate with external counsel and other stakeholders to gather and provide necessary information for Company projects and transactions.
 
-**Who you are:**
+## **Who you are**
 
-* Highly organized, detail-oriented, and proactive - you’re comfortable juggling multiple priorities while maintaining accuracy.
-* Genuinely interested in the future of AI and emerging technologies, bringing curiosity and enthusiasm to your role.
-* A strong communicator who enjoys collaborating with cross-functional teams.
-* Curious, adaptable, and eager to learn the nuances of AI/SaaS contracting.
-* Comfortable working independently in a distributed, high-trust environment.
+* Excited about AI and eager to work at a company building at the frontier of the technology industry.
+* Highly organized and detail-oriented, with the ability to manage multiple workstreams across jurisdictions and time zones.
+* The kind of person who follows up without being asked and flags issues before they become problems.
+* A clear communicator who can work effectively with outside counsel, internal teams, and service providers across cultures and geographies.
+* Hunger to be exceptional at your job.
 
-**What you bring:**
+## **What you bring**
 
-* 3+ years of experience as a contract manager or paralegal (in-house experience at a tech or SaaS company preferred).
-* Strong understanding of contract management and corporate governance.
-* Experience supporting international entities and coordinating with external counsel.
-* Familiarity with SaaS/AI contracting considerations is a plus.
-* Proficiency with CLM tools (Ironclad, Salesforce, Asana, DocuSign) or similar systems.
-* Excellent organizational skills and ability to manage competing deadlines.
+* At least 3 years of experience in a corporate paralegal, entity management, or legal operations role.
+* Experience supporting entity formations, corporate filings, or corporate governance processes.
+* Familiarity with coordinating across multiple jurisdictions and working with international outside counsel or service providers.
+* Excellent written and verbal communication skills.
+* Comfort working with AI tooling and a willingness to build with it.
+* Exposure to M&A transaction support.
+* Paralegal certificate or equivalent professional training is a plus.
 
-**Location**
+## **Location**
 
-This role is remote and can be executed in the United States.
+This role is remote and can be executed from anywhere in the world, but candidates based in New York, San Francisco, or London are preferred.
 
 #LI-Remote
 
