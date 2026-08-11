@@ -1,5 +1,5 @@
 ---
-title: Senior Manager, Solutions Architecture
+title: Senior Director, Solutions Architecture — Americas
 status: active
 id: 1e6c4acf-d98a-46ac-bacb-d609ca1326c1
 source: ashby
@@ -24,53 +24,56 @@ We obsess over what we build. Each one of us is responsible for contributing to 
 
 We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
 
-As the Senior Manager of Solutions Architecture for Americas at Cohere, you will lead the US & Canada commercial Solutions Architecture team, helping enterprise customers adopt agentic AI at scale while driving commercial success. You will be responsible for building a high-performing team of Solutions Architects, establishing repeatable solution-selling and delivery practices, and partnering closely with Sales, Product, and Engineering to win strategic enterprise opportunities.
+As the Senior Director of Solutions Architecture for the Americas at Cohere, you will own the US and Canada commercial Solutions Architecture function. You will lead the team that turns enterprise interest in agentic AI into deployed, production systems, and you will be accountable for the technical win in the most competitive AI market in the world. The United States and Canada are our largest commercial opportunity, and this seat owns how we win them.
 
-In this leadership role, you will combine technical credibility, consulting discipline, and commercial acumen to help customers solve complex business problems while shaping Cohere's enterprise AI strategy.
+You will take an established, distributed team of strong technical people and raise what it can do — setting the bar and establishing the operating rhythm that lets a team of generalists run consistent, industry-fluent plays at enterprise scale. You will set direction for the function, sit on the Solution Architecture leadership team alongside the regional leaders for EMEA and Asia Pacific, and contribute to company-wide decisions with your peers across Sales, Product and Engineering.
 
-### **In this role, you will:**
+# **In this role, you will:**
 
-* **Lead and Scale the Team:** Build, coach, and develop a high-performing Solutions Architecture organization across the US & Canada, raising the bar through hiring, mentorship, and operational excellence.
-* **Drive Revenue Growth:** Partner with Sales to develop and execute technical sales strategies that accelerate enterprise adoption and contribute directly to revenue growth.
-* **Build Repeatable Solution Practices:** Establish scalable solution-selling methodologies, industry playbooks, executive narratives, business cases, and technical delivery frameworks that improve consistency and win rates.
-* **Own Strategic Customer Engagements:** Lead technical engagements with enterprise customers, serving as a trusted advisor to executive and technical stakeholders throughout the sales cycle.
-* **Architect Enterprise AI Solutions:** Guide customers in designing secure, scalable, production-ready agentic AI solutions across cloud, hybrid, VPC, and on-premises environments.
+* **Lead and Scale the Organization:** Build, coach and develop a high-performing Solutions Architecture organization across the US and Canada, and grow the senior technical talent within it.
+* **Own the Technical Win:** Be personally accountable for the technical outcome of the region’s most strategic pursuits, and be in the room for the ones that decide the year.
+* **Own the US Market:** Lead how Cohere positions, proves and sells into US enterprises — our largest commercial opportunity, and the market this seat is measured on.
+* **Extend Our Reach:** Grow the share of the region’s pipeline the team is technically leading, and make sure we are engaged early on the opportunities that matter most.
+* **Own the Number with Sales:** Partner with regional Sales leadership as a co-owner of the region’s number, not as a support function to it.
+* **Set Direction for the Function:** Define the vision, strategy and operating model for Americas Solutions Architecture, and hold your leaders accountable for delivery and execution against it.
+* **Build Repeatable Solution Practices:** Establish scalable solution-selling methodologies, industry playbooks, executive narratives, business cases and technical delivery frameworks that improve consistency and win rates.
+* **Architect Enterprise AI Solutions:** Guide customers in designing secure, scalable, production-ready agentic AI solutions across cloud, hybrid, VPC and on-premises environments.
 * **Shape Product Direction:** Partner closely with Product and Engineering to translate customer feedback and market needs into platform improvements and roadmap priorities.
-* **Optimize Technical Sales Execution:** Continuously improve technical sales processes, customer onboarding, and solution delivery practices to maximize team effectiveness and customer outcomes.
+* **Attract Talent to Cohere:** Bring senior technical field talent with you and continue to attract it. Building the bench is part of the job, not a consequence of it.
 
-### **Key Responsibilities:**
+# **Key Responsibilities:**
 
-* Lead and develop the Americas commercial Solutions Architecture team through coaching, hiring, performance management, and career development.
-* Partner with Sales to pursue and close strategic enterprise opportunities across industries including financial services, healthcare, energy, and other key verticals.
-* Lead executive workshops, discovery sessions, solution presentations, and technical deep dives with C-suite and senior customer stakeholders.
-* Develop business cases, solution architectures, implementation roadmaps, and technical proposals that align customer objectives with Cohere's platform.
-* Guide customers through the deployment of enterprise AI solutions, ensuring scalability, security, governance, and operational readiness.
-* Create repeatable solution assets, industry playbooks, and best practices that enable the team to consistently deliver high-quality customer engagements.
-* Collaborate cross-functionally with Product, Engineering, and Sales to ensure alignment between customer needs and platform evolution.
+* Lead and develop the Americas commercial Solutions Architecture team through coaching, hiring, performance management and career development.
+* Partner with regional Sales leadership to pursue and close strategic enterprise opportunities across financial services, healthcare, energy, technology and other key verticals.
+* Own the region’s technical coverage model, and ensure the team is engaged early and consistently on the opportunities that matter most.
+* Lead executive workshops, discovery sessions, solution presentations and technical deep dives with C-suite and senior customer stakeholders.
+* Develop business cases, solution architectures, implementation roadmaps and technical proposals that align customer objectives with Cohere’s platform.
+* Guide customers through the deployment of enterprise AI solutions, ensuring scalability, security, governance and operational readiness.
+* Create repeatable solution assets, industry playbooks and best practices that enable the team to consistently deliver high-quality customer engagements.
+* Collaborate cross-functionally with Product, Engineering, Sales and Customer Success to ensure alignment between customer needs and platform evolution, and contribute to decisions that reach beyond your own function.
 * Serve as the voice of the field by capturing customer feedback and competitive insights that influence product strategy.
-* Track and report on key operational and commercial metrics, including technical win rates, pipeline health, and team performance.
+* Own and report on the region’s operational and commercial metrics, including technical win rates, pipeline health, coverage and team performance.
 
-### **What We're Looking For:**
+# **What We’re Looking For:**
 
-* **Leadership Experience:** 8+ years in Solutions Architecture, Solutions Engineering, Technical Consulting, or Enterprise Architecture, with 5+ years leading customer-facing technical teams.
-* **People Leadership:** Proven experience hiring, coaching, and developing high-performing Solutions Architecture or Solutions Engineering teams, with a track record of building or transforming organizations.
-* **Consulting Mindset:** Experience leading complex enterprise solution engagements, developing business cases, implementation plans, and executive-ready solution recommendations.
-* **Technical Expertise:** Strong understanding of modern AI architectures, including LLMs, agentic AI, enterprise integrations, cloud platforms, hybrid deployments, security, and governance.
-* **Commercial Acumen:** Demonstrated ability to partner with enterprise Sales organizations, influence strategic deals, and articulate business value to executive stakeholders.
-* **Communication Skills:** Exceptional executive presence with the ability to communicate complex technical concepts to both business and technical audiences.
-* **Enterprise Experience:** Experience designing and delivering enterprise technology solutions in complex, regulated, or large-scale environments.
+* **Leadership Experience:** 15+ years in Solutions Architecture, Solutions Engineering, Technical Consulting or Enterprise Architecture, including 7+ years leading customer-facing technical teams, and a record of developing people into senior and leadership roles.
+* **People Leadership:** A proven record of hiring, coaching and developing high-performing Solutions Architecture or Solutions Engineering teams, and of building or transforming an organization rather than inheriting a healthy one.
+* **Executive Presence:** You command a room. You are credible in front of a CEO and their business leaders, the people who own the problem and the budget, and equally credible in front of a Chief Information Officer, a Chief AI Officer or a Chief Information Security Officer. You can move between the business case and the architecture without losing either audience.
+* **Hands-On Technical Credibility:** You are technical enough to be believed by a strong engineering bench. You work with models and agents yourself, you can pressure-test your team’s architecture, and you can be the most useful person in a design conversation when it matters. This is a player-coach seat, not an overlay.
+* **Commercial Acumen:** A demonstrated ability to partner with enterprise Sales leadership, influence strategic deals, and articulate business value to executive stakeholders. You have carried a number and can point to deals you personally moved.
+* **Consulting Mindset:** Experience leading complex enterprise solution engagements, developing business cases, implementation plans and executive-ready recommendations.
+* **Technical Expertise:** A strong understanding of modern AI architectures, including large language models, agentic systems, retrieval, enterprise integrations, cloud platforms, hybrid and on-premises deployments, security and governance.
+* **Enterprise Experience:** Experience designing and delivering enterprise technology solutions in complex, regulated or large-scale environments.
+* **Cross-Functional Influence:** A record of contributing to decisions beyond your own function, and of working effectively with Product and Engineering leadership.
 
-### **Preferred Qualifications:**
+# **Preferred Qualifications:**
 
-* Experience building repeatable solution-selling methodologies and helping generalist technical teams operate at a consistently high level.
+* Experience building or turning around a regional technical field organization, and evidence of what changed as a result.
 * Background in enterprise AI, cloud, or data platform companies, or applied AI consulting organizations.
 * Experience supporting customers in regulated industries such as financial services, healthcare, energy, or the public sector.
-* Experience operating in high-growth environments where speed, ownership, and cross-functional collaboration are critical.
-
-*Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.*
-
-* For candidates based in California, New York and Washington States, the compensation range is: $265,000 – $306,000
-* For candidates based elsewhere in the US, the compensation range is: $240,000 – $276,250
+* Experience building repeatable solution-selling methodologies and helping generalist technical teams operate at a consistently high level.
+* A network of senior technical field talent you can attract to Cohere.
+* Experience operating in high-growth environments where speed, ownership and cross-functional collaboration are critical.
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
