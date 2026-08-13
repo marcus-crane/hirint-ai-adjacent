@@ -9,7 +9,7 @@ date: '2026-08-11T21:18:21.191+00:00'
 location: San Francisco
 departments:
 - Marketing
-compensation: $221K – $258K • Offers Equity
+compensation: $221K – $245K • Offers Equity
 ---
 
 ## **About the Team**
