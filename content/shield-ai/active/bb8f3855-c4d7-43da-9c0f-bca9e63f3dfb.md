@@ -1,6 +1,6 @@
 ---
 title: Senior Staff Solutions Engineer (R5320)
-status: archived
+status: active
 id: bb8f3855-c4d7-43da-9c0f-bca9e63f3dfb
 source: lever
 url: https://jobs.lever.co/shieldai/bb8f3855-c4d7-43da-9c0f-bca9e63f3dfb
