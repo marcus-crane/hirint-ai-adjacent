@@ -15,7 +15,7 @@ Our mission is to automate coding. The first step in our journey is to build the
 
 ## **About the role**
 
-Cursor is hiring a Senior Campaigns Manager to join our integrated campaigns team and help shape how Cursor shows up to enterprise audiences.
+Cursor is hiring a Senior Campaigns Manager to join our integrated campaigns team and help shape how Cursor shows up to enterprise audiences. **This is a full-time, in-office role based at our San Francisco headquarters.**
 
 You will own high-priority campaigns that turn broad company priorities into focused, executable programs, working seamlessly across product marketing, sales, customer marketing, field, and leadership. The campaign strategies and programs you develop will shape our narrative in the market, create demand, generate & accelerate pipeline, and support customer growth.
 
@@ -66,3 +66,4 @@ This is a high-agency role for someone who can move fluidly between strategy and
 * You have owned pipeline goals in the past, and have experience using pipeline, engagement, and revenue signals to optimize campaign performance. You iterate continuously, quickly adapting to new signals, business priorities, and shifts in the market.
 * You have experience running ABM / strategic-account programs that support multithreading, expansion, or deal acceleration.
 * You bring a sharp understanding of the AI market and technical buyer personas (CTOs, CIOs, Senior Engineering leaders) to develop campaign activation plans.
+* You are based in or willing to relocate to San Francisco, CA — this role is in-office and requires regular on-site presence.
