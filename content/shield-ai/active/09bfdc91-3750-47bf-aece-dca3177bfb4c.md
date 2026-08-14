@@ -17,77 +17,59 @@ Shield AI is a venture-backed defense-tech company with the mission of protectin
 
 ### Job Description:
 
-The FSO operates as a key contributor within a dynamic, fast-paced defense environment, responsible for executing and scaling security operations in support of classified programs. This role requires a highly adaptable, solutions-oriented professional who can balance compliance with operational speed while maintaining strict adherence to NISPOM and government security requirements.
-
-You will partner cross-functionally with engineering, operations, and program teams to enable mission success while safeguarding classified information and controlled technologies.
+The US Senior PERSEC Specialist (L3) is responsible for executing personnel security processes to support cleared employees and ensure compliance with government and company requirements. This role operates in a fast-paced environment, managing high-volume security transactions while maintaining accuracy, timeliness, and confidentiality.
 
 ### What you'll do:
 
-**Security Operations & Program Execution**
+\* Processing new clearances, reinstatements, and reinvestigations through DISS/NBIS
 
-* Execute daily collateral security operations in a high-growth environment
-* Maintain daily classified document control, accountability, and safeguarding
-* Support classified facility operations and Restricted Areas
+\* Managing foreign travel requests and ensuring proper documentation and approvals
 
-**Personnel Security & Onboarding**
+\* Processing MyAccess requests for system and facility access
 
-* Process badge requests and issuance with accuracy and timeliness
-* Facilitate weekly local new hire orientation and onboarding
-* Present New Hire Security Training as required
+\* Coordinating and processing outbound visit requests, including foreign visits
 
-**Foreign Visits & External Engagements**
+\* Supporting CAC applications and special suitability requirements
 
-* Daily processing, disclosure, and hosting of foreign visits in accordance with NISPOM
-* Coordinate with internal stakeholders to ensure compliant execution
-* Support classified meetings hosting
+\* Maintaining and processing self-reporting records in compliance with policy
 
-**Restricted Area (RA) & Access Control**
+\* Conducting employee debriefing and offboarding actions
 
-* Perform daily Restricted Area maintenance and access control management
-* Enforce entry/exit procedures and access requirements
-* Execute end-of-day Restricted Area security procedures
+\* Processing PSQs / SCI Questionnaires in coordination with Special Programs (as applicable)
 
-**Technology Control & Compliance**
+\* Ensuring all records are accurate, complete, and audit-ready
 
-* Process Technology Control Plans (TCPs) in support of Corporate FSO
-* Support ITAR/EAR compliance and controlled technology safeguards
-
-**Incident Response & Operations**
-
-* Respond to local alarms, GSOC alerts, and security incidents
-* Provide immediate response to outages and emergent issues
-* Document and report incidents in accordance with policy
-
-**Classified Handling & Logistics**
-
-* Manage classified shipping and receiving
-* Maintain accountability and proper transfer procedures for classified materials
-
-**COMSEC & Security Support**
-
-* Serve as Alternate Collateral COMSEC Officer
-* Support COMSEC accountability, handling, and compliance requirements
-
-**Cross-Functional Partnership**
-
-* Act as a trusted security partner to internal teams
-* Provide guidance on security requirements, reporting obligations, and best practices
+\* Supporting internal stakeholders with guidance on personnel security processes
 
 ### Required qualifications:
 
-* Must be a U.S. Citizen
-* MUST HAVE Active Top Secret Security Clearance
-* Completion of FSO Program Management for Possessing Facilities (Safeguarding Certification)
-* 2-4+ years of experience in industrial security or cleared environments
-* Working knowledge of NISPOM (32 CFR Part 117)
-* Experience with DISS, NISS, or equivalent systems
+\* Must be a U.S. Citizen
+
+\* MUST HAVE Active Top Secret Security Clearance
+
+\* 5+ years of experience in Personnel Security or Industrial Security
+
+\* Experience processing new clearances, reinstatements, and reinvestigations
+
+\* Experience with foreign travel processing and visit requests
+
+\* Familiarity with self-reporting requirements and personnel security records management
+
+\* Experience supporting CAC applications and suitability processes
+
+\* Strong organizational and communication skills
 
 ### Preferred qualifications:
 
-* Experience in a fast-paced or high-growth defense environment
-* Familiarity with foreign visit processing and TCPs
-* Experience supporting classified facility operations or Restricted Areas
-* Experience delivering security training or briefings
+\* Experience processing PSQs / SCI Questionnaires (Special Programs exposure)
+
+\* Familiarity with Special Access Programs (SAP) or SCI environments
+
+\* Experience in a high-growth or fast-paced defense environment
+
+\* Experience with MyAccess or similar access request systems
+
+\* Knowledge of continuous vetting / insider threat reporting processes
 
 #LC
 
