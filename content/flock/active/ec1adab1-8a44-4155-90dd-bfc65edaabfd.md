@@ -11,21 +11,21 @@ departments:
 - Commercial
 ---
 
-**A BIT ABOUT FLOCK**
+**ABOUT FLOCK**
 
-At Flock we do insurance very differently. We're nearing 1 billion connected, insured miles.
+Road accidents kill and injure people, damage vehicles, and cost businesses fortunes. But traditional insurance does nothing to prevent them - it just pays out claims when they happen. At Flock, we’re changing that. Using telematics, AI, and real-time data, we proactively help our fleet customers prevent crashes. We obsessively focus on keeping drivers safe, and we put our money where our mouth is - paying out millions of pounds per year to fleets that get safer over time.
 
-Meaning our real-time, data-driven approach enables us to price connected vehicle insurance and assess risk better than ever before, giving fleet owners the insights they need to improve safety. We don’t just pay claims; we help our customers prevent them. We now insure hundreds of fleets in the UK, including the likes of Amazon, DPD, Uber and Bolt.
+We were acquired by Admiral in May 2026. Now we combine the backing of the UK’s leading motor insurer with startup energy and speed. We’re growing fast with bigger plans than ever, and we’re hugely optimistic that our approach will save many more lives in the decade ahead.
 
-We've now raised over £50M and our goal is to become the leading insurance company for connected and autonomous vehicles, and we're building a world-class team to help us get there.
+We’re on a mission to make the world quantifiably safer. Join us!
 
 **THE ROLE**
 
-At Flock, we’re on a mission to make the world quantifiably safer, and our brokers play a crucial role in making this vision a reality. We're an AI-first business, so whatever the role, we want people who reach for AI by default, stay curious about what it can do, and use it to work faster and think bigger. You'll use AI day to day, from researching brokers to preparing for meetings, so more of your time goes on the conversations that win business. We’re looking for an ambitious and passionate Broker Development Manager to accelerate our distribution through brokers. In this role, you’ll maximise existing broker relationships and build strong, strategic, growth partnerships as part of our fast-paced distribution team right at the heart of Flock’s mission.
+Our brokers play a crucial role in making this a reality. We’re an AI-first business, so whatever the role, we want people who reach for AI by default, stay curious about what it can do, and use it to work faster and think bigger. You’ll use AI day to day, from researching brokers to preparing for meetings, so more of your time goes on the conversations that win business. We’re looking for an ambitious and passionate Broker Development Manager to accelerate our distribution through brokers. In this role, you’ll maximise existing broker relationships and build strong, strategic, growth partnerships as part of our fast-paced distribution team right at the heart of Flock’s mission.
 
 **WHAT WE THINK IS MOST EXCITING ABOUT THE ROLE:**
 
-Be a part of building something truly game changing in the fleet market. You’ll manage a panel of key strategic brokers with significant growth opportunities. You’ll engage them on the market-leading benefits of Flock’s connected fleet proposition, and how together, we can reduce risk, improve costs and save lives.  You'll also have real freedom in how you use AI to work, whether that's getting under the skin of a broker's book before a meeting or spotting growth opportunities across your panel.
+Be a part of building something truly game changing in the fleet market. You’ll manage a panel of key strategic brokers with significant growth opportunities. You’ll engage them on the market-leading benefits of Flock’s connected fleet proposition, and how together, we can reduce risk, improve costs and save lives. You’ll also have real freedom in how you use AI to work, whether that’s getting under the skin of a broker’s book before a meeting or spotting growth opportunities across your panel.
 
 **A LITTLE MORE ON WHAT YOU’LL BE DOING:**
 
@@ -39,7 +39,7 @@ Be a part of building something truly game changing in the fleet market. You’l
 * Maintain strong broker advocacy by being visible, responsive and passionate about Flock’s product, proposition and mission.
 * Use AI in your day-to-day work, from broker research and meeting prep to analysing your pipeline, so your time goes on relationships rather than admin.
 
-**WHAT YOU’ll BRING TO FLOCK:**
+**WHAT YOU’LL BRING TO FLOCK:**
 
 **ESSENTIAL**
 
@@ -62,7 +62,7 @@ Be a part of building something truly game changing in the fleet market. You’l
 * 25 days of holiday (+ Bank Holidays) 🏖
 * Share Incentive Plan 📈
 * Workplace Pension 💰
-* Private Medical Insurance 🏩 (including Optical 👓 & Mental Health 💆‍♀️ support options)
+* Private Medical Insurance 🏥 (including Dental 🦷 Optical 👓 & Mental Health 💆‍♀️ support options)
 * Various Salary Sacrifice Schemes - Holiday Purchase, Tech, Gym, Cycle to Work, Electric Vehicle, Private Medical Insurance for families 💵
 * Enhanced Parental Leave and Pay 🐣
 * £1000 toward relevant professional qualifications 🎓
@@ -73,4 +73,4 @@ At Flock, we typically follow a hybrid working model involving a minimum of 3 da
 
 **ONE LAST THING..**
 
-Authenticity is important to us. We value the unique qualities and experiences you bring. So if you apply, just be your genuine self. It's who we want!
+Authenticity is important to us. We value the unique qualities and experiences you bring. So if you apply, just be your genuine self. It’s who we want!
