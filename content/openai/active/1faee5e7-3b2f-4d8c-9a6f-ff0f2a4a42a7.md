@@ -1,5 +1,5 @@
 ---
-title: 'Software Engineer, Reliability '
+title: Software Engineer, Resilience Engineering
 status: active
 id: 1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7
 source: ashby
@@ -13,7 +13,7 @@ departments:
 compensation: $230K – $490K • Offers Equity
 ---
 
-Join the engineering teams that bring OpenAI’s ideas safely to the world!!
+Join the engineering teams that bring OpenAI’s ideas safely to the world!
 
 The Applied Engineering team works across research, engineering, product, and design to bring OpenAI’s technology to consumers and businesses. We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
 
@@ -24,9 +24,9 @@ As OpenAI continues to grow, we are looking for experienced, problem-solving eng
 **In this role, you will:**
 
 * Design and implement solutions to ensure the scalability of our infrastructure to meet rapidly increasing demands.
-* Build and maintain the load, chaos and synthetic testing software leveraged by development teams to make the systems they design and operate more reliable.
+* Build and maintain the load, chaos and synthetic-testing software leveraged by development teams to make the systems they design and operate more reliable.
 * Build and maintain automation tools to streamline repetitive tasks and improve system reliability.
-* Build and maintain the platform for CPU/storage, GPU, and network lifecycle management to drive efficiency, accountability and support dynamic optimization of our resources.
+* Build and maintain the platform for CPU, storage, GPU, and network lifecycle management to drive efficiency, accountability and dynamic optimization of our resources.
 * Implement fault-tolerant and resilient design patterns to minimize service disruptions.
 * Develop and maintain service level objectives (SLOs) and service level indicators (SLIs) to measure and ensure system reliability.
 * Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world.
@@ -34,7 +34,7 @@ As OpenAI continues to grow, we are looking for experienced, problem-solving eng
 
 **You might thrive in this role if you:**
 
-* Have a track record of accelerating engineering reliability by empowering your fellow engineers with excellent tooling and systems.
+* Have a track record of accelerating engineering reliability by building world-class tooling and systems from 0→1.
 * Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed.
 * Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done.
 * Enjoy seeking out and addressing bottlenecks and areas for performance improvement in our systems.
@@ -51,7 +51,7 @@ As OpenAI continues to grow, we are looking for experienced, problem-solving eng
 * Knowledge of IaC tools such as Terraform or CloudFormation.
 * Excellent problem-solving and troubleshooting skills.
 * Strong communication and collaboration skills.
-* Experience with observability tools such as DataDog, Prometheus, Grafana and Splunk.
+* Experience with observability tools such as Datadog, Prometheus, Grafana and Splunk.
 * Experience with microservices architecture and service mesh technologies.
 * Knowledge of security best practices in cloud environments.
 

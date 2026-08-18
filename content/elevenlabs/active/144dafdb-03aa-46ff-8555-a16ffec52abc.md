@@ -1,5 +1,5 @@
 ---
-title: Account Executive - North America - Corporate
+title: Account Executive - SMB/Corporate
 status: active
 id: 144dafdb-03aa-46ff-8555-a16ffec52abc
 source: ashby
