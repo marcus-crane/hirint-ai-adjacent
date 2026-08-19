@@ -1,5 +1,5 @@
 ---
-title: AI Policy Lead
+title: VP, U.S. Policy
 status: active
 id: d1cc2c4e-de7b-4daf-81ae-3e19da329ad0
 source: ashby
@@ -8,8 +8,8 @@ lastmod: '2026-06-30T17:41:19.331+00:00'
 date: '2026-06-30T17:41:19.331+00:00'
 location: Washington DC
 departments:
-- Federal
-- Sales
+- General & Administrative
+- Legal
 ---
 
 ## **We are an applied AI lab building end-to-end software agents.**
@@ -22,51 +22,42 @@ Building Devin is just the first step—our hardest challenges still lie ahead. 
 
 **About the Role**
 
-We are seeking an AI Policy Lead to help shape Cognition's engagement with policymakers, regulators, and government stakeholders as AI becomes increasingly important to economic competitiveness, national security, and public sector modernization.
+AI is becoming central to economic competitiveness, national security, and how the U.S. government operates. The decisions policymakers make over the next few years (on procurement, workforce, compute, security standards, and federal adoption) will shape how software agents are deployed in the public and private sectors, and how the U.S. competes globally. Cognition needs a senior leader who can represent us in those conversations from day one.
 
-You will serve as a bridge between technical innovation and public policy, helping policymakers understand the opportunities and implications of advanced AI systems while ensuring Cognition remains informed on evolving regulatory, legislative, and geopolitical developments.
+We’re hiring a VP, U.S. Policy to build and lead Cognition’s public policy and government affairs function in the United States. You will own our policy strategy end-to-end: developing our positions, building trusted relationships across Congress, the Executive Branch, and federal agencies, and translating what our engineers are building into clear narratives that senior policymakers can act on.
 
-This role sits at the intersection of technology, government, and strategy. You will work closely with company leadership, product teams, legal counsel, and external stakeholders to support responsible AI deployment and advance policies that promote innovation, security, and economic growth.
+This role sits at the intersection of technology, government, and company strategy. You’ll work directly with our founders, our Legal, Federal, GTM teams, and product leadership, and you’ll be the person who anticipates policy risks and opportunities before they reach us. This is a builder’s role: there is no existing playbook, no inherited team, and no shortage of surface area. Based in Washington DC, reporting to the Chief Legal and Global Affairs Officer.
 
 **Core Responsibilities**
 
-* Monitor and analyze emerging AI policy, regulatory, and legislative developments across the United States and key international markets
-* Develop policy positions, briefing materials, white papers, and executive-level recommendations on issues related to artificial intelligence, national security, technology competitiveness, workforce transformation, and digital infrastructure
-* Build and maintain relationships with policymakers, government agencies, think tanks, industry associations, and academic institutions
-* Support executive engagement with Congress, the Executive Branch, regulators, and international government stakeholders
-* Represent Cognition in policy discussions, industry working groups, conferences, and strategic forums
-* Partner with technical teams to translate complex AI capabilities into clear, actionable policy narratives
-* Identify opportunities for public-private partnerships that accelerate AI adoption across government and critical industries
-* Help anticipate policy risks and opportunities that could impact company strategy, product development, or market expansion
+* Own Cognition’s U.S. policy strategy – define our positions on AI, federal adoption, national security, workforce transformation, and technology competitiveness, and align them with company strategy
+* Industry Collaboration – lead engagement with Congress, the Executive Branch, regulators, and federal agencies, including direct advocacy and support for executive-level engagements
+* Regulatory Affairs – Monitor and analyze legislative, regulatory, and geopolitical developments in the U.S. and key international markets, and translate them into clear recommendations for leadership
+* Content and Communication – Produce the substance: policy positions, white papers, comment letters, briefing materials, and thought leadership that articulate a distinctive point of view
+* Represent Cognition externally in policy discussions, industry working groups, conferences, and strategic forums
+* Partner with engineering and product teams to bring policy signal back into product and roadmap decisions, and build the internal policy team as the function grows
 
 **What We Value**
 
-* Intellectual curiosity and a genuine interest in understanding frontier AI systems
-* Strong judgment and the ability to navigate complex policy environments
-* Clear communication across technical, business, and government audiences
-* Relationship-building and long-term trust with stakeholders
-* Pragmatism and a focus on outcomes rather than ideology
-* Ownership mentality and willingness to operate independently
-* Ability to balance innovation, competitiveness, and responsible governance
+* Builder mentality – you operate independently, build from scratch, and possess low ego - no problem is too small
+* Exceptional writing – you can produce a white paper, a one-pager for a member of Congress, and an internal strategy memo, and each will land with its audience
+* Communication – Ability to learn technical concepts quickly and explain them clearly to non-technical audiences
+* Focus on outcomes, with the judgment to navigate complex political environments and make calls in high-stakes, fast-moving situations
+* Ability to balance innovation, competitiveness, and responsible governance in the positions you take
 
 **Requirements**
 
-* 5–10 years of experience in public policy, government affairs, national security, technology policy, congressional offices, federal agencies, think tanks, consulting, or related fields
-* Strong understanding of U.S. government institutions, policymaking processes, and regulatory frameworks
-* Demonstrated ability to influence senior stakeholders and navigate complex organizations
-* Exceptional written and verbal communication skills
-* Experience developing policy recommendations, briefing materials, or strategic analyses for senior decision-makers
-* Ability to quickly understand technical concepts and communicate them effectively to non-technical audiences
-* Interest in artificial intelligence, emerging technologies, and their implications for government and society
+* 10+ years in public policy, government affairs, national security, or technology policy – including time in Congress, the White House, a federal agency, a national security organization, or a leading policy institution
+* Sufficient facility with AI and its underlying technical concepts to communicate with engineers and policymakers alike
+* Strong command of U.S. government institutions, the legislative process, regulatory frameworks, and federal budgeting cycles
+* Established bipartisan relationships among policymakers, regulators, and agency leadership, and a track record of influencing senior stakeholders
 
 **You Might Excel If You...**
 
-* Have worked in Congress, the White House, federal agencies, national security organizations, or leading policy institutions
-* Are familiar with federal budgeting cycles
-* Have experience with AI, cybersecurity, defense technology, cloud infrastructure, or emerging technology policy
-* Have advised senior government officials, executives, or technology leaders
-* Understand both the public and private sector perspectives on innovation and regulation
-* Are passionate about ensuring the United States remains the global leader in AI development and deployment
+* Have advised senior government officials, executives, or technology leaders directly
+* Have worked on AI, cybersecurity, defense technology, cloud infrastructure, or emerging technology policy
+* Have built a policy function, or been the first policy hire, at a fast-growing technology company
+* Understand both public and private sector perspectives on innovation and regulation
 
 ## Equal Opportunity
 
