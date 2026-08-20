@@ -1,6 +1,6 @@
 ---
 title: 海康消防-区域销售-南京
-status: active
+status: archived
 id: CEBB19998DF9F1E3EAD3EF9B32A60F8E
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=CEBB19998DF9F1E3EAD3EF9B32A60F8E
