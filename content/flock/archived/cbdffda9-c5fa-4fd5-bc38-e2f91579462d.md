@@ -1,12 +1,12 @@
 ---
 title: Broker Development Manager
-status: active
-id: ec1adab1-8a44-4155-90dd-bfc65edaabfd
+status: archived
+id: cbdffda9-c5fa-4fd5-bc38-e2f91579462d
 source: ashby
-url: https://jobs.ashbyhq.com/flock/ec1adab1-8a44-4155-90dd-bfc65edaabfd
-lastmod: '2026-08-07T09:14:17.549+00:00'
-date: '2026-08-07T09:14:17.549+00:00'
-location: Bristol
+url: https://jobs.ashbyhq.com/flock/cbdffda9-c5fa-4fd5-bc38-e2f91579462d
+lastmod: '2026-08-07T09:18:20.981+00:00'
+date: '2026-08-07T09:18:20.981+00:00'
+location: Manchester
 departments:
 - Commercial
 ---
