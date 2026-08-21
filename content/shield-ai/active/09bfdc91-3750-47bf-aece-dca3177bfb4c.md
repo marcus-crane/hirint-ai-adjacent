@@ -17,7 +17,7 @@ Shield AI is a venture-backed defense-tech company with the mission of protectin
 
 ### Job Description:
 
-The US Senior PERSEC Specialist (L3) is responsible for executing personnel security processes to support cleared employees and ensure compliance with government and company requirements. This role operates in a fast-paced environment, managing high-volume security transactions while maintaining accuracy, timeliness, and confidentiality.
+The US Senior PERSEC Specialist is responsible for executing personnel security processes to support cleared employees and ensure compliance with government and company requirements. This role operates in a fast-paced environment, managing high-volume security transactions while maintaining accuracy, timeliness, and confidentiality.
 
 ### What you'll do:
 
