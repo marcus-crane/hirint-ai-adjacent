@@ -41,6 +41,7 @@ You’ll work on mission-critical software that bridges responsive user interfac
 * Experience with web technologies, especially React, TypeScript/JavaScript, and Node.js.
 * Strong software engineering fundamentals including version control, testing, debugging, and performance profiling.
 * Proven ability to deliver high-quality software as part of a collaborative engineering team.
+* Ability to obtain security clearance.
 
 ### Preferred qualifications:
 
