@@ -10,8 +10,6 @@ location: Seattle, Washington
 departments:
 - X-BAT Engineering - Mechanical
 offices:
-- Boston, MA
-- San Diego, California
 - Seattle, Washington
 ---
 

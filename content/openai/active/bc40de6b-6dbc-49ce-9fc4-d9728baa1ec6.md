@@ -8,8 +8,8 @@ lastmod: '2025-06-18T01:53:23.432+00:00'
 date: '2025-06-18T01:53:23.432+00:00'
 location: San Francisco
 departments:
-- Developer Experience
-- Go To Market
+- Applied AI
+- Codex – Developer Experience
 compensation: $198K – $335K • Offers Equity
 ---
 
