@@ -6,11 +6,11 @@ source: lever
 url: https://jobs.lever.co/shieldai/a3dfba6d-09ec-42c3-9328-dbb2b5fbdab3
 lastmod: '2026-03-27T12:58:28.242000+00:00'
 date: '2026-03-27T12:58:28.242000+00:00'
-location: Dallas, Texas
+location: Seattle, Washington
 departments:
 - X-BAT Engineering - LRV
 offices:
-- Dallas, Texas
+- Seattle, Washington
 ---
 
 Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
@@ -53,10 +53,6 @@ This position requires deep expertise in mechanical design, structural analysis,
 * Experience with DoD acquisition, sustainment, and field deployment strategies.
 * Prior experience supporting military aircraft maintenance and sustainment operations.
 * Active Secret or Top Secret clearance (or ability to obtain one).
-
-#LI-MS
-
-#LD
 
 Full-time regular employee offer package:
 

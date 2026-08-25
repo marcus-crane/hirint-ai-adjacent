@@ -6,11 +6,11 @@ source: lever
 url: https://jobs.lever.co/shieldai/f1a761df-feeb-4024-b70b-c13d6a6bbfcf
 lastmod: '2026-07-09T02:21:28.968000+00:00'
 date: '2026-07-09T02:21:28.968000+00:00'
-location: Dallas, Texas
+location: Seattle, Washington
 departments:
 - X-BAT Engineering - System Engineering & Integrated Test
 offices:
-- Dallas, Texas
+- Seattle, Washington
 ---
 
 Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
