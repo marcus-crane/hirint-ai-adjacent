@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/cognition/daf8accf-5799-4dba-a77d-66ace242fa88
 lastmod: '2025-12-05T00:36:26.001+00:00'
 date: '2025-12-05T00:36:26.001+00:00'
-location: San Francisco
+location: New York City
 departments:
 - General & Administrative
 - IT

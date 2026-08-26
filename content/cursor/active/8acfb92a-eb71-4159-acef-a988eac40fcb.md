@@ -19,6 +19,8 @@ As our Marketing Manager, Startup Events and Community, you'll be the growth eng
 
 This is a builder role for someone who's energized by the founder and startup community. We're building a focused program across top Seed–Series B startups, reaching them directly and through VC and accelerator ecosystems. You'll design the strategy for the events, community moments, and hackathons that create genuine advocacy and deeper product usage and make decisions about where we should show up and where we shouldn’t. If you want to be in and create the rooms with founders building the future, this is the role for you.
 
+This role is based in our San Francisco office and requires working in-office.
+
 **What You'll Do**
 
 *Program Architecture & Segment Ownership*
