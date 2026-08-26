@@ -62,7 +62,11 @@ Our stack includes Python, TypeScript with React, Postgres, and Kubernetes. We c
 
 If this role sounds exciting, but your experience does not match every bullet, we still encourage you to apply.
 
-We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an [Accommodations Request Form](https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit), and we will work together to meet your needs.
+## Compensation:
+
+* For candidates based in California, New York and Washington States, the compensation range is: $180,000 – $325,000
+* For candidates based elsewhere in the US, the compensation range is: $150,000 – $275,000
+* For candidates based in Canada, the compensation range is: $215,000 – $385,000.
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
