@@ -4,7 +4,7 @@ status: active
 id: cdccf456-207f-4ea0-9fdd-c30a5ce42d5b
 source: moka
 url: https://app.mokahr.com/social-recruitment/high-flyer/140576/job/cdccf456-207f-4ea0-9fdd-c30a5ce42d5b
-lastmod: '2026-07-29T21:57:03'
+lastmod: '2026-08-28T15:44:06'
 date: '2026-06-25T14:28:10'
 location: 拱墅区, 海淀区
 offices:
@@ -31,12 +31,6 @@ offices:
 1.负责异构集群的训推一体平台开发，解决 CPU/GPU/NPU 等资源的抽象、池化与拓扑感知，提高易用性。
 
 2.持续优化调度算法，在任务优先级、系统吞吐、排队延迟与资源利用率之间取得均衡。
-
-**集群训练基建方向**
-
-1.打造稳定、高效、可演进的 AI 训练基础设施，持续优化环境与镜像体系。
-
-2.建设完善的训练监控与可观测平台，为大模型研发提供坚实底座。
 
 **高性能网络方向**
 
