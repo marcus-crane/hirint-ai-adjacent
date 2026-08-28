@@ -22,11 +22,23 @@ You will lead complex, large-scale factory design from concept through commissio
 
 **How you'll make an impact:**
 
+**Design & Planning Integration**
+
+* Collaborate with manufacturing, process engineering, and operations teams to translate production needs into facility requirements
+* Ensure factory layouts, workflows, and utilities are integrated into construction plans
+* Review and approve design drawings, specifications, and construction documents
+
 **Factory Expansion & Construction Leadership**
 
 * Support as needed all phases of factory expansion projects, including site selection support, feasibility, design coordination, construction, and commissioning
 * Serve as the owner’s representative for all construction activities, ensuring alignment with business and production goals
 * Develop and manage project scopes, schedules, budgets, and capital expenditure plans as it pertains to factory equipment and facility requirements
+
+  **Equipment Commissioning & Handover**
+
+  + Oversee commissioning of facilities, ensuring readiness for manufacturing operations
+  + Drive punch list completion, final inspections, and occupancy approvals
+  + Ensure smooth transition from construction to operations
 
 **Construction Management**
 
@@ -34,22 +46,10 @@ You will lead complex, large-scale factory design from concept through commissio
 * Support construction execution, including site development, civil works, structural, MEP (mechanical, electrical, plumbing), and utilities infrastructure
 * Conduct regular site inspections to monitor progress, quality, and safety compliance to ensure ensure factory deliverables
 
-**Design & Planning Integration**
-
-* Collaborate with manufacturing, process engineering, and operations teams to translate production needs into facility requirements
-* Ensure factory layouts, workflows, and utilities are integrated into construction plans
-* Review and approve design drawings, specifications, and construction documents
-
 **Project Delivery & Controls**
 
 * Implement strong project governance, including risk management, cost control, and schedule tracking
 * Identify and mitigate construction risks, delays, and cost overruns
-
-**Commissioning & Handover**
-
-* Oversee commissioning of facilities, ensuring readiness for manufacturing operations
-* Drive punch list completion, final inspections, and occupancy approvals
-* Ensure smooth transition from construction to operations
 
 **What makes you a strong fit:**
 

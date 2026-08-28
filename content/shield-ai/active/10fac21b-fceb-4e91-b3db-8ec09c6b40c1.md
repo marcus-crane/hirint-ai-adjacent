@@ -8,7 +8,7 @@ lastmod: '2026-08-26T22:54:17.801000+00:00'
 date: '2026-08-26T22:54:17.801000+00:00'
 location: San Diego, California
 departments:
-- Corporate Development
+- International Business Development
 offices:
 - San Diego, California
 - San Mateo, California

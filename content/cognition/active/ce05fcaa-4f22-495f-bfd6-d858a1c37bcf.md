@@ -8,8 +8,8 @@ lastmod: '2026-06-17T22:36:40.587+00:00'
 date: '2026-06-17T22:36:40.587+00:00'
 location: Tokyo
 departments:
+- Partner Manager
 - Sales
-- Sales Leader
 ---
 
 ## **We are an applied AI lab building end-to-end software agents.**

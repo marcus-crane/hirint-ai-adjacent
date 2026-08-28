@@ -8,7 +8,7 @@ lastmod: '2026-08-14T01:06:29.678+00:00'
 date: '2026-08-14T01:06:29.678+00:00'
 location: Austin, TX
 departments:
-- Electrical
+- Electrical Eng
 - Engineering
 ---
 
