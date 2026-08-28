@@ -12,12 +12,22 @@ departments:
 - Engineering & Product
 offices:
 - Berlin
+- Croatia
+- Czechia
+- Denmark
 - Europe
+- Finland
 - France
 - Germany
+- Hungary
+- Norway
+- Poland
 - Portugal
+- Romania
+- Slovakia
 - Sofia
-- Tokyo
+- Spain
+- Sweden
 - United Kingdom
 - Warsaw
 ---

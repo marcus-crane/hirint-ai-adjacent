@@ -8,7 +8,7 @@ lastmod: '2026-03-25T20:51:05.932+00:00'
 date: '2026-03-25T20:51:05.932+00:00'
 location: Austin, TX
 departments:
-- Production
+- Manufacturing
 - Production - TX
 ---
 
