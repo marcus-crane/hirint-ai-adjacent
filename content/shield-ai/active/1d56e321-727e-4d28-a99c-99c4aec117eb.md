@@ -10,6 +10,7 @@ location: Seattle, Washington
 departments:
 - X-BAT Engineering - LRV
 offices:
+- Dallas, Texas
 - Seattle, Washington
 ---
 
