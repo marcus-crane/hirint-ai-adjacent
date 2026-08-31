@@ -61,9 +61,8 @@ This is a role for someone who likes to take big swings – and have fun doing i
 
 Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.
 
-US - For candidates in New York, California, Washington States, the Compensation Range is : $240,000 – $290,000 [USD]
-
-US - For Candidates in rest of the states, the Compensation Range is : $230,000 – $280,000 [USD]
+* For candidates in the United States, the Compensation Range is : $190,000 – $290,000 USD
+* For candidates in Canada, the Compensation Range is : $270,000 – $325,000 CAD
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 

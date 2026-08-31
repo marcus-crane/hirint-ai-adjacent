@@ -1,0 +1,97 @@
+---
+title: Senior Staff Engineer, ML Ops (R4941)
+status: active
+id: ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe
+source: lever
+url: https://jobs.lever.co/shieldai/ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe
+lastmod: '2026-08-31T15:38:33.321000+00:00'
+date: '2026-08-31T15:38:33.321000+00:00'
+location: San Mateo, California
+departments:
+- Engineering
+offices:
+- San Mateo, California
+---
+
+Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
+
+### Job Description:
+
+Shield AI builds autonomy systems for defense applications, including air, maritime, and space platforms operating in complex and contested environments. 
+
+We are building the AI Factory Reference Architecture, a Kubernetes-native platform for developing, training, evaluating, and deploying next-generation AI systems.
+
+The AI Factory serves two purposes. Internally, it powers autonomy development across Hivemind and other AI programs. Externally, it becomes the reference architecture deployed into customer environments, spanning commercial cloud, on-premise infrastructure, sovereign deployments, and fully air-gapped systems.
+
+We are looking for a Senior Staff Engineer to help define and build this platform. You will partner closely with ML researchers, platform engineers, and autonomy teams to deliver an exceptional developer experience for training and deploying modern AI models.
+
+Success in this role requires balancing researcher productivity, platform simplicity, operational excellence, and long-term maintainability. You will work hands-on across the stack, helping shape both the platform architecture and its implementation while staying closely aligned with the rapidly evolving AI ecosystem.
+
+### What you'll do:
+
+* **AI Platform Development:** Lead the design and implementation of the AI Factory Reference Architecture, delivering a Kubernetes-native platform for AI development, distributed training, simulation, evaluation, and deployment.
+* **AI Research Enablement:** Partner directly with ML researchers to understand evolving training workflows and ensure the platform supports state-of-the-art AI frameworks, foundation model development, reinforcement learning, distributed training, and emerging research workflows.
+* **Developer Experience:** Design self-service AI development workflows that enable engineers to move seamlessly from local experimentation to large-scale distributed execution using familiar open source tools and frameworks.
+* **Distributed AI Infrastructure:** Build the infrastructure required to support distributed training, simulation, inference, and reinforcement learning workloads. Evaluate and integrate orchestration, scheduling, and resource management technologies to maximize scalability and developer productivity.
+* **Compute Platform:** Design and optimize shared GPU infrastructure across cloud and on-premises environments. Improve resource utilization, scheduling efficiency, storage, networking, observability, and overall platform reliability.
+* **Data & Model Lifecycle:** Build platform capabilities that enable dataset management, experiment tracking, artifact management, model versioning, evaluation, deployment, monitoring, and continuous model improvement.
+* **Platform Distribution:** Develop repeatable deployment and lifecycle management solutions using Infrastructure as Code and modern platform engineering practices. Support commercial cloud, customer-managed infrastructure, sovereign environments, and fully air-gapped deployments.
+* **Technology Leadership:** Evaluate emerging AI infrastructure technologies and establish architectural patterns that balance scalability, performance, maintainability, and developer experience.
+* **Cross-Functional Collaboration:** Work closely with AI researchers, autonomy teams, infrastructure engineers, and product teams to ensure the platform evolves alongside customer needs and advances in AI.
+
+### Key Outcomes:
+
+* Engineers move from idea to distributed training in hours instead of days.
+* High GPU utilization through efficient scheduling with KAI on Kubernetes.
+* Researchers use modern AI tooling without unnecessary platform friction.
+* AI Workspaces become the standard development environment across autonomy programs.
+* Training, simulation, evaluation, and deployment operate as a unified platform.
+* The AI Factory Reference Architecture can be deployed consistently across cloud, on-premise, and air-gapped environments.
+* Platform capabilities are reusable across multiple autonomy programs and customer deployments.
+
+### Required qualifications:
+
+* Experience building Kubernetes-native AI or MLOps platforms supporting distributed machine learning workloads.
+* Deep understanding of modern AI training frameworks, including PyTorch, Hugging Face Transformers and distributed training techniques.
+* Experience operating GPU-accelerated infrastructure and distributed training systems.
+* Strong understanding of Kubernetes, Linux, networking, security, storage, and distributed systems.
+* Experience with GPU scheduling concepts and large-scale AI workloads.
+* Experience packaging and deploying cloud-native infrastructure using Terraform and Helm.
+* Strong software engineering skills in Python and Golang and modern cloud-native technologies.
+* Experience collaborating closely with ML researchers to translate research workflows into scalable platform capabilities.
+
+### Preferred qualifications:
+
+* Experience with Ray or other distributed AI orchestration frameworks.
+* Experience with KAI, Slurm or other GPU scheduling technologies.
+* Experience supporting reinforcement learning, simulation-driven training, robotics, or autonomy workloads.
+* Experience deploying and optimizing AI models for edge hardware.
+* Experience designing infrastructure for classified, sovereign, or air-gapped environments.
+* Experience with observability technologies such as OpenTelemetry, Prometheus, and Grafana.
+* Experience contributing to or maintaining open-source infrastructure projects.
+
+### Why Join Us
+
+The AI Factory is the foundation for how Shield AI develops and deploys autonomy.
+
+As a Senior Staff Engineer, you will help build the reference architecture used internally by our engineering teams and delivered to customers building their own AI capabilities. Your work will directly impact how quickly researchers can iterate, how efficiently compute resources are utilized, and how AI systems move from experimentation to operational deployment.
+
+This is an opportunity to work at the intersection of modern AI, distributed systems, Kubernetes, and defense, building a platform that enables the next generation of autonomy systems while leveraging the best of the open-source AI ecosystem.
+
+#LI-DM2
+
+#LF
+
+Full-time regular employee offer package:
+
+Pay within range listed + Bonus + Benefits + Equity
+
+Temporary employee offer package:
+
+Pay within range listed above + temporary benefits package (applicable after 60 days of employment)
+
+Salary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. All offers are contingent on a cleared background and possible reference check. Military fellows and part-time employees are not eligible for benefits. Please speak to your talent acquisition representative for more information.
+
+###
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.
