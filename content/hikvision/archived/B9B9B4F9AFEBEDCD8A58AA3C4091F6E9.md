@@ -1,6 +1,6 @@
 ---
 title: PBG-软件项目经理-杭州
-status: active
+status: archived
 id: B9B9B4F9AFEBEDCD8A58AA3C4091F6E9
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=B9B9B4F9AFEBEDCD8A58AA3C4091F6E9
