@@ -8,7 +8,7 @@ lastmod: '2026-06-15T13:58:21.357+00:00'
 date: '2026-06-15T13:58:21.357+00:00'
 location: London
 departments:
-- Agentic Platform
+- Engineering & Infra
 - 'Product Software Engineering '
 offices:
 - Canada

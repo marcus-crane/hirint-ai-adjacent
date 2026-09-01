@@ -1,5 +1,5 @@
 ---
-title: GRC Program Manager, Assurance Engineering & Control Systems
+title: GRC Program Manager, Audit & Controls
 status: active
 id: aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3
 source: ashby
