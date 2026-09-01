@@ -12,7 +12,7 @@ departments:
 offices:
 - Boston
 - Nashville
-- Richmond, VA
+- Richmond
 - Washington, DC
 ---
 
