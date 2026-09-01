@@ -26,22 +26,22 @@ We obsess over what we build. Each one of us is responsible for contributing to 
 
 We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
 
-**Why this role?**
+**Role Overview:**
 
 As a Senior Machine Learning Engineer specializing in synthetic data, you will play a pivotal role in developing the synthetic data pipeline that is crucial to Cohere’s advanced language models. Your responsibilities will encompass the end-to-end management of synthetic data, including maintaining and optimizing the synthetic data pipeline, data analysis and generation, as well as conducting data ablations and model evaluation to gauge data quality. You will work with diverse web data and code data and transform them using generative models to improve token efficiency and model quality. By combining research and engineering, you will bridge the gap between raw data and cutting-edge AI models, directly contributing to improvements in critical training metrics like throughput and accelerator utilization.
 
 Your work will be essential to Cohere’s mission of delivering efficient and reliable language understanding and generation capabilities, driving innovation in natural language processing. If you are passionate about transforming data into the foundation of AI systems, this role offers a unique opportunity to make a meaningful impact.
 
-*Please Note: We have offices in London, Paris, Toronto, San Francisco and New York but also embrace being remote-friendly! There are no restrictions on where you can be located for this role between EST and EU*
+*Note: We have offices in London, Toronto, New York and San Francisco, but we’re also remote-friendly! This team operates primarily between ET to CET time zones, so we’re seeking candidates in locations that align with these hours for effective collaboration.*
 
-**As a Senior Member of Technical Staff, Synthetic Data, you will:**
+**Key Responsibilities:**
 
 * Design and build scalable inference pipelines that run on large GPU clusters.
 * Conduct data ablations to assess data quality and experiment with data mixtures to enhance model performance.
 * Research and implement innovative synthetic data curation methods, leveraging Cohere’s infrastructure to drive advancements in natural language processing.
 * Collaborate with cross-functional teams, including researchers and engineers, to ensure data pipelines meet the demands of cutting-edge language models.
 
-**You may be a good fit if you have:**
+**Qualifications:**
 
 * Strong software engineering skills, with proficiency in Python and experience building data pipelines.
 * Familiarity with data processing frameworks such as Apache Spark, Apache Beam, Pandas, or similar tools.
@@ -51,6 +51,15 @@ Your work will be essential to Cohere’s mission of delivering efficient and re
 * A passion for bridging research and engineering to solve complex data-related challenges in AI model training.
 
 *Bonus*: paper at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP).
+
+**Working Location:**  
+This role can be based remotely or from one of our office locations listed on the job description - there is no minimum in-office qualification requirement. We care most about hiring exceptional people regardless of locations, though please check the location listed on the posting for guidance around the core time zone or working hours alignment expected for the role.
+
+**Compensation:**  
+Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.
+
+* For candidates in the US, the Compensation Range is: $175,000 - $380,000
+* For candidates in Canada, the Compensation Range is: CAD250,000 - CAD535,000
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
