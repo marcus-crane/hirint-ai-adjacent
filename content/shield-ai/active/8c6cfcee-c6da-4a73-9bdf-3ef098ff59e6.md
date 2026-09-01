@@ -1,0 +1,67 @@
+---
+title: Summer 2027 - Electrical Engineering Co-op (June 2027)
+status: active
+id: 8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6
+source: lever
+url: https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6
+lastmod: '2026-09-01T02:09:49.870000+00:00'
+date: '2026-09-01T02:09:49.870000+00:00'
+location: Dallas, Texas
+departments:
+- Electrical
+offices:
+- Boston, MA
+- Dallas, Texas
+- San Diego, California
+- Seattle, Washington
+---
+
+Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
+
+**Job Description:**
+
+Our Co-Op program is an excellent opportunity for students to gain deep, hands-on experience in a mission-driven and innovative engineering environment. This paid, full-time program spans multiple months during the academic year, offering extended immersion in real-world hardware development and testing.
+
+Shield AI is seeking an exceptional Co-op candidate to join the team in building our autonomous aircraft. You will join a team of highly talented cross-functional engineers that exhibit a culture of mentorship, kindness, ownership, and hard work.
+
+The ideal start date is June 2027, and the end date is flexible.
+
+### What you'll do:
+
+* You will be given ownership of a project that is tailored to the start date, duration, and location of your Co-op.
+* Your work will directly contribute to the success of our novel aircraft development program. You will understand exactly why your project matters and how it ties into our critical path development objectives.
+* You will be partnered with a senior engineer as mentor and guide for technical input and professional development.
+
+### Examples of projects:
+
+* Design a circuit board involving analog, digital, mixed signal, high speed circuits that enables us to test a prototype flight computer.
+* Design, simulate, and verify high voltage power electronics (>10kW) DC/DC Converters and DC/AC inverters.
+* Work with a senior engineer to bring-up and validate a new Avionics system.
+* Identify bugs and drive changes to fix them.
+* Build a test rack to deliver fully automated test coverage of a flight critical sub-system.
+* Run a HALT campaign to ensure a series of new circuit boards are highly reliable.
+
+### Required qualifications:
+
+* Have completed at least the 2nd year of a relevant degree. Typically, Electrical Engineering.
+* Strong technical fundamentals.
+* Have been part of an engineering team/club.
+* Experience with electrical design software and tools such as Altium, KiCAD, an oscilloscope, etc.
+* Demonstrated history of showing ownership of project outcomes and delivering exceptional results.
+* Record of working hard, being a trustworthy teammate, holding yourself and others to high standards, and being kind to others.
+
+#intern
+
+Full-time regular employee offer package:
+
+Pay within range listed + Bonus + Benefits + Equity
+
+Temporary employee offer package:
+
+Pay within range listed above + temporary benefits package (applicable after 60 days of employment)
+
+Salary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. All offers are contingent on a cleared background and possible reference check. Military fellows and part-time employees are not eligible for benefits. Please speak to your talent acquisition representative for more information.
+
+###
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.

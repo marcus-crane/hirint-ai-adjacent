@@ -1,17 +1,15 @@
 ---
-title: ML Infra Engineer (Data Systems)
+title: ML Infra Engineer, Data Systems
 status: active
 id: 1f6cf3eb-f70f-480b-9fff-befd56c7fd07
 source: ashby
 url: https://jobs.ashbyhq.com/physicalintelligence/1f6cf3eb-f70f-480b-9fff-befd56c7fd07
-lastmod: '2026-07-24T22:44:51.858+00:00'
-date: '2026-07-24T22:44:51.858+00:00'
+lastmod: '2026-09-01T01:11:13.230+00:00'
+date: '2026-09-01T01:11:13.230+00:00'
 location: San Francisco
 departments:
 - Machine Learning
 ---
-
-**Who We Are**
 
 Physical Intelligence is bringing general-purpose AI into the physical world. We are a group of engineers, scientists, roboticists, and company builders developing foundation models and learning algorithms to power the robots of today and the physically-actuated devices of the future.
 
