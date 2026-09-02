@@ -14,7 +14,7 @@ offices:
 - Canada
 - Europe
 - United States
-compensation: CA$215K – CA$385K • Offers Equity • Multiple Ranges
+compensation: $150K – $325K • Offers Equity • Multiple Ranges
 ---
 
 **Who are we?**
