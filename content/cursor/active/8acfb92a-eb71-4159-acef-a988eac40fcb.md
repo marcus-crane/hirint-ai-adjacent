@@ -1,5 +1,5 @@
 ---
-title: Marketing Manager, Startup Events & Programs
+title: Startup Events & Community
 status: active
 id: 8acfb92a-eb71-4159-acef-a988eac40fcb
 source: ashby
@@ -15,7 +15,7 @@ Our mission is to automate coding. The first step in our journey is to build the
 
 **About the role**
 
-As our Marketing Manager, Startup Events and Community, you'll be the growth engine behind Cursor for Startups, responsible for turning our startup strategy into high-impact programs that win the right early-stage companies, help founders get deeper value from Cursor, and turn our strongest founder-users into advocates.
+As a founding member of our Startup Events and Community team, you'll be the growth engine behind Cursor for Startups, responsible for turning our startup strategy into high-impact programs that win the right early-stage companies, help founders get deeper value from Cursor, and turn our strongest founder-users into advocates.
 
 This is a builder role for someone who's energized by the founder and startup community. We're building a focused program across top Seed–Series B startups, reaching them directly and through VC and accelerator ecosystems. You'll design the strategy for the events, community moments, and hackathons that create genuine advocacy and deeper product usage and make decisions about where we should show up and where we shouldn’t. If you want to be in and create the rooms with founders building the future, this is the role for you.
 

@@ -4,11 +4,12 @@ status: active
 id: e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2
-lastmod: '2026-08-31T16:57:04.408+00:00'
-date: '2026-08-31T16:57:04.408+00:00'
+lastmod: '2026-09-02T13:46:47.656+00:00'
+date: '2026-09-02T13:46:47.656+00:00'
 location: Toronto
 departments:
 - Revenue
+compensation: CA$115K – CA$170K • Offers Equity
 ---
 
 **Who are we?**
@@ -43,10 +44,6 @@ As a Business Development Representative (BDR) at Cohere, you will drive revenue
 * Experience in AI, machine learning, or enterprise software sales, with a basic understanding of natural language processing (NLP) concepts.
 * Closing experience is seen as an advantage.
 * A builder mindset is necessary to succeed here, the challenges will be unique based on the team you’ll be working with, and the role will evolve over time.
-
-*Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.*
-
-*For candidates in Canada, the Compensation Range is : $140,000 - $170,000 CAD*
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
