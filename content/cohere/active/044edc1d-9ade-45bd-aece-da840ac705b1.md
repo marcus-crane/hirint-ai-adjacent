@@ -9,6 +9,7 @@ date: '2026-06-26T18:48:58.535+00:00'
 location: United States
 departments:
 - PR & Communications
+compensation: $190K – $290K • Offers Equity • Multiple Ranges
 ---
 
 **Who are we?**
@@ -56,13 +57,6 @@ This is a role for someone who likes to take big swings – and have fun doing i
 * Bring high levels of creativity to communications – in format, channel, and storytelling
 * Are comfortable navigating organizational dynamics and building strong relationships across all levels
 * Thrive in ambiguous, fast-moving environments and know how to prioritize ruthlessly
-
-**Compensation:**
-
-Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.
-
-* For candidates in the United States, the Compensation Range is : $190,000 – $290,000 USD
-* For candidates in Canada, the Compensation Range is : $270,000 – $325,000 CAD
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
