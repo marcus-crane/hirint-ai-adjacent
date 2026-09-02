@@ -9,7 +9,7 @@ date: '2025-03-17T16:10:28.608+00:00'
 location: San Francisco
 departments:
 - Safety Systems
-compensation: $185K – $325K • Offers Equity
+compensation: $207K – $385K • Offers Equity
 ---
 
 **About the Team**

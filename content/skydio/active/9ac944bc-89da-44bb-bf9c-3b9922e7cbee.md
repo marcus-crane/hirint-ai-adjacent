@@ -1,11 +1,11 @@
 ---
-title: Electrical Engineer Intern
+title: Electrical Engineer Intern - Fall 2026
 status: active
 id: 9ac944bc-89da-44bb-bf9c-3b9922e7cbee
 source: ashby
 url: https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee
-lastmod: '2026-07-28T18:35:36.967+00:00'
-date: '2026-07-28T18:35:36.967+00:00'
+lastmod: '2026-09-01T23:05:41.315+00:00'
+date: '2026-09-01T23:05:41.315+00:00'
 location: San Mateo, California, United States
 departments:
 - Hardware
@@ -16,7 +16,7 @@ Skydio is the leading US drone company and the world leader in autonomous flight
 
 **About the role:**
 
-We are seeking interns for our EE Team! We are looking for Electrical Engineering Interns who will help prototype, validate, develop, and refine the electrical systems that bring together state-of-the-art computing hardware, sensing, and power systems in the latest autonomous flying sensors. As a member of the Electrical Engineering team, you will be helping solve tough challenges alongside a team of world-class engineers.
+We are seeking interns to join our EE team this Fall, with an October or November start. We are looking for Electrical Engineering Interns who will help prototype, validate, develop, and refine the electrical systems that bring together state-of-the-art computing hardware, sensing, and power systems in the latest autonomous flying sensors. As a member of the Electrical Engineering team, you will be helping solve tough challenges alongside a team of world-class engineers.
 
 **How you’ll make an impact:**
 
@@ -44,7 +44,7 @@ We are seeking interns for our EE Team! We are looking for Electrical Engineerin
 
 \*Compensation for certain positions may vary based on the position’s location.
 
-#LI-DK1
+#LI-ZD1
 
 At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
 

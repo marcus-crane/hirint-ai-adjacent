@@ -11,7 +11,7 @@ departments:
 - Data Science
 offices:
 - New York City
-compensation: $290K – $441K • Offers Equity
+compensation: $345K – $440K • Offers Equity
 ---
 
 **About the Team**

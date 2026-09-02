@@ -46,7 +46,7 @@ As a Business Development Representative (BDR) at Cohere, you will drive revenue
 
 *Cohere is committed to fair and transparent pay practices. The salary range listed for this role reflects the expected base compensation. Actual compensation offered will be determined by factors such as location, level, job-related knowledge, skills, education, and experience.*
 
-*For candidates in Canada, the Compensation Range is : $80,000 - $119,000 CAD + commissions*
+*For candidates in Canada, the Compensation Range is : $140,000 - $170,000 CAD*
 
 ## **Full-Time Employees at Cohere enjoy these Perks:**
 
