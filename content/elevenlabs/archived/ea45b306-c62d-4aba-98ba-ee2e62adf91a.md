@@ -1,17 +1,21 @@
 ---
-title: Executive Assistant
-status: active
-id: aa387988-9983-46a0-a265-d678af9939cb
+title: Writer and Editor
+status: archived
+id: ea45b306-c62d-4aba-98ba-ee2e62adf91a
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/aa387988-9983-46a0-a265-d678af9939cb
-lastmod: '2026-08-27T20:21:07.157+00:00'
-date: '2026-08-27T20:21:07.157+00:00'
-location: Poland
+url: https://jobs.ashbyhq.com/elevenlabs/ea45b306-c62d-4aba-98ba-ee2e62adf91a
+lastmod: '2026-07-02T09:26:10.186+00:00'
+date: '2026-07-02T09:26:10.186+00:00'
+location: United Kingdom
 departments:
-- Operations
+- Communications
+- Growth
 offices:
-- Amsterdam
-- London
+- Denmark
+- Ireland
+- New York
+- Poland
+- Spain
 ---
 
 ## About ElevenLabs
@@ -45,29 +49,36 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual company offsite:** Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-**About the role**
+## About the role
 
-ElevenLabs moves fast - and behind every high-performing leader is someone who makes sure nothing slips. This is a high-trust, hands-on role for someone who thrives in dynamic environments, holds themselves to a high standard, and takes genuine pride in making their lead's life easier - down to the small, considered details that others overlook.
+We're looking for an entrepreneurial writer and editor to shape how ElevenLabs communicates in long form – from the blog to the stage. In this role, you'll collaborate closely with growth, research, engineering, product, partnerships and other teams to produce compelling content that engages and informs our most important audiences.
 
-You'll be the operational backbone for senior leadership - managing calendars, coordinating across time zones, handling logistics, and owning the day-to-day administrative tasks that let leadership focus on what matters most.
+You'll be responsible for:
 
-**In this role, you will:**
+* Owning the ElevenLabs blog – setting the editorial standard, writing new content, and editing draft posts from other teams.
+* Interviewing domain experts, mining data sets, and monitoring internal updates to unearth the best ideas and stories.
+* Making complex business and technical updates legible through clear writing and compelling visualizations.
+* Defining the house style and ensuring ElevenLabs maintains a consistent voice.
+* Writing keynotes and remarks for senior leadership that stick in the minds of audiences.
+* Managing a network of freelance writers and editors to scale output as needed.
 
-* Own calendars and time allocation for finance leadership team, making trade-off calls independently against stated priorities
-* Prepare executives for every meeting: pre-reads, context, and the decision needed - including board and investor sessions
-* Capture actions out of meetings and chase them to completion
-* Triage executive inboxes and draft correspondence
-* Automate the mechanical parts of the role - briefing prep, triage, scheduling, recurring reporting
-* Run discrete projects: board logistics, executive travel, offsites, and the finance team's operating cadence
+## Requirements
 
-**Requirements**
+The ideal candidate is an exceptional writer with a journalist's instincts – someone who knows how to find the story, sharpen an argument, and explain why it matters. You have a strong editorial point of view and you excel at turning unstructured ideas and data into a compelling and accessible argument. You care deeply about craft and quality, and you’re motivated to help others improve their own work too.
 
-* Experience supporting multiple senior executives in a high-velocity environment
-* Strong organisational skills with the ability to manage competing priorities, shifting timelines, and multiple stakeholders
-* Exceptional written and verbal communication skills, with the ability to communicate effectively with a wide range of stakeholders, from senior executives and partners to vendors and office guests
-* Proven judgment and problem-solving skills
-* Fluency with AI tools and a track record of automating your own work - come ready to show what you've built
-* High emotional intelligence and discretion - trusted with sensitive information
-* Fluency in English
+We are looking for someone who has:
+
+* A background in journalism, editorial, or long-form writing, ideally covering AI, tech, or audio.
+* Exceptional writing across different formats.
+* Strong editing skills and the ability to reshape others' work while preserving their intent.
+* Strong instincts for distribution and a good understanding of how to shape writing to ensure it reaches and resonates with target audiences.
+* A track record of owning and improving editorial output, not just contributing to it.
+* Genuine curiosity about AI and an interest in helping the world understand what we’re building.
+
+## Location
+
+This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, Madrid, Warsaw and many more.
+
+#LI-Remote
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
