@@ -29,7 +29,6 @@ offices:
 - Spain
 - Sweden
 - United Kingdom
-- Warsaw
 ---
 
 ## About ElevenLabs

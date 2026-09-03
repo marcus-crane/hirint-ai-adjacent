@@ -19,10 +19,10 @@ offices:
 - Los Angeles
 - Netherlands
 - New York
+- Poland
 - Portugal
 - Sofia
 - Sweden
-- Warsaw
 - Washington, D.C.
 ---
 

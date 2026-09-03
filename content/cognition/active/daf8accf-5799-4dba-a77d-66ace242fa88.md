@@ -24,37 +24,65 @@ Building Devin is just the first step—our hardest challenges still lie ahead. 
 
 ## **About the role**
 
-We're seeking an onsite IT Specialist to manage our technology infrastructure and support our growing team. You'll be the point person for identity and access management, endpoint management, and end-user support in a collaborative environment that values agency and results.
+We’re looking for an IT Engineer to own the employee technology experience in our New York or London office while helping scale Cognition’s global IT operations.
+
+As the face of IT for the office, this person will ensure employees have secure, reliable technology and responsive support. They will also improve how IT operates by turning recurring work into durable tooling, automation, and AI-enabled workflows.
+
+Strong candidates will bring depth in two or three IT disciplines—not expertise in everything—and an interest in expanding into new areas.
 
 This role is required to be **in-person, working 5 days a week from our San Francisco or New York office**. We value teamwork and in-person collaboration.
 
 ## **Key Responsibilities**
 
-* **User Productivity:** Implement and manage software and services that enhance productivity for both our engineering and GTM teams
-* **Technical Support:** Provide timely resolution to internal IT issues including device troubleshooting and conferencing systems
-* **Process Automation:** Develop and implement automated workflows to reduce manual tasks and improve efficiency
-* **System Administration:** Manage Okta instances, MDM software, and various SaaS platforms including Google Workspace, Microsoft Office 365, Slack, and Zoom
-* **Device Management:** Order, configure, deploy, and maintain laptops and other hardware for employees across all offices
-* **Security & Compliance:** Implement and maintain end-user security best practices across all IT systems
-* **Documentation & Inventory:** Create clear documentation and manage IT assets and licenses
+### Own the employee and office IT experience
+
+* Serve as the primary IT partner for employees in the office, providing responsive support across devices, applications, access, conferencing, and workplace technology.
+* Own the reliability and employee experience of office technology, including wired and wireless networks, conferencing, vendor coordination, and hardware and software asset lifecycle management.
+* Own the improvements needed to support rapid regional growth, partnering with the global IT team on office expansions, moves, infrastructure changes, operational handoffs, runbooks, skills, and knowledge bases.
+
+### Operate identity, endpoints, and collaboration platforms
+
+* Administer identity and access across Okta and core SaaS platforms such as Google Workspace, Slack, GitHub, Zoom, and Microsoft 365.
+* Establish repeatable standards and automation for employee lifecycle, group management, application provisioning, and access reviews.
+* Administer MDM and endpoint security platforms such as Kandji, Jamf, or Intune across device provisioning, configuration enforcement, patching, fleet visibility, and security remediation.
+
+### Build automation and internal tooling
+
+* Develop scripts, integrations, and reusable tooling in TypeScript, Python, or another modern programming language.
+* Connect systems through APIs and event-driven workflows to reduce manual work and improve data consistency.
+* Help build and operate infrastructure-as-code and CI/CD workflows for IT systems, including identity-as-code where appropriate.
+* Introduce monitoring and observability that help the team identify and resolve problems before employees report them.
+
+### Advance AI-native IT operations
+
+* Help develop our use of [Console.ai](http://Console.ai) and other AI-enabled ITSM capabilities.
+* Own continuous improvement using support signals and operational metrics to identify recurring issues and improve self-service, automation, and resolution quality.
+* Act as customer zero for Devin by embedding it across IT operations and building the secure integrations and guardrails needed for AI-assisted workflows to operate safely and reliably.
 
 ## **Required Qualifications**
 
-* 3+ years in a technical IT support role
-* Bachelor's degree in Computer Science, Information Technology, or equivalent experience
-* Experience with Okta administration and Okta Workflows automation
-* Proficiency in Kandji, JAMF, Intune or similar MDM solutions for device management and security
-* Experience administering collaboration tools (Zoom, Teams, Slack)
-* Strong knowledge of Google Workspace and Microsoft Office 365 administration
-* Solid understanding of networking concepts (TCP/IP, DNS, DHCP)
-* Excellent problem-solving abilities and organizational skills
-* Experience supporting both local and remote staff
+* 3+ years of experience in IT engineering, systems administration, technical support, or a related role.
+* A bachelor’s degree in computer science, information technology, or a related discipline—or equivalent practical experience.
+* Experience delivering high-quality, hands-on IT support in an onsite environment.
+* Broad familiarity with modern workplace IT and meaningful depth in at least two disciplines (for example, IAM with Terraform and CI/CD, endpoint or network engineering with automation, or software integrations paired with hands-on employee support).
+* Experience administering identity, SaaS, or collaboration platforms such as Okta, Google Workspace, Slack, GitHub, Zoom, or Microsoft 365.
+* The ability to write and maintain scripts or integrations in TypeScript, Python, or another modern language—or equivalent technical depth applying infrastructure-as-code to systems such as Okta.
+* Working knowledge of networking fundamentals, including TCP/IP, DNS, DHCP, wired and wireless networks, and systematic troubleshooting.
+* Strong judgment, communication, and organization, with a track record of carrying ambiguous problems through implementation and ongoing operation.
+
+## An ideal candidate will bring
+
+* **Ownership:** Proactively identifies problems, establishes a path forward, and drives work through completion with appropriate autonomy.
+* **Service orientation:** Approaches support with responsiveness, empathy, and clear communication, recognizing that each interaction shapes trust in IT.
+* **Builder mindset:** Addresses immediate needs while looking for opportunities to prevent recurring issues through better tooling, documentation, automation, and system design.
 
 ## **Bonus if . . .**
 
-* Okta Certified Professional or Administrator certification
-* Experience with office network troubleshooting (Cisco Meraki wifi, cabling)
-* Python programming or scripting skills, experience with API integrations
+* Deep experience with Okta, identity lifecycle management, or identity-as-code.
+* Experience with Terraform, CI/CD, Git-based delivery, or API integrations.
+* Exposure to AI-enabled ITSM, agentic workflows, or support automation.
+* Experience with office builds, enterprise networking, conferencing, or workplace technology.
+* Experience with endpoint management, security posture, or vulnerability management.
 
 ## Equal Opportunity
 

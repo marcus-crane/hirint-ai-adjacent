@@ -13,7 +13,7 @@ departments:
 offices:
 - Ireland
 - London
-- Warsaw
+- Poland
 ---
 
 ## About ElevenLabs
