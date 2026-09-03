@@ -22,6 +22,8 @@ We are seeking a technically deep, creativity-driven AI Deployment Engineer who 
 
 This is a highly cross-functional role that blends technical architecture, product strategy, and customer-facing leadership. You’ll work closely with Sales, Solutions Engineering, Product, Applied Engineering, and the broader Codex organization to advocate for customer needs, shape product direction, and accelerate the successful deployment of intelligent coding systems across some of the world’s most influential companies.
 
+This role will be based in our **São Paulo, Brazil** office three days per week. We require candidates to be fluent in **Portuguese, Spanish,** and **English**.
+
 **In this role, you will:**
 
 * Serve as the primary technical subject matter expert on OpenAI Codex for a portfolio of customers, embedding deeply with them to enable their engineering teams and build coding workflows.
