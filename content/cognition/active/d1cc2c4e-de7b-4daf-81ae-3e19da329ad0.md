@@ -26,7 +26,7 @@ AI is becoming central to economic competitiveness, national security, and how t
 
 We’re hiring a VP, U.S. Policy to build and lead Cognition’s public policy and government affairs function in the United States. You will own our policy strategy end-to-end: developing our positions, building trusted relationships across Congress, the Executive Branch, and federal agencies, and translating what our engineers are building into clear narratives that senior policymakers can act on.
 
-This role sits at the intersection of technology, government, and company strategy. You’ll work directly with our founders, our Legal, Federal, GTM teams, and product leadership, and you’ll be the person who anticipates policy risks and opportunities before they reach us. This is a builder’s role: there is no existing playbook, no inherited team, and no shortage of surface area. Based in Washington DC, reporting to the Chief Legal and Global Affairs Officer.
+This role sits at the intersection of technology, government, and company strategy. You’ll work directly with our founders, our Legal, Federal, GTM teams, and product leadership, and you’ll be the person who anticipates policy risks and opportunities before they reach us. This is a builder’s role: there is no existing playbook, no inherited team, and no shortage of surface area. **Based in Washington DC, reporting to the Chief Legal and Global Affairs Officer.**
 
 **Core Responsibilities**
 
