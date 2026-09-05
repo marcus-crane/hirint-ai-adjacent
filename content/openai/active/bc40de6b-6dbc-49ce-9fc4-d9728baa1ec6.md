@@ -17,7 +17,7 @@ compensation: $198K – $335K • Offers Equity
 
 The Developer Experience team at OpenAI has a singular focus: empowering developers globally. Our mission is to provide every developer and startup on the planet with the most delightful and seamless experience to integrate AI into their applications and products. We ensure developers have the tools, resources, and support they need to unlock AI’s full potential.
 
-We create inspiring demos, developer tools, sample applications, and technical content that show developers how to build with Codex and frontier models like GPT-6, GPT-Live, and GPT-Image-2 to create powerful agents and AI-native applications.
+We create inspiring demos, developer tools, sample applications, and technical content that show developers how to build with Codex and frontier models like GPT-6 Astra, GPT-Live, and GPT-Image-2 to create powerful agents and AI-native applications.
 
 We collaborate closely with product, engineering, research, and GTM teams to ensure the developer journey, from onboarding with Codex to first API call to production deployment, is seamless, effective, and delightful.
 
