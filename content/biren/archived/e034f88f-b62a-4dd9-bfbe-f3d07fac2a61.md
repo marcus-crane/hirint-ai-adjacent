@@ -1,6 +1,6 @@
 ---
 title: CEO 助理
-status: active
+status: archived
 id: e034f88f-b62a-4dd9-bfbe-f3d07fac2a61
 source: moka
 url: https://app.mokahr.com/social-recruitment/biren/44726/job/e034f88f-b62a-4dd9-bfbe-f3d07fac2a61
