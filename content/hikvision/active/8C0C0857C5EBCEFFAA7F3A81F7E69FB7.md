@@ -1,10 +1,10 @@
 ---
 title: 人力-组织发展-杭州
-status: archived
+status: active
 id: 8C0C0857C5EBCEFFAA7F3A81F7E69FB7
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=8C0C0857C5EBCEFFAA7F3A81F7E69FB7
-lastmod: '2026-03-23'
+lastmod: '2026-09-09'
 date: '2023-09-05'
 location: 浙江省杭州市
 departments:
