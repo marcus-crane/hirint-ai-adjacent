@@ -9,6 +9,7 @@ date: '2026-07-13T14:35:33.121+00:00'
 location: France
 departments:
 - Revenue
+- Revenue - Europe
 ---
 
 ## About ElevenLabs

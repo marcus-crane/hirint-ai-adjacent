@@ -8,6 +8,7 @@ lastmod: '2024-07-29T08:45:16.987+00:00'
 date: '2024-07-29T08:45:16.987+00:00'
 location: United Kingdom
 departments:
+- Agents - Frontend & Workflows
 - Engineering & Product
 offices:
 - Amsterdam
