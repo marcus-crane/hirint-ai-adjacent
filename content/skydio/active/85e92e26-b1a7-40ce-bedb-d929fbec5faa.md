@@ -14,7 +14,7 @@ departments:
 
 Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from [utility inspectors](https://www.skydio.com/solutions/energy-and-utilities) to [first responders](https://www.skydio.com/solutions/public-safety), [soldiers in battlefield scenarios](https://www.skydio.com/solutions/national-security/tactical-isr), and [beyond](https://www.skydio.com/solutions).
 
-**The Role**  
+**About the role:**  
   
 This onsite IT Operations Engineer position at Skydio's HQ is the front line of employee technology support — the person who makes sure every new hire's first day starts smoothly, every equipment request gets fulfilled, every conference room works when a meeting starts, and every walk-up question gets answered fast.
 
@@ -24,7 +24,7 @@ The ideal candidate is a proactive, personable operator who's comfortable being 
 
 **Location:** This is an office-based position that requires 5 days/week onsite at Skydio HQ in San Mateo, CA.
 
-**Key Responsibilities**
+**How you'll make an impact:**
 
 * Serve as the primary point of contact for walk-up and ticketed IT support by gathering information, troubleshooting hardware, software, and connectivity issues across Linux, Windows, and Mac, resolving issues where possible and coordinating with other IT teams when additional expertise is needed.
 * Provide hands-on support for hardware diagnostics, system provisioning, and patch management.

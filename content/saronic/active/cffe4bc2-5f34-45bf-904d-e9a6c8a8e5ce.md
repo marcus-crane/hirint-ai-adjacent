@@ -1,0 +1,54 @@
+---
+title: Forward Deployed Engineer Intern (Summer 2027)
+status: active
+id: cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce
+source: ashby
+url: https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce
+lastmod: '2026-09-09T19:46:26.327+00:00'
+date: '2026-09-09T19:46:26.327+00:00'
+location: Austin, TX
+departments:
+- Internships & Co-Ops
+---
+
+Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.
+
+**Job Overview**
+
+We are seeking a motivated and talented Forward Deployed Engineer Intern to work on real-world problems that contribute directly to the development of our autonomous surface vessels. You will gain hands-on experience in software development, testing, and integration, and work alongside experienced engineers to tackle complex challenges in autonomy, sensor fusion, and real-time processing. This role blends software development, field deployment, and problem-solving to ensure our technology delivers real mission impact.
+
+This internship is ideal for students pursuing computer science, software engineering, electrical and computer engineering, or a related field, and eager to make an impact on the front line of maritime autonomy. All interns will be supported and mentored by experienced Forward Deployed Engineers.
+
+**Responsibilities**
+
+* Design, implement, and test software components for autonomous systems, including navigation algorithms, sensor integration, and communication protocols
+* Collaborate with the team to develop and optimize algorithms for real-time decision-making, path planning, and object detection
+* Assist in the development of testing frameworks and participate in hardware-in-the-loop (HIL) testing to validate software performance in simulated and real-world environments
+* Troubleshoot and resolve software, hardware, and networking issues that arise during deployments
+* Contribute to the creation of technical documentation, including design specifications, user manuals, and test plans
+* Work closely with cross-functional teams, including mechanical, electrical, and systems engineers, to ensure seamless integration of software with hardware components
+
+**Qualifications**
+
+* Currently enrolled in a Bachelor's or Master's program in Computer Science, Software Engineering, Electrical and Computer Engineering, or a related field
+* Programming skills in Python, C++, Typescript, Javascript, or Rust
+* Basic understanding of robotics principles, autonomous systems, and sensor technologies
+* Strong analytical and problem-solving skills
+* Ability to work independently and collaboratively in a fast-paced environment
+* Willingness to travel, spending time in the field testing and improving ASV systems in real-world maritime settings
+* This role requires full-time in office presence (40 hours/week) based at our headquarters in Austin, TX, from May through August 2027
+
+**Physical Demands**
+
+* Prolonged periods of sitting at a desk and working on a computer
+* Occasional standing and walking within the office
+* Manual dexterity to operate a computer keyboard, mouse, and other office equipment
+* Visual acuity to read screens, documents, and reports
+* Occasional reaching, bending, or stooping to access file drawers, cabinets, or office supplies
+* Lifting and carrying items up to 20 pounds occasionally (e.g., office supplies, packages)
+
+[*Saronic CCPA Notice for Candidates and California Employees*](https://saronic-assets-public.s3.us-east-2.amazonaws.com/Saronic%20CCPA%20Notice%20for%20Candidates%20and%20California%20Employees.pdf)
+
+*If this role is based in the United States, it requires access to export-controlled information or items that require “U.S. Person” status. As defined by U.S. law, individuals who are any one of the following are considered to be a “U.S. Person”: (1) U.S. citizens, (2) legal permanent residents (a.k.a. green card holders), and (3) certain protected classes of asylees and refugees, as defined in* [*8 U.S.C. 1324b(a)(3)*](https://www.govinfo.gov/link/uscode/8/1324b)*.*  
+  
+Saronic does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits. *We are also committed to providing reasonable accommodations for qualified individuals with disabilities.*
