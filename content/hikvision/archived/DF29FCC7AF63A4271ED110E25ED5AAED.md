@@ -1,6 +1,6 @@
 ---
 title: 智慧屏-产品售前工程师-杭州
-status: active
+status: archived
 id: DF29FCC7AF63A4271ED110E25ED5AAED
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=DF29FCC7AF63A4271ED110E25ED5AAED
