@@ -40,7 +40,7 @@ We are seeking interns to join our EE team this Fall, with an October or Novembe
 * Ability to work autonomously
 * Ability to obtain FAA Part 107 certification within 30 days of engagement start, if required
 
-**Compensation Range:** The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $58/hr for PhD students\*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Interns are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.
+**Compensation:** The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $58/hr for PhD students\*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Interns are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.
 
 \*Compensation for certain positions may vary based on the position’s location.
 
