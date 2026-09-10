@@ -1,6 +1,6 @@
 ---
 title: 【研发中心】2027届力学工程师(J24432)
-status: active
+status: archived
 id: fd97b1be-ace6-431f-9ea1-a9a546ddf9dc
 source: dahua
 url: https://job.dahuatech.com/post/fd97b1be-ace6-431f-9ea1-a9a546ddf9dc

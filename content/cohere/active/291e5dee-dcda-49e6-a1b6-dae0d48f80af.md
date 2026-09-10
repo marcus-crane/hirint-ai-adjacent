@@ -1,27 +1,20 @@
 ---
-title: Forward Deployed Engineer, Infrastructure Specialist (Europe)
+title: Forward Deployed Engineer, Infrastructure Specialist (Middle East)
 status: active
-id: 69a9ab2e-a7eb-4c4f-825a-5c25cf063900
+id: 291e5dee-dcda-49e6-a1b6-dae0d48f80af
 source: ashby
-url: https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900
-lastmod: '2025-12-10T00:32:26.898+00:00'
-date: '2025-12-10T00:32:26.898+00:00'
-location: United Kingdom
+url: https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af
+lastmod: '2026-09-10T09:55:34.718+00:00'
+date: '2026-09-10T09:55:34.718+00:00'
+location: Middle East
 departments:
 - 'Delivery Engineering - Infrastructure '
 - Engineering & Infra
 offices:
-- Belgium
-- Berlin
-- Brussels
-- Edinburgh
-- Europe
-- France
-- Frankfurt
-- London
-- Middle East
-- Munich
-- Paris
+- Dubai
+- Riyadh
+- Saudi Arabia
+- United Arab Emirates
 ---
 
 **Who are we?**
@@ -44,14 +37,14 @@ This role offers a unique opportunity to shape how enterprises harness the power
 
 We are seeking engineers who deeply care about customers and want to work at the cutting edge of Agentic AI.
 
-**In this role, you will:**
+## **In this role, you will:**
 
 * Lead end-to-end deployment of North in private cloud and on-premises environments, including planning, configuration, testing, and rollout.
 * Partner with enterprise IT teams to assess infrastructure, security requirements, and data management practices.
 * Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations
 * Design and implement deployment strategies tailored to client needs, ensuring compliance with data privacy and security standards.
 * Troubleshoot and resolve deployment-related technical issues, providing timely solutions to minimize downtime.
-* Travel up to 20–40% to work on-site with customers and partners
+* Travel to customer premises between 20-40%
 
 ## **You may be a good fit if:**
 
@@ -61,6 +54,7 @@ We are seeking engineers who deeply care about customers and want to work at the
 * Familiarity with DevOps practices, CI/CD pipelines, and tools like Git for version control
 * You have strong expertise in cloud infrastructure (Azure, AWS, GCP), networking, and virtualization
 * You excel in fast-paced environments and can execute while priorities and objectives are a moving target
+* You are fluent in Arabic and English
 
 ## 
 
