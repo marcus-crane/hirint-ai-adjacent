@@ -1,22 +1,23 @@
 ---
 title: Developer Experience Engineer
-status: active
-id: 14994645-e453-478c-be65-511dc156a961
+status: archived
+id: bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6
 source: ashby
-url: https://jobs.ashbyhq.com/openai/14994645-e453-478c-be65-511dc156a961
-lastmod: '2026-05-13T12:44:52.675+00:00'
-date: '2026-05-13T12:44:52.675+00:00'
-location: Seoul, South Korea
+url: https://jobs.ashbyhq.com/openai/bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6
+lastmod: '2025-06-18T01:53:23.432+00:00'
+date: '2025-06-18T01:53:23.432+00:00'
+location: San Francisco
 departments:
-- Developer Experience
-- Go To Market
+- Applied AI
+- Codex – Developer Experience
+compensation: $198K – $335K • Offers Equity
 ---
 
 **About the Team**
 
 The Developer Experience team at OpenAI has a singular focus: empowering developers globally. Our mission is to provide every developer and startup on the planet with the most delightful and seamless experience to integrate AI into their applications and products. We ensure developers have the tools, resources, and support they need to unlock AI’s full potential.
 
-We create inspiring demos, developer tools, sample applications, and technical content that show developers how to build with Codex and frontier models like GPT-6 Astra, GPT-Live, and GPT Images 2.5 to create powerful agents and AI-native applications.
+We create inspiring demos, developer tools, sample applications, and technical content that show developers how to build with Codex and frontier models like GPT-6 Astra, GPT-Live, and GPT-Image-2.5 to create powerful agents and AI-native applications.
 
 We collaborate closely with product, engineering, research, and GTM teams to ensure the developer journey, from onboarding with Codex to first API call to production deployment, is seamless, effective, and delightful.
 
@@ -31,27 +32,24 @@ We’re looking for people who combine strong technical skills, creativity, and 
 **In this role, you will:**
 
 * Develop demos and sample applications that showcase best practices for building with Codex, frontier models, multimodal capabilities, and agents.
-* Create high-quality technical content, including tutorials, blog posts, videos, and code samples, to educate and inspire the developer community about our models, APIs, and Codex.
-* Actively engage with and foster a vibrant Korea and global developer ecosystem around OpenAI's platform and products.
+* Create high-quality technical content—including tutorials, blog posts, videos, and code samples—to educate and inspire the developer community about our models, APIs, and Codex.
+* Actively engage with and foster a vibrant local and global developer ecosystem around OpenAI’s platform and products.
 * Represent OpenAI at developer events and online, serving as a knowledgeable and approachable advocate for developers.
 * Gather and synthesize developer feedback to inform and improve our product roadmap.
-* Collaborate cross-functionally with product, engineering, and marketing teams to drive adoption and success across OpenAI's developer products, including Codex and our APIs.
-* Contribute directly to improving and refining OpenAI's developer products, interfaces, and surfaces.
+* Collaborate cross-functionally with product, engineering, and marketing teams to drive adoption and success across OpenAI’s developer products, including Codex and our APIs.
+* Contribute directly to improving and refining OpenAI’s developer products, interfaces, and surfaces.
 * Own challenges end-to-end, proactively closing gaps and developing new skills to solve complex problems.
-* Travel across APAC up to ~30% of the time to meet developers, support events, and build local communities.
 
 **You might thrive in this role if you:**
 
 * Are passionate about crafting exceptional developer experiences and creating inspirational technical content and projects.
 * Bring a robust full-stack engineering background with demonstrated experience building innovative applications using AI and large language models (LLMs).
 * Have strong user empathy and care deeply about delivering experiences developers truly appreciate.
-* Korean language skills as the role will work with the local communities
 * Have a proven track record of successfully creating engaging technical content, compelling demos, or innovative developer tooling that accelerates technology adoption.
 * Find joy in coding, continuously shipping high-quality, impactful software.
 * Excel in dynamic environments characterized by rapidly evolving priorities, ambiguity, and competing deadlines.
 * Are an exceptional collaborator who thrives working cross-functionally and enjoys partnering with diverse teams.
 * Maintain a genuine commitment to AI ethics and safety, strongly aligning with OpenAI's responsible AI development principles.
-* Stay deeply current on OpenAI's latest developer products and offerings, including Codex, APIs, and frontier models, and translate that fluency into useful demos, content, and developer guidance.
 
 **About OpenAI**
 
