@@ -10,6 +10,8 @@ location: United States
 departments:
 - Growth
 - Paid Marketing
+offices:
+- Europe
 ---
 
 ## About ElevenLabs
