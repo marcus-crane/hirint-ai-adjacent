@@ -4,8 +4,8 @@ status: active
 id: 1e6c4acf-d98a-46ac-bacb-d609ca1326c1
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1
-lastmod: '2026-09-02T23:02:11.382+00:00'
-date: '2026-09-02T23:02:11.382+00:00'
+lastmod: '2026-09-11T19:35:45.786+00:00'
+date: '2026-09-11T19:35:45.786+00:00'
 location: United States
 departments:
 - Revenue
@@ -37,11 +37,6 @@ You will take an established, distributed team of strong technical people and ra
 * **Extend Our Reach:** Grow the share of the region’s pipeline the team is technically leading, and make sure we are engaged early on the opportunities that matter most.
 * **Own the Number with Sales:** Partner with regional Sales leadership as a co-owner of the region’s number, not as a support function to it.
 * **Set Direction for the Function:** Define the vision, strategy and operating model for Americas Solutions Architecture, and hold your leaders accountable for delivery and execution against it.
-
-*For candidates in the United States, the Compensation Range is : $306,000 - $425,000 USD + bonus*
-
-*For candidates in Canada, the Compensation Range is : $391,000 - $539,000 CAD + bonus*
-
 * **Build Repeatable Solution Practices:** Establish scalable solution-selling methodologies, industry playbooks, executive narratives, business cases and technical delivery frameworks that improve consistency and win rates.
 * **Architect Enterprise AI Solutions:** Guide customers in designing secure, scalable, production-ready agentic AI solutions across cloud, hybrid, VPC and on-premises environments.
 * **Shape Product Direction:** Partner closely with Product and Engineering to translate customer feedback and market needs into platform improvements and roadmap priorities.
