@@ -15,7 +15,7 @@ Our mission is to automate coding. The first step in our journey is to build the
 
 ## **About the role**
 
-Cursor is hiring a Senior Campaigns Manager to join our integrated campaigns team and help shape how Cursor shows up to enterprise audiences. **This is a full-time, in-office role based at our San Francisco headquarters.**
+SpaceXAI is hiring a Senior Campaigns Manager to join our integrated campaigns team and help shape how Cursor shows up to enterprise audiences. **This is a full-time, in-office role based at our San Francisco headquarters.**
 
 You will own high-priority campaigns that turn broad company priorities into focused, executable programs, working seamlessly across product marketing, sales, customer marketing, field, and leadership. The campaign strategies and programs you develop will shape our narrative in the market, create demand, generate & accelerate pipeline, and support customer growth.
 

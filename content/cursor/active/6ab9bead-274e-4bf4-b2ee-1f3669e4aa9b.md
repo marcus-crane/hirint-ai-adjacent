@@ -16,13 +16,13 @@ Our mission is to automate coding. The first step in our journey is to build the
 
 ### **About the role**
 
-As a Commercial Account Executive at Cursor, you'll drive revenue growth by building strategic relationships with customers and helping them realize the full potential of Cursor for their development teams. You'll cover the full spectrum, from high velocity fast-growing startups to more complex Mid-Market deals, adapting your playbook to each.
+As a Commercial Account Executive at SpaceXAI, you'll drive revenue growth by building strategic relationships with customers and helping them realize the full potential of Cursor for their development teams. You'll cover the full spectrum, from high velocity fast-growing startups to more complex Mid-Market deals, adapting your playbook to each.
 
 You'll work closely with engineering organizations to understand their development workflows, demonstrate how Cursor transforms developer productivity, and guide them through evaluation, implementation, and expansion. This role combines technical fluency with sales expertise to help companies reimagine how software gets built with AI.
 
 ### **What you'll do**
 
-* Win new business and drive revenue for Cursor. Find your way to the right people at prospective customers, educate them about AI-powered development, and help them succeed. You'll own the full sales cycle, from first call to close
+* Win new business and drive revenue for SpaceXAI. Find your way to the right people at prospective customers, educate them about AI-powered development, and help them succeed. You'll own the full sales cycle, from first call to close
 * Become a trusted product expert; guide prospects through trials, evaluations, and rollouts
 * Build and manage a healthy high velocity pipeline, meeting and exceeding quarterly targets
 * Lead multi-threaded sales cycles across Engineering, Product, Security, Procurement, and Legal
