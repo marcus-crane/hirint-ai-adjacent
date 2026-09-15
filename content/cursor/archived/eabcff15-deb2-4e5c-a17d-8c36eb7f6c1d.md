@@ -1,6 +1,6 @@
 ---
 title: Technical Recruiter
-status: active
+status: archived
 id: eabcff15-deb2-4e5c-a17d-8c36eb7f6c1d
 source: ashby
 url: https://jobs.ashbyhq.com/cursor/eabcff15-deb2-4e5c-a17d-8c36eb7f6c1d
