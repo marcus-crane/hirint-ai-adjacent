@@ -18,7 +18,7 @@ Our mission is to automate coding. The first step in our journey is to build the
 
 ## Research Scientist
 
-Cursor is building the future of coding. We train [frontier coding agents](https://cursor.com/blog/composer) and scale RL on real user data to make them increasingly effective.
+SpaceXAI is building the future of coding. We train [frontier coding agents](https://cursor.com/blog/composer) and scale RL on real user data to make them increasingly effective.
 
 ## About the role
 

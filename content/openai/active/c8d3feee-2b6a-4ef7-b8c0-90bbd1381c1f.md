@@ -1,5 +1,5 @@
 ---
-title: Codex Deployment Engineer
+title: Applied AI Engineer, Codex
 status: active
 id: c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f
 source: ashby
@@ -14,11 +14,11 @@ departments:
 
 **About the Team**
 
-The Codex Deployment Engineering team helps customers adopt OpenAI's coding tools throughout their software development lifecycle. We act as trusted technical partners, guiding engineering teams as they integrate Codex into their projects and workflows. Our customers span digital-native companies to global enterprises, and we work side-by-side to accelerate how they plan, build, and deliver software.
+The Applied AI Engineering (Codex) team helps customers adopt OpenAI's coding tools throughout their software development lifecycle. We act as trusted technical partners, guiding engineering teams as they integrate Codex into their projects and workflows. Our customers span digital-native companies to global enterprises, and we work side-by-side to accelerate how they plan, build, and deliver software.
 
 **About the Role**
 
-We are seeking a technically deep, creativity-driven AI Deployment Engineer who is already a power user of AI coding tools and passionate about pushing the boundaries of developer productivity. You will partner directly with engineering leaders and hands-on builders to design, validate, and scale advanced AI workflows, often using Codex to prototype and build the very demos, integrations, and automations customers ultimately adopt.
+We are seeking a technically deep, creativity-driven Applied AI Engineer who is already a power user of AI coding tools and passionate about pushing the boundaries of developer productivity. You will partner directly with engineering leaders and hands-on builders to design, validate, and scale advanced AI workflows, often using Codex to prototype and build the very demos, integrations, and automations customers ultimately adopt.
 
 This is a highly cross-functional role that blends technical architecture, product strategy, and customer-facing leadership. You’ll work closely with Sales, Solutions Engineering, Product, Applied Engineering, and the broader Codex organization to advocate for customer needs, shape product direction, and accelerate the successful deployment of intelligent coding systems across some of the world’s most influential companies.
 
