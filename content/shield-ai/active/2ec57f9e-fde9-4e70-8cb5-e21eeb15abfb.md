@@ -10,8 +10,6 @@ location: Seattle, Washington
 departments:
 - Cloud & Infrastructure
 offices:
-- Dallas, Texas
-- San Mateo, California
 - Seattle, Washington
 ---
 
