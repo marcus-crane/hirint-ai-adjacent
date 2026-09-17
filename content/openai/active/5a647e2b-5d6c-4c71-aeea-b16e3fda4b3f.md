@@ -1,5 +1,5 @@
 ---
-title: Data Center Shell Planning Lead, Industrial Compute
+title: Development Planner, Industrial Compute
 status: active
 id: 5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f
 source: ashby
@@ -21,7 +21,7 @@ The team works across capacity planning, power, land, real estate, design, const
 
 **About the Role**
 
-We are seeking a Data Center Shell Planning Lead to own portfolio-level planning for future data center shell capacity. This role will translate compute-demand forecasts, power availability, technical requirements, and development schedules into a clear strategy for where, when, and how much shell capacity OpenAI should secure or build.
+We are seeking a Development Planner to own portfolio-level planning for future data center shell capacity. This role will translate compute-demand forecasts, power availability, technical requirements, and development schedules into a clear strategy for where, when, and how much shell capacity OpenAI should secure or build.
 
 You will evaluate capacity across self-build, lease, colocation, and development-partner pathways; identify future supply gaps; recommend campus and building phasing; and maintain the integrated plan connecting site readiness to construction, commissioning, and operational handoff.
 

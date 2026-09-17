@@ -12,7 +12,7 @@ departments:
 - Scaling
 offices:
 - Seattle
-compensation: $293K – $385K • Offers Equity
+compensation: $347K – $445K • Offers Equity
 ---
 
 **About the Team**

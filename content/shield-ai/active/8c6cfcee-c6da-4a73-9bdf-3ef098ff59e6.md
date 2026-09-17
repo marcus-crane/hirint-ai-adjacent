@@ -10,7 +10,7 @@ location: Dallas, Texas
 departments:
 - Electrical
 offices:
-- Boston, MA
+- Boston, Massachusetts
 - Dallas, Texas
 - San Diego, California
 - Seattle, Washington
