@@ -1,5 +1,5 @@
 ---
-title: Applied AI Engineer, Manufacturing & Operational Execution
+title: Applied AI Engineer, Manufacturing Execution
 status: active
 id: 9bceaee5-c3b2-4e8e-9ad3-b3b572a8d9cd
 source: ashby

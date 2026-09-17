@@ -40,7 +40,7 @@ This is a high-agency role for someone who can move fluidly between strategy and
   + Own campaign performance by measuring, analyzing, and reporting on the impact of campaign on pipeline, revenue, target account penetration, and the demand funnel. Share learnings regularly to improve overall campaign efficacy.
   + Work closely with operations and analytics partners to define the right KPIs, shape useful dashboards and reporting, and surface actionable account or campaign insights to the business.
   + Help establish repeatable campaign systems, workflows, and handoffs that let the function scale without becoming fragmented
-* **Adapt campaigns for Cursor’s most strategic accounts and business priorities.**
+* **Adapt campaigns for SpaceXAI’s most strategic accounts and business priorities.**
 
   + Build campaigns for enterprise and strategic audiences, including vertical, segment, buying-group, or use-case-specific motions. Translate vertical-specific messaging and proof points into campaign activations that make Cursor feel relevant to the priorities of different enterprise audiences.
   + Build 1:few ABM motions & ABM-at-scale programs for priority accounts or segments, in partnership with sales and field teams.
