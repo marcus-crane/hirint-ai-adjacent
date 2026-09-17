@@ -60,7 +60,7 @@ You will be responsible for building and managing Etched’s global supply base 
 * Medical, dental, and vision packages with generous premium coverage
 
   + $500 per month credit for waiving medical benefits
-* Housing subsidy of $2k per month for those living within walking distance of the office
+* Housing subsidy of $2,500 per month for those living within walking distance of the office
 * Relocation support for those moving to San Jose (Santana Row)
 * Various wellness benefits covering fitness, mental health, and more
 * Daily lunch + dinner in our office

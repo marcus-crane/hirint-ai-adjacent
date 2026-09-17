@@ -10,7 +10,7 @@ location: US - Remote
 departments:
 - Compute
 - Scaling
-compensation: $225K – $285K • Offers Equity
+compensation: $225K – $385K • Offers Equity
 ---
 
 **About the Team**
