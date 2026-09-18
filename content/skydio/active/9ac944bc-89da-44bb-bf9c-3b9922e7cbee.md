@@ -1,11 +1,11 @@
 ---
-title: Electrical Engineer Intern - Fall 2026
+title: Electrical Engineer Intern - Winter 2027
 status: active
 id: 9ac944bc-89da-44bb-bf9c-3b9922e7cbee
 source: ashby
 url: https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee
-lastmod: '2026-09-01T23:05:41.315+00:00'
-date: '2026-09-01T23:05:41.315+00:00'
+lastmod: '2026-09-17T19:47:28.660+00:00'
+date: '2026-09-17T19:47:28.660+00:00'
 location: San Mateo, California, United States
 departments:
 - Hardware
@@ -16,7 +16,7 @@ Skydio is the leading US drone company and the world leader in autonomous flight
 
 **About the role:**
 
-We are seeking interns to join our EE team this Fall, with an October or November start. We are looking for Electrical Engineering Interns who will help prototype, validate, develop, and refine the electrical systems that bring together state-of-the-art computing hardware, sensing, and power systems in the latest autonomous flying sensors. As a member of the Electrical Engineering team, you will be helping solve tough challenges alongside a team of world-class engineers.
+We are seeking interns to join our EE team this Winter, with a January start. We are looking for Electrical Engineering Interns who will help prototype, validate, develop, and refine the electrical systems that bring together state-of-the-art computing hardware, sensing, and power systems in the latest autonomous flying sensors. As a member of the Electrical Engineering team, you will be helping solve tough challenges alongside a team of world-class engineers.
 
 **How you’ll make an impact:**
 
