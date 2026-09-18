@@ -1,0 +1,83 @@
+---
+title: IT Support Specialist
+status: active
+id: 5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e
+source: ashby
+url: https://jobs.ashbyhq.com/cohere/5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e
+lastmod: '2026-09-18T03:35:03.118+00:00'
+date: '2026-09-18T03:35:03.118+00:00'
+location: Korea
+departments:
+- IT Operations
+---
+
+**Who are we?**
+
+Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
+
+We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
+
+We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
+
+We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
+
+### **About the Role**
+
+We are seeking a proactive, customer-focused **IT Support Specialist** based in South Korea to anchor our regional IT operations across the APAC time zone. In this role, you will be the primary point of contact for internal employees, delivering white-glove technical support while managing core identity, collaboration platforms, and SaaS systems.
+
+Beyond day-to-day helpdesk operations, this position bridges traditional IT support and modern systems engineering. You will leverage automation, scripting, and modern DevOps practices to streamline user lifecycles, eliminate manual toil, and ensure our workforce operates securely and efficiently.
+
+**Key Responsibilities**
+
+* Serve as the first point of contact for internal employees, triaging incoming requests through the ticketing system and established support processes.
+* Troubleshoot and resolve workstation, laptop, mobile, and basic network issues for on-site staff and remote employees, escalating more complex support cases to senior staff or the appropriate team.
+* Deliver calm, clear support during high-priority incidents, keep users informed, and document work thoroughly through to resolution.
+* Manage end-to-end employee onboarding and offboarding workflows, ensuring zero-day access provisioning, hardware readiness, and secure offboarding compliance.
+* Build and maintain support procedures and employee-facing knowledge base articles so common issues are handled consistently.
+* Partner with business units as a go-to support contact and communicate clearly, in writing and in person, across the organization.
+* Support new-hire onboarding and offboarding, including device setup, access requests, and day-one readiness.
+* Track hardware inventory and coordinate on device replacements and repairs.
+* Assist with password resets, MFA, email, and common productivity-tool issues so employees can get back to work quickly.
+* Provide hands-on support for printers, peripherals, and meeting-room technology when on-site help is needed
+* Stay eager to learn, take on special projects, and grow into broader IT support responsibilities.
+
+**Qualifications**
+
+* Professional proficiency in **English**, and **Japanese** or **Korean**.
+* 5+ years of experience in help desk, internal IT support, or a similar technical support role. Experience in a fast-paced or global team is a plus.
+* Strong experience with supporting user accounts, password resets, MFA, and SSO, specifically with Okta and Google Workspace.
+* Experience with Mobile Device Management (MDM) platforms such as Iru (macOS) and Microsoft Intune (Windows).
+* Basic understanding of networking fundamentals (TCP/IP, DNS, Wi-Fi, and VPN), with familiarity supporting UniFi/Ubiquiti equipment a plus.
+* Comfort supporting employees in Slack and other everyday collaboration tools such as Microsoft Office 365 (channels, apps, notifications, and common access issues).
+* Strong written and spoken English, with the ability to explain technical issues clearly to both technical and non-technical colleagues across international teams.
+* A patient, helpful, solutions-oriented approach to supporting internal staff, with a commitment to follow-through and a positive experience for every request.
+
+## **Full-Time Employees at Cohere enjoy these Perks:**
+
+* A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
+* Full health and dental benefits, including a separate budget for mental health.
+* RRSP matching, 401K, Pension Scheme.
+* 100% Parental Leave top-up for up to 6 months, for either parent.
+* Annual enrichment benefits:
+
+  Arts & culture, fitness/wellness, quality time, and a workspace improvement credit.
+
+  Education & learning stipend for conferences, courses, and coaching.
+
+* 6 weeks of paid vacation (30 working days!)
+* Budget for traveling to other offices if you are remote, plus an annual company offsite.
+
+## **How and Where We Work:**
+
+* Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.
+* For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
+* For those not near an office: a co-working benefit so you can work alongside others in your city.
+* Everyone receives a $500 home office stipend to set up your workspace properly.
+
+If any of the above doesn’t line up exactly with your experience, we still encourage you to apply.
+
+We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an [Accommodations Request Form](https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit), and we will work together to meet your needs.
+
+We may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
+
+*Beware of Scams: Cohere will never ask for payment or third-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our* [*official careers*](https://cohere.com/careers) *page.*

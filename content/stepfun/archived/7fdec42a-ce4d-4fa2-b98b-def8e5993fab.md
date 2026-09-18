@@ -1,6 +1,6 @@
 ---
 title: 创意负责人
-status: active
+status: archived
 id: 7fdec42a-ce4d-4fa2-b98b-def8e5993fab
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/7fdec42a-ce4d-4fa2-b98b-def8e5993fab

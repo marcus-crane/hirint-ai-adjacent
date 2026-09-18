@@ -1,6 +1,6 @@
 ---
 title: Financial Accounting
-status: active
+status: archived
 id: eed3d392-bab8-4fb9-a038-adeb991b5b5a
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/eed3d392-bab8-4fb9-a038-adeb991b5b5a

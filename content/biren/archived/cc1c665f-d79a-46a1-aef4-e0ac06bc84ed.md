@@ -1,6 +1,6 @@
 ---
 title: GPGPU IO 库开发工程师
-status: active
+status: archived
 id: cc1c665f-d79a-46a1-aef4-e0ac06bc84ed
 source: moka
 url: https://app.mokahr.com/social-recruitment/biren/44726/job/cc1c665f-d79a-46a1-aef4-e0ac06bc84ed
