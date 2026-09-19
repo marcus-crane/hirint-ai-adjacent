@@ -1,10 +1,10 @@
 ---
-title: 语音标注交付组长
+title: 语音标注交付专家
 status: active
 id: f91662d1-7c82-4f1f-acde-ff2dba4f8c0b
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/f91662d1-7c82-4f1f-acde-ff2dba4f8c0b
-lastmod: '2026-09-16T16:00:02'
+lastmod: '2026-09-19T17:08:22'
 date: '2026-09-07T17:39:18'
 location: 海淀区, 南山区, 徐汇区
 offices:
