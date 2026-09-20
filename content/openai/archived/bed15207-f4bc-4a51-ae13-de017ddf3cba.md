@@ -1,6 +1,6 @@
 ---
 title: Sales Manager, Digital Natives
-status: active
+status: archived
 id: bed15207-f4bc-4a51-ae13-de017ddf3cba
 source: ashby
 url: https://jobs.ashbyhq.com/openai/bed15207-f4bc-4a51-ae13-de017ddf3cba
