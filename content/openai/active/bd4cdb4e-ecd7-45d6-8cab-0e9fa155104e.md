@@ -1,0 +1,61 @@
+---
+title: Strategic Partnerships Manager, France
+status: active
+id: bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e
+source: ashby
+url: https://jobs.ashbyhq.com/openai/bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e
+lastmod: '2026-09-21T17:51:55.019+00:00'
+date: '2026-09-21T17:51:55.019+00:00'
+location: Paris, France
+departments:
+- Go To Market
+- Partnerships
+---
+
+**About the Team**
+
+We are hiring a Partnerships Manager based in France with primary responsibility for the French market. You will own some of OpenAI’s most important business development and partnerships while contributing to broader EMEA and international priorities. The role is responsible for identifying, developing, and executing partnership strategies that accelerate adoption of OpenAI’s products across enterprise, developer, and consumer channels.
+
+**About the Role**
+
+You will manage relationships with strategic partners in France and on cross-border opportunities, ranging from global technology platforms to regional champions, including enterprise software vendors, telcos, cloud providers, and government-aligned organizations. This is a deeply cross-functional role requiring close collaboration with Product, Engineering, GTM, Legal, and Policy teams. Although the role has clear accountability for France, team priorities may evolve, so you must be ready to take on other markets, verticals, or partnership types.
+
+Please note, this role is based in Paris with 3 days per week required in the office.
+
+**In this role, you will:**
+
+* Own partnership strategy and execution for France, driving end-to-end partnership development and delivery in the market while contributing to broader EMEA and international priorities
+* Negotiate and close strategic local and cross-border deals across commercial terms, product scope, data/privacy, brand/marketing, incentives, and expansion paths.
+* Lead senior partner relationships: build trust, align on joint value props, and manage complexity.
+* Partner closely with Product, Engineering, GTM, Legal, Policy, and regional counterparts to align roadmaps, navigate constraints, and execute partnership initiatives.
+* Bring deep knowledge of France and a strong point of view on country and sub-region differences across EMEA, informing prioritization, positioning, and partner selection. Apply that judgment flexibly when supporting opportunities beyond France or in new verticals.
+* Define success metrics and use analytical judgment to assess progress, surface risks, and communicate outcomes to internal stakeholders.
+
+**You might thrive in this role if you have:**
+
+* 10+ years of experience in strategic partnerships, product partnerships, business development, or general management within the technology industry.
+* Fluency in English and French
+* Demonstrated success leading high-impact local and international partnerships involving major technology partners, including complex cross-border work.
+* Deep understanding of France, combined with experience operating across multiple countries and international markets.
+* Product-savvy with the ability to engage technical stakeholders credibly and influence product direction and roadmap tradeoffs.
+* Exceptional communication, negotiation, and executive presence
+* Strong analytical instincts and comfort using data to inform decisions and communicate impact
+* Ability to thrive in a fast-paced, highly ambiguous environment, operate both independently and collaboratively, and adapt quickly across changing markets, verticals, and partnership types
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+For additional information, please see [OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement](https://cdn.openai.com/policies/eeo-policy-statement.pdf).
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through [this form](https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA). No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this [link](https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241).
+
+[OpenAI Global Applicant Privacy Policy](https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf)
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
