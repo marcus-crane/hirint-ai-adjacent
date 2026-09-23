@@ -1,6 +1,6 @@
 ---
 title: Account Director, Education
-status: active
+status: archived
 id: 9b64afcc-c0e0-4b2f-acce-4212b02da23a
 source: ashby
 url: https://jobs.ashbyhq.com/openai/9b64afcc-c0e0-4b2f-acce-4212b02da23a
