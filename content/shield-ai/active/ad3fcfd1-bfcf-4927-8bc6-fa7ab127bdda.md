@@ -1,5 +1,5 @@
 ---
-title: Staff Engineer, Perception Software (R5911)
+title: Perception Software Engineer (R5911)
 status: active
 id: ad3fcfd1-bfcf-4927-8bc6-fa7ab127bdda
 source: lever
