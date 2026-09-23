@@ -1,5 +1,5 @@
 ---
-title: Senior Manager, Solutions Engineering – National Security (Defense)
+title: Senior Manager, Solutions Engineering - National Security (Defense)
 status: active
 id: acadd2d7-d3b1-4ac0-a8f3-d937f9cd9e4a
 source: ashby

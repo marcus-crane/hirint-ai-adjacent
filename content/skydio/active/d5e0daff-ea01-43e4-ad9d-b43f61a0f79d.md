@@ -51,7 +51,7 @@ You will lead complex, large-scale factory design from concept through commissio
 * Implement strong project governance, including risk management, cost control, and schedule tracking
 * Identify and mitigate construction risks, delays, and cost overruns
 
-**What makes you a strong fit:**
+**What makes you a good fit:**
 
 * Bachelor’s degree in Construction Management, Civil Engineering, Architecture, or related field (Master’s preferred)
 * 10+ years of experience in industrial construction or capital projects, with significant exposure to aerospace or high-spec manufacturing environments
@@ -65,12 +65,13 @@ You will lead complex, large-scale factory design from concept through commissio
 * Familiarity with lean factory design or production flow optimization
 * Experience with sustainability, energy systems, or green building standards (LEED, etc.)
 * Strong knowledge of industrial factory design, MEP systems, and site development
+* Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions
 
 **Compensation:** At Skydio, our compensation packages for regular, full-time employees include competitive base salaries, equity in the form of stock options, and comprehensive benefits packages. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Relocation assistance may also be provided for eligible roles. The annual base salary range for this position is $147,000 - $210,000\*. Fundamentally, we believe that equity is the key to long-term financial growth, and we ensure all regular, full-time employees have the opportunity to significantly benefit from the company's success. Regular, full-time employees are eligible to enroll in the Company’s group health insurance plans. Regular, full-time employees are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.
 
 \*Compensation for certain positions may vary based on the position’s location.
 
-#LI-JC1
+#LI-JC2
 
 At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.
 
