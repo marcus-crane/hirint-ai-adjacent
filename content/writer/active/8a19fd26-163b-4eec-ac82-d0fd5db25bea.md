@@ -1,5 +1,5 @@
 ---
-title: Senior brand manager
+title: Lead brand marketing manager
 status: active
 id: 8a19fd26-163b-4eec-ac82-d0fd5db25bea
 source: ashby
