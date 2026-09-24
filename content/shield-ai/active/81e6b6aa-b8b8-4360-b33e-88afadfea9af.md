@@ -62,4 +62,16 @@ This is a hands-on individual contributor role. The Lead Financial Analyst will 
 
 #LD
 
-Our international teammates receive a comprehensive total rewards package aligned to your country office location. For full details on compensation and benefits, please consult your talent acquisition partner.
+Full-time regular employee offer package:
+
+Pay within range listed + Bonus + Benefits + Equity
+
+Temporary employee offer package:
+
+Pay within range listed above + temporary benefits package (applicable after 60 days of employment)
+
+Salary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. All offers are contingent on a cleared background and possible reference check. Military fellows and part-time employees are not eligible for benefits. Please speak to your talent acquisition representative for more information.
+
+###
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.

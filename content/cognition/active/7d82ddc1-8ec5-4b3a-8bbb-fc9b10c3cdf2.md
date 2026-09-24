@@ -1,5 +1,5 @@
 ---
-title: ABM/Enterprise Demand Manager
+title: ABM/Enterprise Demand
 status: active
 id: 7d82ddc1-8ec5-4b3a-8bbb-fc9b10c3cdf2
 source: ashby
@@ -19,7 +19,7 @@ Our team is extremely talent-dense. Among our founding team, we have world-class
 
 Building Devin is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
 
-We're looking for a Director of Enterprise Demand to build the demand engine behind Cognition's enterprise growth.
+We're looking for a leader of Enterprise Demand to build the demand engine behind Cognition's enterprise growth.
 
 You'll own how Cognition creates demand across our highest-priority verticals and major strategic accounts, while building repeatable enterprise motions that can scale beyond them.
 

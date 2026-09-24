@@ -1,6 +1,6 @@
 ---
 title: Songwriting Camp Manager
-status: active
+status: archived
 id: ab1857fc-6daa-49f2-b1d3-acbf15a16aca
 source: ashby
 url: https://jobs.ashbyhq.com/suno/ab1857fc-6daa-49f2-b1d3-acbf15a16aca
