@@ -1,5 +1,5 @@
 ---
-title: Head of Platform Product Reliability
+title: Platform Product Reliability
 status: active
 id: fbade92c-43c8-4e8d-931a-be9c5ec27b5b
 source: ashby
@@ -17,7 +17,7 @@ Etched is building hardware for frontier intelligence. We co-design chips, racks
 
 **Job Summary**
 
-We are seeking a highly technical and execution-focused Head of Platform Product Reliability to lead reliability engineering across Etched's server, rack, and datacenter platform products.
+We are seeking a highly technical and execution-focused Platform Product Reliability Engineer to lead reliability engineering across Etched's server, rack, and datacenter platform products.
 
 This role owns system-level product reliability from architecture through fleet deployment. You will define reliability strategy, qualification methodologies, accelerated stress testing programs, failure analysis processes, and long-term reliability standards for complex AI infrastructure systems. This team focuses specifically on product reliability engineering for platform hardware and deployed systems — ensuring every Etched product ships with the reliability profile that enterprise and hyperscale customers demand.
 
@@ -46,7 +46,7 @@ You will work cross-functionally with Platform Engineering, Mechanical Engineeri
 **You may be a good fit if you have (Must-have qualifications)**
 
 * BS, MS, or PhD in Electrical Engineering, Mechanical Engineering, Reliability Engineering, or a related technical field
-* 10+ years of reliability engineering experience in hardware-centric organizations, with meaningful time spent on complex systems rather than component-level work
+* 5+ years of reliability engineering experience in hardware-centric organizations, with meaningful time spent on complex systems rather than component-level work
 * Experience leading reliability programs for one or more of:
 
   + AI accelerator or GPU-class compute systems
