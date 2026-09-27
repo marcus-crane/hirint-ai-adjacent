@@ -8,7 +8,7 @@ lastmod: '2026-09-10T09:55:34.718+00:00'
 date: '2026-09-10T09:55:34.718+00:00'
 location: Middle East
 departments:
-- 'Delivery Engineering - Infrastructure '
+- Delivery Engineering | Infrastructure
 - Engineering & Infra
 offices:
 - Dubai
