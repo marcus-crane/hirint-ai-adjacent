@@ -30,7 +30,9 @@ As part of the Cloud & Infrastructure team within Enterprise Operations, this ro
 \* Support capacity planning across rack space, site and data center power, cooling, cabling, and equipment growth.  
 \* Administer and improve DCIM/IPAM/CMDB platforms such as Nautobot, NetBox, Device42, or equivalent.  
 \* Establish and maintain physical infrastructure documentation and labeling standards to ensure environments remain accurately documented throughout their lifecycle.  
-\* Review floor plans, low-voltage drawings, vendor designs, proposals, and statements of work.  
+\* Review floor plans, low-voltage drawings, vendor designs, proposals, and statements of work.
+
+\* Manage site and data center circuit inventory and lifecycle planning, including circuit documentation, utilization and capacity planning, renewal tracking, upgrades, relocations, disconnects, and coordination with carriers and internal procurement teams.   
 \* Coordinate with architects, contractors, colocation providers, carriers, OEMs, and field-service vendors.  
 \* Partner with Network, Systems, and Cloud Engineering teams to ensure site and data center infrastructure supports compute, storage, connectivity, wireless, security, hybrid connectivity, and public cloud requirements.  
 \* Identify capacity constraints, documentation gaps, and opportunities to improve infrastructure standards and processes.  
