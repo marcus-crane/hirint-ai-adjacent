@@ -1,5 +1,5 @@
 ---
-title: Manufacturing Engineer 2nd Shift
+title: 2nd Shift Manufacturing Engineer
 status: active
 id: e9811fff-caba-4f17-a0e1-b6d5cc8fd38a
 source: ashby
