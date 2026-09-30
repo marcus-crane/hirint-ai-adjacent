@@ -1,5 +1,5 @@
 ---
-title: International Growth Lead, France
+title: Growth Lead, France
 status: active
 id: c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68
 source: ashby
