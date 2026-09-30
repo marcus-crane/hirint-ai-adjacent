@@ -1,5 +1,5 @@
 ---
-title: Commercial Counsel - US
+title: Commercial Counsel Lead - US
 status: active
 id: daaab5ab-88d1-4d67-a65f-d3c4ebb8fe71
 source: ashby

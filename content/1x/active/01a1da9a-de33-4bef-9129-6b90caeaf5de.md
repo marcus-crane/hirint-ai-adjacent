@@ -1,5 +1,5 @@
 ---
-title: Robot Assembly Technician
+title: Assembly Technician - Robot Body
 status: active
 id: 01a1da9a-de33-4bef-9129-6b90caeaf5de
 source: ashby
