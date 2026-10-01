@@ -8,7 +8,7 @@ lastmod: '2026-02-03T17:34:18.389000+00:00'
 date: '2026-02-03T17:34:18.389000+00:00'
 location: New York, NY
 departments:
-- Product Development
+- Dev
 offices:
 - New York, NY
 ---
