@@ -1,5 +1,5 @@
 ---
-title: Strategic Account Executive - Sweden - Industrials & Telecom
+title: Nordics Strategic Account Executive - Telecom
 status: active
 id: 0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc
 source: ashby
@@ -11,6 +11,7 @@ departments:
 - Revenue
 - Revenue - Europe
 offices:
+- Denmark
 - Stockholm
 ---
 
@@ -45,18 +46,18 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual company offsite:** Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-We're looking for an experienced, driven Senior Strategic Account Executive to drive ElevenLabs' growth across Sweden's largest enterprises, with a specific focus on Industrials and Telecommunications. Our ideal candidate has a well-established network and a proven track record of selling to C-level and senior decision-makers at major Swedish industrial and telecom organizations — and is passionate about the transformative possibilities of AI voice technology.
+We're looking for an experienced, driven Senior Strategic Account Executive to drive ElevenLabs' growth across the Nordic's largest enterprises, with a specific focus on Industrials and Telecommunications. Our ideal candidate has a well-established network and a proven track record of selling to C-level and senior decision-makers at major industrial and telecom organizations in the Nordics — and is passionate about the transformative possibilities of AI voice technology.
 
 In this role you'll act as a strategic partner and trusted advisor, enabling clients to leverage our industry-leading models and ElevenAgents — our end-to-end platform for building and deploying AI voice agents — to reimagine their customer experience, internal workflows, and monetization strategies.
 
 **In this role you will:**
 
-1. Build and manage a growing portfolio of strategic accounts across Sweden, with a primary focus on Industrials and Telecommunications, to help ElevenLabs meet its revenue goals.
+1. Build and manage a growing portfolio of strategic accounts across the Nordics, with a primary focus on Industrials and Telecommunications, to help ElevenLabs meet its revenue goals.
 2. Identify new business opportunities where ElevenLabs' conversational AI capabilities, including ElevenAgents, can drive customer engagement, contact center automation, and operational efficiency for industrial and telecom organizations.
 3. Lead consultative, multi-stakeholder sales cycles, building compelling business cases that translate AI voice technology into measurable business value for senior executives and economic buyers.
-4. Develop and maintain a deep understanding of the conversational AI landscape, including customer use cases, competitive solutions, and emerging trends, particularly as they apply to Swedish industrial and telecom organizations.
+4. Develop and maintain a deep understanding of the conversational AI landscape, including customer use cases, competitive solutions, and emerging trends, particularly as they apply to the Nordics industrial and telecom organizations.
 5. Demonstrate expertise, or a strong willingness to learn, about conversational AI and how ElevenLabs' voice technology can unlock value across customer support, virtual agents, IVR modernization, and in-app assistants.
-6. Develop and execute account strategies to expand ElevenLabs' presence within the Swedish industrials and telecom sectors, navigating complex procurement and organizational structures.
+6. Develop and execute account strategies to expand ElevenLabs' presence within the Nordics industrials and telecom sectors, navigating complex procurement and organizational structures.
 7. Partner closely with Customer Success, FDEs and Solutions Engineering to ensure smooth onboarding, deployment, and expansion of accounts.
 8. Serve as a trusted advisor to clients, educating C-suite and senior operations leaders on emerging trends in generative AI, voice interfaces, and conversational agents.
 
@@ -64,17 +65,17 @@ In this role you'll act as a strategic partner and trusted advisor, enabling cli
 
 * 7+ years of quota-carrying strategic sales experience in SaaS or technology, ideally with exposure to AI, generative AI, LLM-based products, or API-driven platforms.
 * Proven success closing deals and managing long, complex sales cycles with multiple stakeholders across business, IT, legal, and procurement.
-* Well-connected in the Swedish industrials and telecom landscape, with an existing network of senior individuals and strong executive presence and ability to build relationships at the C-suite and board level.
+* Well-connected in the Nordics industrials and telecom landscape, with an existing network of senior individuals and strong executive presence and ability to build relationships at the C-suite and board level.
 * Experience selling technical solutions to product and engineering leaders; ability to translate complex technology into business value.
-* Deep understanding of enterprise procurement and legal processes in Sweden, with the ability to accelerate deal velocity within complex organizational structures.
+* Deep understanding of enterprise procurement and legal processes in the Nordics, with the ability to accelerate deal velocity within complex organizational structures.
 * Comfort operating in an early-stage, high-growth environment, including building new playbooks and iterating quickly.
 * Passion for voice and audio AI and how it can unlock transformative value for customers.
 * A hybrid of customer and product-driven mentality that prioritizes client satisfaction and scale.
-* Native or full professional proficiency in Swedish; strong English for internal collaboration.
+* Native or full professional proficiency in Swedish or Danish; strong English for internal collaboration.
 
 **Location**
 
-This is an in-country role with a preference for a candidate based in Stockholm. You can work remotely or from our office in Stockholm.
+This is an in-country role with a preference for a candidate based in Stockholm or Copenhagen. You can work remotely or from our office in Stockholm.
 
 #LI-remote
 
