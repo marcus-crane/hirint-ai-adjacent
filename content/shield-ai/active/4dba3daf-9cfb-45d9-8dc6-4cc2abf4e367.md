@@ -8,7 +8,7 @@ lastmod: '2026-09-09T17:17:00.837000+00:00'
 date: '2026-09-09T17:17:00.837000+00:00'
 location: San Diego, California
 departments:
-- Software Ops
+- Core Services & Infra
 offices:
 - San Diego, California
 - San Mateo, California
