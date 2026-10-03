@@ -44,9 +44,8 @@ This is a high-trust, high-autonomy role. Success requires deep program manageme
 
 **You’ll thrive in this role if you:**
 
-* Hold an active TS/SCI clearance
-* Have 10+ years of experience in cybersecurity, national security consulting, delivery leadership, or senior program management roles, driving complex technical initiatives across cross-functional teams to deliver results for national security missions.
 * Active U.S. Government TS/SCI clearance, with a strong preference for an active Counterintelligence or Full Scope Polygraph
+* Have 10+ years of experience in cybersecurity, national security consulting, delivery leadership, or senior program management roles, driving complex technical initiatives across cross-functional teams to deliver results for national security missions.
 * Are willing to travel up to 50% and work on-site with national security and cyber customers to build strong relationships and deeply understand their needs.
 * Have experience leading organizational transformation initiatives (AI, digital, or business transformation) directly with national security departments or agencies.
 * Have led complex national security or cyber-focused programs in enterprise SaaS, AI/ML, consulting, cybersecurity, or transformation environments.
