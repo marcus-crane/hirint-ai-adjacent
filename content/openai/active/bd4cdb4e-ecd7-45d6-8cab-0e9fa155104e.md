@@ -1,11 +1,11 @@
 ---
-title: Strategic Partnerships Manager, France
+title: Business Development Manager, Product Partnerships
 status: active
 id: bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e
 source: ashby
 url: https://jobs.ashbyhq.com/openai/bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e
-lastmod: '2026-09-21T17:51:55.019+00:00'
-date: '2026-09-21T17:51:55.019+00:00'
+lastmod: '2026-10-06T14:52:04.472+00:00'
+date: '2026-10-06T14:52:04.472+00:00'
 location: Paris, France
 departments:
 - Go To Market
@@ -14,18 +14,18 @@ departments:
 
 **About the Team**
 
-We are hiring a Partnerships Manager based in France with primary responsibility for the French market. You will own some of OpenAI’s most important business development and partnerships while contributing to broader EMEA and international priorities. The role is responsible for identifying, developing, and executing partnership strategies that accelerate adoption of OpenAI’s products across enterprise, developer, and consumer channels.
+We are hiring a Product Partnerships Manager based in France with primary responsibility for the French market. You will own some of OpenAI’s most important business development and partnerships while contributing to broader EMEA and international priorities. The role is responsible for identifying, developing, and executing partnership strategies that accelerate adoption of OpenAI’s products across enterprise, developer, and consumer channels.
 
 **About the Role**
 
-You will manage relationships with strategic partners in France and on cross-border opportunities, ranging from global technology platforms to regional champions, including enterprise software vendors, telcos, cloud providers, and government-aligned organizations. This is a deeply cross-functional role requiring close collaboration with Product, Engineering, GTM, Legal, and Policy teams. Although the role has clear accountability for France, team priorities may evolve, so you must be ready to take on other markets, verticals, or partnership types.
+You will develop relationships with strategic partners in France and on cross-border opportunities, ranging from global technology platforms to regional champions, including enterprise software vendors, telcos, cloud providers, and government-aligned organizations. This is a deeply cross-functional role requiring close collaboration with Product, Engineering, GTM, Legal, and Policy teams. Although the role has clear accountability for France, team priorities may evolve, so you must be ready to take on other markets, verticals, or partnership types.
 
 Please note, this role is based in Paris with 3 days per week required in the office.
 
 **In this role, you will:**
 
-* Own partnership strategy and execution for France, driving end-to-end partnership development and delivery in the market while contributing to broader EMEA and international priorities
-* Negotiate and close strategic local and cross-border deals across commercial terms, product scope, data/privacy, brand/marketing, incentives, and expansion paths.
+* Own the partnership development strategy and execution for France, driving end-to-end partnership sourcing and delivery in the market while contributing to broader EMEA and international priorities
+* Source, negotiate and close strategic local and cross-border deals across commercial terms, product scope, data/privacy, brand/marketing, incentives, and expansion paths.
 * Lead senior partner relationships: build trust, align on joint value props, and manage complexity.
 * Partner closely with Product, Engineering, GTM, Legal, Policy, and regional counterparts to align roadmaps, navigate constraints, and execute partnership initiatives.
 * Bring deep knowledge of France and a strong point of view on country and sub-region differences across EMEA, informing prioritization, positioning, and partner selection. Apply that judgment flexibly when supporting opportunities beyond France or in new verticals.
@@ -33,7 +33,7 @@ Please note, this role is based in Paris with 3 days per week required in the of
 
 **You might thrive in this role if you have:**
 
-* 10+ years of experience in strategic partnerships, product partnerships, business development, or general management within the technology industry.
+* 10+ years of experience in business development or product partnerships within the technology industry.
 * Fluency in English and French
 * Demonstrated success leading high-impact local and international partnerships involving major technology partners, including complex cross-border work.
 * Deep understanding of France, combined with experience operating across multiple countries and international markets.
