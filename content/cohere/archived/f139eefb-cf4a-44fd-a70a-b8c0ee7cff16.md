@@ -1,6 +1,6 @@
 ---
 title: ' Solutions Architect, Defence, DACH'
-status: active
+status: archived
 id: f139eefb-cf4a-44fd-a70a-b8c0ee7cff16
 source: ashby
 url: https://jobs.ashbyhq.com/cohere/f139eefb-cf4a-44fd-a70a-b8c0ee7cff16
