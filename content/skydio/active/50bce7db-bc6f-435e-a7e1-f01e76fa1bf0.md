@@ -1,5 +1,5 @@
 ---
-title: Program Manager, DRF (New Jersey)
+title: Program Manager, DFR (New Jersey)
 status: active
 id: 50bce7db-bc6f-435e-a7e1-f01e76fa1bf0
 source: ashby
@@ -24,7 +24,7 @@ In addition to your core role, you will also be suited to providing input into a
 
 * Location: New Jersey (this is a firm requirement)
 
-**How you will make an impact:**
+**How you'll make an impact:**
 
 * Be a highly collaborative, requirements driven planner with a deep sense of ownership and accountability with a willingness to roll up sleeves and dive into the details.
 * Plan and design end-to-end project deployment and integration activities to ensure the successful launch of our platform and ensure operational success. Manage production and implementation programs against cost, schedule and technical requirements.

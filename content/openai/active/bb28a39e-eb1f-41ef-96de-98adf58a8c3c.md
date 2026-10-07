@@ -6,11 +6,11 @@ source: ashby
 url: https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c
 lastmod: '2026-10-02T17:13:03.539+00:00'
 date: '2026-10-02T17:13:03.539+00:00'
-location: US - Remote
+location: San Francisco
 departments:
 - People
 - People Systems & Operations
-compensation: $187K – $280K • Offers Equity
+compensation: $187K – $266K • Offers Equity
 ---
 
 **About the Team**
