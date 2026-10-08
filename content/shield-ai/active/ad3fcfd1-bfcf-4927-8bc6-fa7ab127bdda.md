@@ -8,7 +8,7 @@ lastmod: '2026-09-09T17:10:07.825000+00:00'
 date: '2026-09-09T17:10:07.825000+00:00'
 location: San Diego, California
 departments:
-- Pilot
+- Engineering
 offices:
 - Orlando, Florida
 - San Diego, California
