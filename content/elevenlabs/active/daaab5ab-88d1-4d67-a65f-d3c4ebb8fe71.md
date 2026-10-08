@@ -47,7 +47,7 @@ Everything we do is the result of the creativity and commitment of our team - bu
 
 We are seeking an experienced Commercial Counsel to lead and manage our US commercial team. In this role, you will support complex commercial transactions across North America, including SaaS, licensing, and strategic partnerships, while helping the company navigate diverse legal and regulatory frameworks in the rapidly evolving field of artificial intelligence. You will work closely with global colleagues to provide practical, business-oriented advice that enables growth while managing risk across multiple jurisdictions.
 
-Responsibilities
+## Responsibilities
 
 * Draft, review, and negotiate commercial agreements, with a primary focus on GTM/Sales transactions in North America, including enterprise customer contracts
 * Partner with sales, business development, and operations teams to design and implement strategies that support high-growth go-to-market initiatives.
@@ -57,14 +57,14 @@ Responsibilities
 * Provide clear, pragmatic, and commercially focused legal advice to cross-functional teams, tailoring advice to enable responsible growth and innovation.
 * Contribute to scaling the Legal Team’s commercial function, fostering a collaborative, solutions-oriented team culture.
 
-Who you are
+## Who you are
 
 * Curious about the future of AI and emerging technologies, have a strong sense of ownership with enthusiasm for applying your legal expertise to cutting-edge products.
 * Experienced in navigating fast-paced, high-growth environments, with the ability to manage ambiguity and make informed, timely decisions.
 * Comfortable working independently while collaborating effectively with cross-functional and global colleagues.
 * Proactive, business-minded, and committed to delivering practical solutions that support both compliance and commercial success.
 
-What you bring
+## What you bring
 
 * J.D. and active membership in at least one U.S. State Bar (NY or CA preferred)
 * 8+ years of relevant post-qualification legal experience (in-house experience in technology or SaaS strongly preferred).
@@ -75,8 +75,8 @@ What you bring
 * Excellent communication, stakeholder management, and problem-solving skills.
 * Comfort in fast-paced environments with shifting priorities and tight deadlines
 
-Location
+## Location
 
-This role is remote and can be executed in the United States, with a preference for New York or San Francisco, where the company has offices and significant presence.
+This role is remote and can be executed in the United States, with a preference for New York or San Francisco.
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

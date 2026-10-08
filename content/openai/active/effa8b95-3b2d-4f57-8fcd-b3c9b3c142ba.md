@@ -9,6 +9,9 @@ date: '2026-09-24T15:03:27.486+00:00'
 location: San Francisco
 departments:
 - Applied AI
+offices:
+- New York City
+- Seattle
 compensation: $239K – $325K • Offers Equity
 ---
 
@@ -22,7 +25,7 @@ We are hiring a Lifecycle Lead to build the company-wide owned-channel capabilit
 
 You will sit at the intersection of platform, product, and campaign strategy. You will partner with Engineering, Product, Data Science, and Analytics on the underlying systems, and with Product Marketing Managers and other client teams to design journeys that help new, active, and returning businesses reach value and build durable habits.
 
-This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+This role is based in San Francisco, Seattle, or New York City. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
 
 **In this role, you will:**
 
