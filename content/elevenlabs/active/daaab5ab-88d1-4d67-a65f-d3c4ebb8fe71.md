@@ -9,7 +9,6 @@ date: '2026-08-27T18:29:59.812+00:00'
 location: United States
 departments:
 - Legal
-- Operations
 ---
 
 ## About ElevenLabs

@@ -1,0 +1,81 @@
+---
+title: Staff Engineer, Autonomy Behaviors
+status: active
+id: d13bae60-fb7d-49ea-9d9d-b777efd95d2c
+source: lever
+url: https://jobs.lever.co/shieldai/d13bae60-fb7d-49ea-9d9d-b777efd95d2c
+lastmod: '2026-10-09T12:16:51.103000+00:00'
+date: '2026-10-09T12:16:51.103000+00:00'
+location: Bangalore
+departments:
+- Engineering
+offices:
+- Bangalore
+---
+
+Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
+
+Staff Software Engineers on the Autonomy Behaviors team will lead the delivery of autonomous behaviors into our products, acting as technical leads, extremely senior individual contributors, and/or as team leads that are also hands-on contributors. We expect Staff Engineers to demonstrate unparalleled end-to-end outcome ownership, driving the architecting, design, delivery, support, and evolution of safe and effective mission autonomy software throughout the entire product lifecycle.
+
+### 
+
+* Develop tactical autonomy software to enable unmanned platforms to perform complex missions across air, land, sea, and space domains with minimal human supervision.
+* Implement and test behaviors that enable multi-agent coordination, target engagement, reconnaissance, and survivability in contested scenarios.
+* Work throughout the entire of the software development lifecycle, from requirements capture through design, implementation, verification, and validation, utilizing tools and workflows consistent with collaborative high-quality software development.
+* Champion a product-line mindset in technology road-mapping and to enable reuse of behaviors across multiple projects and portfolios.
+* Utilize your software and systems expertise to architect behaviors as scalable software subsystems, that may interact directly or indirectly with a breadth of system components (e.g., sensor processing, state estimation, peer-to-peer communications, contingency management, actuation, and payload interfacing).
+* Leverage internal product and program-specific engineering teams to rapidly deliver state-of-the-art capabilities to vehicle platforms (whether internally and externally owned), with a clear path towards architecture and capability evolution over time.
+* Collaborate with external teams, aligning on interfacing requirements between diverse systems, often working closely with vehicle integration teams and associated operational subject matter experts (e.g., fighter pilots, UAV operators, etc.)
+* Act as a subject matter expert for software engineering, representing software equities in a multi-stakeholder environment including engineering, business and sales leadership.
+* Travel to co-locate with end-users and/or other teams up to 20% of the time
+
+### Required Qualifications:
+
+* BS/MS/PhD in Computer Science, Aerospace Engineering, Electrical Engineering, Robotics, Mechanical Engineering, or a related field.
+* Proficient in production-level C++ software development.
+* 7+ years' experience in one or more of the following: software sub-system scheduling and integration, behavior planning, task and resource allocation, motion planning, optimization, or flight controls.
+* Experience with collaborative software development tools for version control, issue tracking, code reviews, and release management.
+* Proven ability to lead multi-disciplinary teams, set technical direction, and manage full project lifecycles from concept to deployment.
+* Capacity to learn and grow individually, while mentoring junior team members effectively, building team cohesion and capacity.
+* Desire to work in a highly collaborative, fast paced, enthusiastic, and mission-centric environment.
+* Capacity to act as the technical owner for an entire software system, including stakeholder engagement, requirements definition, roadmap management, team co-ordination, design, implementation, sustainment, and evolution.
+
+### Preferred Qualifications:
+
+* Experience across a breadth of technology readiness levels (TRLs) and demonstration of bridging concepts from research-grade to operationally ready
+* Experience with mission systems integration, and ideally, hands-on experience supporting integration events and/or flight demonstrations
+
+Experience across a multitude of application areas, including but not limited to:
+
+* Collaborative mission planning, behavior planning, synchronized teaming.
+* Automated red force vs blue force tactics.
+* Motion planning across a variety of vehicle classes, kinematic constraints, and team compositions.
+* Weapons target assignment, Sensor target pairing, sensor-centric control laws.
+* Collision avoidance, geofencing, and safety-monitoring.
+* Experience in more than one operational effect (e.g., strike, air combat, surveillance, reconnaissance, etc.) and more than one associated domain (e.g., air, space, maritime, ground, etc.)
+* Experience with FOSS software that is commonly used in robotic systems (e.g., ROS, OMPL, optimization solvers, etc.)
+* Experience with simulation tools and environments (e.g., AFSIM, NGTS) for testing and validation.
+* Familiarity with practical aspects of navigation and communications systems.
+* Experience across the product delivery lifecycle, from emerging opportunity through system acceptance, deployment, and sustainment.
+* Familiarity with systems engineering methodologies.
+* Familiarity with high-assurance software development processes (e.g., DO-178C or equivalent MIL-STD's).
+
+Total package details for U.S. based positions:
+
+- Regular employee positions: Salary within range listed above + Bonus + Benefits + Equity
+
+- Temporary employee positions: Hourly within range listed above + temporary benefits package (applicable after 60 days
+
+of employment)
+
+- Interns/Military Fellows/Part-time not eligible for bonus, benefits or equity
+
+Total package details for International positions which are roles based outside of the United States (where applicable):
+
+- International premium, hardship differential, cost of living differential, living quarters allowance, foreign service transfer
+
+allowance, equity, international benefits, visa assistance, and relocation assistance.
+
+Salary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. All offers are contingent on a cleared background and possible reference check.
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.

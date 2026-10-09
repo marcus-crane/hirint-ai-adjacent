@@ -9,7 +9,6 @@ date: '2026-10-05T14:22:25.883+00:00'
 location: India
 departments:
 - Legal
-- Operations
 ---
 
 ## About ElevenLabs
