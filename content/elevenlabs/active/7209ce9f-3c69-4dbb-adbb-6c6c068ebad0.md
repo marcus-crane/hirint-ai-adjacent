@@ -1,18 +1,17 @@
 ---
-title: Enterprise Sales Lead, Financial Services
+title: Enterprise Sales Lead- Financial Services
 status: active
 id: 7209ce9f-3c69-4dbb-adbb-6c6c068ebad0
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0
-lastmod: '2026-10-08T13:39:36.857+00:00'
-date: '2026-10-08T13:39:36.857+00:00'
+lastmod: '2026-10-09T18:25:20.396+00:00'
+date: '2026-10-09T18:25:20.396+00:00'
 location: Remote
 departments:
 - Revenue
 - Revenue - US
 offices:
 - New York
-- San Francisco
 - United States
 ---
 
@@ -47,16 +46,20 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual company offsite:** Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-**About the role**Banks, insurers, lenders, and wealth firms are all asking the same question: how do we move from chat-only to voice and AI agents without regulatory, brand, or operational blowback? You'll own our North America enterprise motion in financial services and be the person who answers it, with customers, partners, and the C-suite. This is a rare chance to join while the vertical is moving from pilots to production, with the mandate to build the playbook and the team.
+**About the role**
+
+As Enterprise Sales Lead - Financial Services, you’ll own our North America enterprise motion across Banking and Insurance, helping institutions put agents in front of customers, policyholders, and advisors that are safe, compliant, and fit the systems they already run.
+
+In regulated industries, relationships are the currency, so we’re looking for a leader who already knows the buyers and the rulebook. This is a rare chance to join while the vertical is moving from pilots to production, with the mandate to win net-new logos, drive agent sales, and build the playbook and the team.
 
 **In this role, you will:**
 
-* Own the enterprise FinServ function across banking, insurance, lending/payments, and wealth: strategy, pipeline, forecast, process, execution
-* Define the enterprise ICP, sales methodology, and a repeatable motion for regulated buyers
-* Build and lead a high-performing enterprise sales team
-* Land anchor logos in legacy banks and insurers, then expand across business lines (this is an industry where one named logo opens doors with its peers)
+* Win net-new logos and drive adoption of ElevenLabs, including closing deals yourself and also building and scaling the team
+* Own the enterprise Banking and Insurance function and playbook: strategy, pipeline, forecast, process, execution
+* Define the enterprise ICP, sales methodology, and a repeatable motion for each of Banking and Insurance, including different buyers, regulators, and use cases
+* Open doors through your own network of senior buyers, and turn early wins into the references the rest of the vertical will call
 * Guide buyers through model-risk review, architecture review, and vendor security, bringing Risk, Compliance, and InfoSec in early
-* Help customers pick a narrow, high-volume first use case (servicing, caller verification, collections, claims, onboarding) and scale from there
+* Help customers pick a narrow, high-volume first use case in Banking (servicing, caller verification, collections, onboarding) and Insurance (claims intake, policy servicing, renewals), and scale from there
 * Partner with our Forward Deployed Engineers, Product, Marketing, and Customer Success to co-build and share what the field teaches us
 * Lead executive briefings, events, and high-stakes negotiations
 * Bring a sharp view of the competitive landscape, including build-vs-buy and platform bundlers, to positioning and strategy
@@ -64,20 +67,22 @@ Everything we do is the result of the creativity and commitment of our team - bu
 
 **Requirements:**
 
-* Proven enterprise sales leadership in a high-growth, product-led tech company (AI/ML strongly preferred)
-* Track record selling to banks, insurers, or fintechs, and navigating Risk, Compliance, and InfoSec gatekeepers
-* Experience building and scaling sales teams from the ground up
+* 10+ years of enterprise sales experience, including at least 2 years leading a team.
+* Track record selling into banks and/or insurers, and navigating Risk, Compliance, and InfoSec gatekeepers
+* An established network of senior decision-makers in banking and/or insurance, so you can name the buyers you’d call in your first 30 days
+* Passion for experimenting to find the positioning and messaging that wins in market, and turn what works into the playbook
+* Experience building a new sales motion or playbook from scratch, whether as a founding leader or inside a larger company
+* Deep fluency in banking and insurance regulation (model risk, third-party risk, data protection, consumer protection), which you can speak to without a briefing
 * Seven-figure enterprise deals and complex, multi-stakeholder cycles
-* Working knowledge of financial regulation and model-risk expectations (a plus)
 * Ability to be strategic and hands-on at once
 * Executive presence at C-suite and board levels
-* Collaborative, humble, and driven
-* Passion for the transformative potential of conversational AI
+* Low ego and hands-on: equally at home in a C-suite briefing and in the weeds of a prospecting list or Proof of Value. Motivated by impact and growth more than title
+* Passion for the transformative potential of voice and conversational AI
 
 **Location**
 
-This role is remote-first, so it can be executed from anywhere in the United States, however the ability to operate in EST, CST, or PST timezones is required. There is a preference for candidates to be based in New York or San Francisco, with the option to work out of our office.
+This role is remote-first, so it can be executed from anywhere in the United States, however the ability to operate in EST, CST, or PST timezones is required.
 
-#LI-remote
+There is a preference for candidates to be based in New York or San Francisco, with the option to work out of our office.
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

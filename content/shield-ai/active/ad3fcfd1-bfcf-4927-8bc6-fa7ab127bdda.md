@@ -1,5 +1,5 @@
 ---
-title: Perception Software Engineer (R5911)
+title: Autonomy & Perception Software Engineer (R5911)
 status: active
 id: ad3fcfd1-bfcf-4927-8bc6-fa7ab127bdda
 source: lever
@@ -20,43 +20,45 @@ Shield AI is a venture-backed defense-tech company with the mission of protectin
 
 ### Job Description:
 
-Shield AI's Hivemind Detection, Tracking, and Mapping (DTM) team develops perception capabilities that allow autonomous systems to understand objects, motion, sensors, and terrain across air, maritime, and ground domains. We are seeking a Staff Engineer to develop these capabilities from algorithms and production C++ libraries through integration, verification, and delivery in the Hivemind SDK.
+Help build perception software that works beyond the lab. Shield AI’s Perception team builds software that helps autonomous aircraft and vehicles understand their surroundings and make decisions in the real world. We’re looking for an experienced engineer who enjoys solving difficult perception problems and turning those solutions into reliable autonomy capabilities.
 
-This is a full-stack perception product-development role. You will bring depth in at least one core area such as object detection, object tracking, computer vision, image processing, sensor modeling, or sensor fusion, and work comfortably across adjacent parts of the stack. You will help turn prototypes, research, and partner-developed technology into reusable, configurable, well-tested product capabilities.
+You’ll bring depth in an area such as object tracking, classical/ML-based detection, computer vision, optimal state estimation, or sensor fusion. Working alongside autonomy, simulation, platform, and test engineers, you’ll take capabilities from an initial idea through deployment in the Hivemind product.
 
 ### What you'll do:
 
-* Design and implement production perception capabilities in modern C++, with emphasis on clear interfaces, correctness, performance, maintainability, and automated test coverage.
-* Own features across the development lifecycle: clarify requirements, evaluate technical approaches, develop algorithms and libraries, integrate them into the Pilot runtime, and carry them through SDK validation, documentation, and release readiness.
-* Contribute deep technical judgment in one or more DTM areas, including object detection, object tracking, computer vision, image processing, sensor and measurement modeling, mapping, or multi-sensor fusion.
-* Work across adjacent layers such as sensor data contracts, coordinate frames, timing, configuration, simulation, replay, analyzers, embedded deployment, and end-to-end perception workflows.
-* Diagnose difficult system behavior using source code, logs, recorded sensor data, simulation, and focused experiments; drive issues from symptom through root cause, corrective action, and regression coverage.
-* Participate in design reviews and code reviews, communicate technical tradeoffs concisely, mentor other engineers, and help improve the architecture and engineering practices of the DTM stack.
-* Use modern AI-assisted engineering tools effectively while remaining accountable for the design, technical accuracy, security, test coverage, and reviewability of the resulting work.
-* Evaluate how emerging foundation-model capabilities may strengthen detection, tracking, image understanding, simulation, and perception workflows, and help identify practical paths from promising technology to dependable product capability.
++ Develop perception algorithms and production software in modern C++.
+
++ Own features from design and implementation through integration, testing, and delivery.
+
++ Investigate system behavior using sensor data, simulation, logs, and focused experiments.
+
++ Collaborate across teams to turn research and customer-driven work into reusable product capabilities.
+
++ Contribute to technical direction, review designs and code, and mentor other engineers.
 
 ### Required qualifications:
 
-* Significant professional experience developing and delivering production C++ software for robotics, autonomy, perception, real-time systems, simulation, or another complex technical product.
-* Deep experience in at least one relevant technical area, such as object detection, object tracking, computer vision, image processing, sensor modeling, sensor fusion, estimation, or mapping.
-* Demonstrated ability to work beyond a prototype or isolated algorithm and deliver maintainable software with clear interfaces, tests, diagnostics, documentation, and integration into a larger system.
-* Strong debugging and systems-thinking skills, including the ability to reason across algorithms, software architecture, data contracts, configuration, timing, coordinate frames, compute behavior, and sensor data.
-* Proficiency with Python tools for technical analysis, visualization, experimentation, or verification.
-* Experience collaborating across teams and disciplines, making sound technical decisions amid ambiguity, and communicating designs, risks, and review feedback clearly and constructively.
-* Experience using—or the demonstrated ability to quickly adopt—modern AI-assisted development tools with disciplined human review and validation.
++ Experience delivering production C++ software for perception, robotics, autonomy, or a related technical field.
+
++ Strong technical depth in at least one relevant area: detection, tracking, computer vision, image processing, estimation (e.g. Kalman Filtering), or sensor fusion.
+
++ An ability to debug complex systems and build software that others can understand, test, and maintain.
+
++ Comfort using Python or similar tools for experimentation and data analysis.
+
++ Sound technical judgment and a collaborative approach to solving problems.
 
 ### Preferred qualifications:
 
-* Experience developing software for autonomous aircraft, maritime systems, ground robots, automotive systems, defense applications, or other operationally deployed robotic platforms.
-* Experience with multi-target tracking, data association, estimation, multi-sensor or multi-agent fusion, angle-only tracking, or measurement modeling.
-* Experience with EO/IR imagery, video pipelines, radar, LiDAR, GNSS/INS, camera models, calibration, or time-aligned sensor data.
-* Familiarity with embedded Linux, edge or GPU compute, CUDA, TensorRT, NVIDIA Jetson, Qualcomm, or comparable deployment environments.
-* Experience with simulation, hardware-in-the-loop testing, recorded-data replay, performance analyzers, or evaluation against real-world sensor data.
-* Familiarity with modern C++ package, build, configuration, and CI systems such as CMake, Nix, Conan, GitLab CI, or comparable tooling.
-* Practical familiarity with vision foundation models, vision-language models, learned visual representations, or the data and evaluation workflows needed to adapt foundation models to robotics and autonomy.
-* Experience turning research, IRAD, partner-developed, or program-specific software into reusable product libraries and stable integration contracts.
+* Experience with
 
-This role is hybrid and based at Shield AI's San Diego, CA headquarters, with three days per week in the office as the baseline. Candidates currently outside San Diego who are willing to relocate are encouraged to apply.
+  + real sensors (EO/IR, Radar, LiDAR, IMU)
+
+  + embedded or GPU deployment
+
+  + resource-constrained compute environments
+
+This role can be based in San Diego, San Mateo, Washington, DC, or Orlando, with a hybrid schedule of three days per week in the office.
 
 #LI-KC3
 
