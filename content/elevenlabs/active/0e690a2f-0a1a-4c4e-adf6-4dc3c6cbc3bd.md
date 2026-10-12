@@ -1,11 +1,11 @@
 ---
 title: Paid Media Manager
-status: archived
+status: active
 id: 0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd
-lastmod: '2026-10-07T15:50:44.353+00:00'
-date: '2026-10-07T15:50:44.353+00:00'
+lastmod: '2026-10-12T07:44:49.244+00:00'
+date: '2026-10-12T07:44:49.244+00:00'
 location: United Kingdom
 departments:
 - Growth
