@@ -1,6 +1,6 @@
 ---
 title: Workload Porting & Performance Engineer
-status: active
+status: archived
 id: ec0a4e03-bbcc-4c64-813f-b53dabb8f53a
 source: ashby
 url: https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a
