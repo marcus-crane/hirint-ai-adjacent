@@ -9,7 +9,7 @@ date: '2026-05-27T20:57:31.436+00:00'
 location: San Jose
 departments:
 - Production
-compensation: $150K – $225K • Plus Significant Equity
+compensation: $150K – $275K • Plus Significant Equity
 ---
 
 **About Etched**
