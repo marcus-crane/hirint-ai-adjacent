@@ -10,6 +10,7 @@ location: Seattle, Washington
 departments:
 - X-BAT Engineering - Mechanical
 offices:
+- San Diego, California
 - Seattle, Washington
 ---
 
@@ -34,7 +35,7 @@ This role is best suited for an engineer who thrives on first-principles problem
 ### Required qualifications:
 
 * B.S. in Mechanical Engineering, Aerospace Engineering, or related discipline.
-* Minimum 7 years of professional experience in avionics or electronics thermal engineering.
+* Minimum 10 years of professional experience in avionics or electronics thermal engineering.
 * Strong expertise in heat transfer (conduction, convection, radiation) and fluid mechanics.
 * Deep understanding of active and passive cooling solutions and their integration at component and system level.
 * Deep understanding of thermal management design elements including TIMs, spreaders, heat sinks, vapor chambers, heat pipes, and fans
