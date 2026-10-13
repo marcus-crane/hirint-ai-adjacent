@@ -1,6 +1,6 @@
 ---
 title: 'Account Executive - North Asia '
-status: active
+status: archived
 id: b647ad26-3e3a-4e0b-8ef4-6bab2cacd5c7
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/b647ad26-3e3a-4e0b-8ef4-6bab2cacd5c7
