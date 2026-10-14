@@ -1,11 +1,11 @@
 ---
-title: Enterprise Sales Lead- Financial Services
+title: Sales Lead - Enterprise - Financial Services
 status: active
 id: 7209ce9f-3c69-4dbb-adbb-6c6c068ebad0
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0
-lastmod: '2026-10-09T18:25:20.396+00:00'
-date: '2026-10-09T18:25:20.396+00:00'
+lastmod: '2026-10-14T12:40:01.540+00:00'
+date: '2026-10-14T12:40:01.540+00:00'
 location: Remote
 departments:
 - Revenue

@@ -16,7 +16,7 @@ Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated t
 
 # **Job Overview**
 
-We are seeking an Integration Technician responsible for the assembly, integration, and testing of our autonomous surface vessels (ASVs). You will work closely with our engineering and development teams to ensure the seamless integration of various components and maritime systems. You will be critical in delivering fully functional ASVs that meet the rigorous standards of the DoD. The hours for 2nd shift are 2:30pm - 10:00pm.
+We are seeking an Integration Technician responsible for the assembly, integration, and testing of our autonomous surface vessels (ASVs). You will work closely with our engineering and development teams to ensure the seamless integration of various components and maritime systems. You will be critical in delivering fully functional ASVs that meet the rigorous standards of the DoD.
 
 # **Responsibilities**
 

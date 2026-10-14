@@ -1,5 +1,5 @@
 ---
-title: Chief Engineer, Air Vehicle Lead - MMA
+title: Chief Engineer, Air Vehicle Lead - Ranger
 status: active
 id: 2a5b30f5-ddd6-4d18-abca-6898ad5b7bbe
 source: lever
@@ -18,7 +18,7 @@ offices:
 
 Are you a passionate and innovative aerospace engineering leader looking to develop next-generation autonomous aircraft? Are you eager to make a positive difference in the world and work alongside mission-driven, values-focused teammates? Shield AI is just the place for you.
 
-As the **Air Vehicle Lead for our new Air Force MMA program,** you will serve as the senior technical leader responsible for the design, development, integration, and maturation of the air vehicle. You will own the technical integrity of the aircraft and lead the multidisciplinary engineering effort required to take the vehicle from requirements and architecture through detailed design, build, ground test, flight test, and production.
+As the **Air Vehicle Lead for our new Air Force Ranger program,** you will serve as the senior technical leader responsible for the design, development, integration, and maturation of the air vehicle. You will own the technical integrity of the aircraft and lead the multidisciplinary engineering effort required to take the vehicle from requirements and architecture through detailed design, build, ground test, flight test, and production.
 
 This is a highly technical, hands-on leadership role. You will work across **aerodynamics, flight sciences, structures, mechanical systems, propulsion, avionics, electrical systems, flight controls, manufacturing, and test** to ensure the aircraft performs as an integrated system. You will be expected to make difficult technical trades, challenge assumptions, manage risk, and drive the team toward simple, robust solutions at speed.
 
