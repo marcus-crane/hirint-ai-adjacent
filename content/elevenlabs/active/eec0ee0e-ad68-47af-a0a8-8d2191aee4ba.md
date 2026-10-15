@@ -6,9 +6,13 @@ source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba
 lastmod: '2026-10-13T17:27:05.977+00:00'
 date: '2026-10-13T17:27:05.977+00:00'
-location: Remote
+location: United Kingdom
 departments:
 - Finance
+offices:
+- Belgium
+- France
+- Poland
 ---
 
 ## About ElevenLabs
@@ -71,6 +75,6 @@ We believe in hiring the best talent in the world to make an impact in the right
 
 ## Location
 
-### This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT+0 to GMT+2 timezones preferred. If you prefer, you can work from our offices in Warsaw and London.
+This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT+0 to GMT+2 timezones preferred. If you prefer, you can work from our offices in Warsaw and London.
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
