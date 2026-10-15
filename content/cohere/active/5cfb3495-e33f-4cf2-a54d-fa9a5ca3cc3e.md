@@ -11,7 +11,7 @@ departments:
 - IT Operations
 ---
 
-**Who are we?**
+## **Who are we?**
 
 Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
 

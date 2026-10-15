@@ -4,19 +4,19 @@ status: active
 id: a73cfbfc-aeed-4bad-b57d-79fd30dcd9c8
 source: ashby
 url: https://jobs.ashbyhq.com/openai/a73cfbfc-aeed-4bad-b57d-79fd30dcd9c8
-lastmod: '2026-10-14T22:55:20.361+00:00'
-date: '2026-10-14T22:55:20.361+00:00'
+lastmod: '2026-10-15T17:24:32.504+00:00'
+date: '2026-10-15T17:24:32.504+00:00'
 location: San Francisco
 departments:
 - Marketing
 compensation: $240K – $266K • Offers Equity
 ---
 
-## **About the Team**
+**About the Team**
 
 AI will change how the world works. Human connection will shape what it becomes. OpenAI’s Events and Experiences team, part of Business Marketing, carries the critical responsibility of bringing people together around OpenAI’s mission – building artificial general intelligence that benefits all of humanity. We strive to put human benefit in the spotlight and craft experiences that build trust, spark possibility, and make the future feel within reach and exciting. We are not a traditional events team: we move with extreme speed, rigor, and precision. We use AI tools to rethink everything from the first plan to the final guest moment – and we bring grit, joy, humor, and extraordinary creative talent to create what has not existed before.
 
-## **About the Role**
+**About the Role**
 
 We’re looking for an Experiential Producer to put OpenAI’s latest technology in people’s hands. You’ll produce experiences where people discover something they didn’t know they could do with our products, whether they’re trying ChatGPT for the first time or building with our newest developer tools. From intimate demos to global launches, cultural programs, large-scale events, booths, and brand installations, you’ll help shape how people experience OpenAI around the world.
 
@@ -24,7 +24,7 @@ Working closely with Product, Marketing, and creative partners, you’ll take co
 
 This role needs someone who can run several projects at once and stay close to the details. You’re resourceful when plans change, comfortable making decisions on your feet, and clear with the people depending on you. You take pride in producing great work and bring a sense of humor and genuine enthusiasm to the process.
 
-## **In this role, you will:**
+**In this role, you will:**
 
 * Produce the experiences that introduce people to OpenAI’s newest products, from global launches and hands-on demos to custom installations around the world.
 * Work with Product, Marketing, and creative teams on what’s coming next, turning ambitious concepts into production briefs and build plans for different audiences.
@@ -35,7 +35,7 @@ This role needs someone who can run several projects at once and stay close to t
 * Experiment with OpenAI tools throughout production, from research and planning to vendor briefs, project updates, and post-event analysis. Help the team find better ways to work.
 * Set success measures and use audience response, product engagement, business results, and partner feedback to improve future experiences, reusable production tools, and vendor standards.
 
-## **You might thrive in this role if you have:**
+**You might thrive in this role if you have:**
 
 * 8+ years producing experiential programs, brand activations, launches, installations, exhibitions, or live events, ideally for technology or complex products.
 * Deep experience producing booths and custom builds, with a portfolio showing sound design judgment, practical problem-solving, and careful execution.
@@ -47,7 +47,7 @@ This role needs someone who can run several projects at once and stay close to t
 * Exceptional organization across multiple projects, substantial budgets, and tight deadlines, with the flexibility to reprioritize when plans change.
 * High standards for quality and a willingness to get hands-on. You bring a sense of humor and don’t take yourself too seriously.
 
-## Workplace and Location
+**Workplace and Location**
 
 This is a hybrid role based in San Francisco and in office 3x/week.
 
