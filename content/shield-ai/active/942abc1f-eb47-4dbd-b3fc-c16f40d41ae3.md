@@ -8,7 +8,7 @@ lastmod: '2026-09-24T19:25:13.768000+00:00'
 date: '2026-09-24T19:25:13.768000+00:00'
 location: Seattle, Washington
 departments:
-- X-BAT Engineering
+- RaptorX Engineering - System & Test
 offices:
 - Dallas, Texas
 - San Diego, California
