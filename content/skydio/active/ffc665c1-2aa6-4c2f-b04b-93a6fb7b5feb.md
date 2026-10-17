@@ -9,6 +9,7 @@ date: '2026-10-14T17:12:07.430+00:00'
 location: San Mateo, California, United States
 departments:
 - R&D
+- Software
 ---
 
 Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users, from [utility inspectors](https://www.skydio.com/solutions/energy-and-utilities) to [first responders](https://www.skydio.com/solutions/public-safety), [soldiers in battlefield scenarios](https://www.skydio.com/solutions/national-security/tactical-isr), and [beyond](https://www.skydio.com/solutions).
