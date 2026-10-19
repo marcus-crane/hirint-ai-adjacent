@@ -1,6 +1,6 @@
 ---
 title: Commercial Counsel - India
-status: active
+status: archived
 id: e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba

@@ -1,6 +1,6 @@
 ---
 title: Martech Engineer
-status: active
+status: archived
 id: b6b6aca9-e9bc-4a6c-955d-60adbbe56d51
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/b6b6aca9-e9bc-4a6c-955d-60adbbe56d51
