@@ -1,5 +1,5 @@
 ---
-title: Staff Engineer, Flight Test (R6305)
+title: Flight Test Engineer, Staff (R6305)
 status: active
 id: d1ec00c9-ae5d-4c0c-8e31-281dbaea04fb
 source: lever
