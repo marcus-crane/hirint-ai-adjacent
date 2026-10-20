@@ -1,5 +1,5 @@
 ---
-title: Integrated Campaigns, AMER
+title: Senior Integrated Campaigns Manager, AMER
 status: active
 id: 90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7
 source: ashby

@@ -1,5 +1,5 @@
 ---
-title: Senior Operations Analyst, User Safety & Risk Operations
+title: Operations Analyst, User Safety & Risk Operations
 status: active
 id: daabc150-f22c-421e-b30d-1a50fb4cede3
 source: ashby
