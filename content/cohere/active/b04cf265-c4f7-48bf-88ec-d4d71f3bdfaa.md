@@ -1,0 +1,141 @@
+---
+title: Technical Program Manager, AI Delivery for Public Sector & Defense, Germany
+status: active
+id: b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa
+source: ashby
+url: https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa
+lastmod: '2026-10-20T01:22:20.798+00:00'
+date: '2026-10-20T01:22:20.798+00:00'
+location: Germany
+departments:
+- Engineering Program Management
+- Product Management & Program Management
+---
+
+## **Who are we?**
+
+Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
+
+We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
+
+We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
+
+We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
+
+**Why This Role?**
+
+We're seeking an experienced Program Manager to join Cohere's customer-facing Program Management team, with a focus on public sector and defence accounts in Europe, particularly in Germany. This is a highly specialised role requiring an individual who understands technical program delivery, the technical complexity of frontier AI models and the unique requirements of government and defence organisations.
+
+You will be the critical bridge between our cutting-edge AI capabilities and the specific needs of Ministries, Agencies, and defence organisations across Europe. You'll navigate complex procurement processes, stringent security requirements, data sovereignty concerns, and regulatory compliance while ensuring our customers successfully deploy and scale our AI solutions.
+
+In this role, you'll collaborate with our Strategic Customer team, Applied ML (AML) Engineering, Forward Deployed Engineering (FDE), Platform, Product, and Go-to-Market teams, serving as the technical program lead and trusted advisor for our most sensitive and high-impact government and defence engagements.
+
+**Location:** Germany
+
+**Eligibility**: This individual must be a German citizen living in Germany and fluent in German, enabling immediate engagement with critical defense and national security customers.
+
+**Security Clearance:** German security clearance is not required, but is a strong nice-to-have.
+
+**What You'll Do**
+
+**Customer Program Leadership:**
+
+* Own end-to-end technical program delivery for Germany and broader European public sector and defence customers, from initial deployment through production scaling
+* Serve as the primary technical program point of contact for customers, building trusted relationships with departmental CIOs, IT directors, and technical teams
+* Translate complex public sector and defence requirements (security, compliance, accessibility, bilingualism, data sovereignty) into actionable engineering plans
+* Navigate complex procurement processes, RFP responses, and contractual technical obligations.
+
+**Strategic Communication:**
+
+* Provide clear, timely, and objective communication across Cohere's engineering organisation, customer stakeholders, pubic sector and defence leadership
+* Translate between AI/ML technical concepts and government-appropriate language for decision-makers who may not have deep technical backgrounds
+* Present technical roadmaps and status updates to senior stakeholders including departmental executives
+* Represent Cohere's technical capabilities in sensitive government and defence contexts.
+
+**Complex Program Management:**
+
+* Create and manage project schedules that account for public sector and defence timelines, security review processes, and approval cycles
+* Identify and manage dependencies across government departments, security authorities, cloud service providers, and internal Cohere teams
+* Navigate risks unique to government and defence deployments: privacy compliance, security, political and regulatory, technology and infrastructure.
+* Drive alignment between product development priorities and specific customer requirements.
+
+**Technical Delivery & Execution:**
+
+* Ensure on-time delivery of AI solutions that meet security, privacy, accessibility, and performance standards
+* Coordinate technical work across multiple teams: model customisation, security hardening, integration with government systems, bilingual support
+* Establish governance checkpoints appropriate for high-stakes government and defence deployments
+* Problem-solve complex technical challenges in air-gapped, on-premises, or highly regulated environments.
+
+**You May Be a Good Fit If:**
+
+**Required Experience:**
+
+* 6+ years of experience as a customer-facing Technical or Engineering Program Manager in AI/ML consulting, technology transformation, or enterprise software delivery.
+* Excellent executive communication and stakeholder management.
+* Experience working with government, defence, or heavily regulated customers.
+* Proven track record managing complex, multi-stakeholder technical programs with stringent compliance requirements.
+* Bachelor’s degree in a relevant field; advanced degree or technical certs a plus.
+
+**Technical Background:**
+
+* Strong understanding of enterprise software deployment architectures (cloud, on-premises, hybrid, air-gapped)
+* Working knowledge of or experience with modern AI: LLMs, agentic systems, MCP, RAG, fine-tuning, evals, and responsible AI would be a strong differentiator
+* Comfortable discussing API integrations, model inference, data pipelines, and ML operations with technical stakeholders.
+
+**Government & Defence Acumen:**
+
+* Deep understanding of how government and defence organisations procure, evaluate, and deploy technology
+* Familiarity with European government requirements: data sovereignty, privacy laws (Privacy Act), accessibility standards, official languages obligations, security classifications
+* Understanding of defence and national security considerations in AI deployment
+* Experience with Algorithmic Impact Assessments or AI ethics frameworks is a strong asset
+* Eligible to obtain a German security clearance
+
+**Nice to Have:**
+
+* Active German security clearance
+* Bilingual (English/German) proficiency
+* Background in or strong familiarity with European defence, intelligence, or critical infrastructure sectors
+* Experience with GC Cloud services (Azure, AWS GovCloud) or Protected B/C environments
+* Project management certification (PMP, PgMP) or government-specific methodologies.
+
+**Security Clearance Requirements**
+
+**This role strongly prefers eligibility for German government security clearance.**
+
+We are looking for candidates eligible for German government clearance, meaning that they require German citizenship. In addition, this individual is required to be based in Germany and be fluent in German as this will enable immediate engagement with critical defence and national security customers.
+
+**What Makes This Role Unique**
+
+This isn't typical program management - it's a highly specialised role at the intersection of frontier AI, national security, and public sector digital transformation. You'll work on some of Canada's most sensitive and impactful AI deployments, helping government organisations harness cutting-edge technology while maintaining the highest standards of security, ethics, and accountability.
+
+If you're passionate about responsible AI adoption, understand the unique constraints and opportunities within government, and want to have an outsized impact on how Canada leverages AI to serve its citizens, this role is for you.
+
+## **Full-Time Employees at Cohere enjoy these Perks:**
+
+* A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
+* Full health and dental benefits, including a separate budget for mental health.
+* RRSP matching, 401K, Pension Scheme.
+* 100% Parental Leave top-up for up to 6 months, for either parent.
+* Annual enrichment benefits:
+
+  Arts & culture, fitness/wellness, quality time, and a workspace improvement credit.
+
+  Education & learning stipend for conferences, courses, and coaching.
+
+* 6 weeks of paid vacation (30 working days!)
+* Budget for traveling to other offices if you are remote, plus an annual company offsite.
+
+## **How and Where We Work:**
+
+* Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.
+* For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
+* For those not near an office: a co-working benefit so you can work alongside others in your city.
+* Everyone receives a $500 home office stipend to set up your workspace properly.
+
+If any of the above doesn’t line up exactly with your experience, we still encourage you to apply.
+
+We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an [Accommodations Request Form](https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit), and we will work together to meet your needs.
+
+We may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
+
+*Beware of Scams: Cohere will never ask for payment or third-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our* [*official careers*](https://cohere.com/careers) *page.*
