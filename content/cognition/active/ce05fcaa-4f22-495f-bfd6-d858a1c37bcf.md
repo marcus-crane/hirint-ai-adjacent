@@ -63,6 +63,8 @@ This role requires a blend of commercial instinct, technical fluency, and deep u
 
 Japan is a critical market for Cognition. The right partnerships strategy will define how quickly Devin is adopted across the region. This role is not just about building relationships, it is about **shaping the market, unlocking distribution at scale, and embedding Cognition into the fabric of Japan’s technology ecosystem.**
 
-## Equal Opportunity
+## **Our Commitment**
 
-Cognition is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic under applicable law. We are committed to providing reasonable accommodations for candidates with disabilities throughout the hiring process - please let us know if you need any.
+**Equal Opportunity.** Cognition is an equal opportunity employer. We do not discriminate on the basis of any protected characteristic under applicable law. We are committed to providing reasonable accommodations for candidates with disabilities throughout the hiring process - please let us know if you need any. Cognition also considers applicants with criminal histories consistent with the SF Fair Chance Ordinance and similar local laws.
+
+**Data Privacy and Arbitration:** By submitting your application, you agree to our [Global Applicant and Job Candidate Privacy Notice](https://cognition.com/documents/Cognition-Global-Applicant-and-Job-Candidate-Privacy-Notice.pdf). For US applicants, by submitting your application, you agree to the [Applicant Arbitration Agreement](https://cognition.com/documents/Cognition-Applicant-Arbitration-Agreement.pdf).
