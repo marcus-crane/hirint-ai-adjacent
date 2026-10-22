@@ -1,5 +1,5 @@
 ---
-title: Program Manager, DFR (New Jersey)
+title: Program Manager, DFR - New Jersey
 status: active
 id: 50bce7db-bc6f-435e-a7e1-f01e76fa1bf0
 source: ashby
