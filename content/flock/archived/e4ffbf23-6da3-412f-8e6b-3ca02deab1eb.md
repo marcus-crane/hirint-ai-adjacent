@@ -1,6 +1,6 @@
 ---
 title: Broker Development Manager
-status: active
+status: archived
 id: e4ffbf23-6da3-412f-8e6b-3ca02deab1eb
 source: ashby
 url: https://jobs.ashbyhq.com/flock/e4ffbf23-6da3-412f-8e6b-3ca02deab1eb
