@@ -59,9 +59,9 @@ If you have strong coding fundamentals, thrive on solving and debugging cross-fu
 * You’re a patient troubleshooter, comfortable asking for help when you need it, and giving help whenever you can.
 * You get excited by *How It's Made* or *Factorio* and want to get paid to work on the machine that builds the machines.
 
-**Compensation Range:** The hourly pay for this position is $47/hr\*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.
+**Compensation:** The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $70/hr for PhD students\*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Interns are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.
 
-\*For some positions the pay may be dependent upon the individual's regional location.
+\*Compensation for certain positions may vary based on the position’s location.
 
 #LI-ZD1
 
