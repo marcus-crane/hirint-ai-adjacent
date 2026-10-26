@@ -1,6 +1,6 @@
 ---
 title: 职能部门-财务报告专员-杭州
-status: active
+status: archived
 id: CBBB4C5136A693BABBE3FBE48685AD4A
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=CBBB4C5136A693BABBE3FBE48685AD4A

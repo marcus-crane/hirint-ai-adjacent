@@ -1,0 +1,55 @@
+---
+title: Engineer II, Autonomy (R5714)
+status: active
+id: d8efe97a-3bac-437b-94cd-c2ebb741b52c
+source: lever
+url: https://jobs.lever.co/shieldai/d8efe97a-3bac-437b-94cd-c2ebb741b52c
+lastmod: '2026-10-26T04:54:38.600000+00:00'
+date: '2026-10-26T04:54:38.600000+00:00'
+location: Taipei
+departments:
+- Integration & Test
+offices:
+- Taipei
+---
+
+Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
+
+### Job Description:
+
+We’re on the lookout for an Engineer, Autonomy to join our Hivemind Solutions team and help design, build, and deploy real-world autonomous capabilities for uncrewed systems. This is a hands-on engineering role, blending software development with robotics, perception, and path planning. You’ll be joining a high-performing team shaping the future of AI pilots for solving real-world problems.
+
+If you’re a capable C++ developer with a passion for robotics and autonomy, this is your chance to make a real impact.
+
+### What you'll do:
+
+As an Autonomy Engineer, you’ll work at the intersection of artificial intelligence, task & motion planning and controls.
+
+* Design and implement autonomous behaviours for uncrewed aircraft.
+* Work with real sensor data and build robust sensor fusion solutions.
+* Develop and test autonomy systems in high-fidelity software and hardware in-the-loop simulations.
+* Integrate Shield AI autonomy products together with third-party aircraft and systems.
+* Collaborate across AI, robotics, and systems engineering teams to deliver integrated solutions.
+* Contribute to architecture, code quality, design reviews and best practices.
+* Lead and Mentor junior engineers
+
+### Required qualifications:
+
+* A tertiary level qualification in Computer Science, Mechatronics, Software Engineering, Aerospace, Robotics or a related field
+* Significant professional experience in robotics, autonomy, perception or aerospace systems
+* Strong experience in modern C++
+* Significant experience in building and delivering reliable software systems, ideally in fast-paced environments
+
+### Preferred qualifications:
+
+* Prior experience with uncrewed systems, especially in the air domain
+* Defence industry experience
+* Significant experience in one or more of the following domains:
+* State Estimation
+* Real-Time Systems
+* Guidance, Navigation and Control
+* Path Planning
+
+#LI-CG3
+
+Our international teammates receive a comprehensive total rewards package aligned to your country office location. For full details on compensation and benefits, please consult your talent acquisition partner.

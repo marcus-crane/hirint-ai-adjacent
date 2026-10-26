@@ -1,6 +1,6 @@
 ---
 title: Development Planner, Industrial Compute
-status: active
+status: archived
 id: 5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f
 source: ashby
 url: https://jobs.ashbyhq.com/openai/5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f
