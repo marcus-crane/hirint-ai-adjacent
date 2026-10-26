@@ -9,7 +9,7 @@ date: '2026-10-23T15:08:45.212+00:00'
 location: Brownsville, TX
 departments:
 - People
-- 'Recruiting '
+- Recruiting
 ---
 
 Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated to developing state-of-the-art solutions that enhance maritime operations through autonomous and intelligent platforms.
