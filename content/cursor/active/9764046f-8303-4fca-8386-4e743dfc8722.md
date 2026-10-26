@@ -18,7 +18,7 @@ SpaceXSI is building Super Intelligence to help humanity understand the universe
 
 ## About the Role
 
-We're hiring Field Engineers to partner with prospective and growing commercial customers. As a Field Engineer, you'll be the technical face of SpaceX Super Intelligence in the field, helping customers evaluate the Grok platform, including Cursor, Grok Bot and the Grok API, guiding them through proofs of concept, and ensuring they see the full value of AI across their engineering workflows and wider business processes.
+We're hiring Field Engineers to partner with prospective and growing commercial customers. As a Field Engineer, you'll be the technical face of SpaceX Super Intelligence in the field, helping customers evaluate the Grok platform, including Grok Build, Grok Bot and the Grok API, guiding them through proofs of concept, and ensuring they see the full value of AI across their engineering workflows and wider business processes.
 
 You'll work hand-in-hand with Sales, Product, and Engineering to scope solutions, demonstrate capabilities, and act as a trusted advisor to technical stakeholders. This is a highly customer-facing role where you'll combine deep technical fluency with strong communication skills to drive adoption and influence product direction.
 

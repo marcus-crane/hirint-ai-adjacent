@@ -17,7 +17,7 @@ SpaceXSI is building Super Intelligence to help humanity understand the universe
 
 **About the role**
 
-We're hiring an Executive Assistant to support our Japan President. This is a high-impact role focused on enabling clarity, efficiency, and execution across a fast-moving go-to market organization. The ideal candidate is highly organized, an excellent business writer, and confident enough to actively manage competing priorities across complex calendars and workflows.
+We're hiring an Executive Assistant to support the Japan President. This is a high-impact role focused on enabling clarity, efficiency, and execution across a fast-moving go-to market organization. The ideal candidate is highly organized, an excellent business writer, and confident enough to actively manage competing priorities across complex calendars and workflows.
 
 **What you'll do:**
 

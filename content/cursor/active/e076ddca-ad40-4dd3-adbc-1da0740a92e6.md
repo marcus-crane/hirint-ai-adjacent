@@ -17,7 +17,7 @@ SpaceXSI is building Super Intelligence to help humanity understand the universe
 
 **About the role**
 
-As our founding **Field Marketer,** you will be the primary growth engine and lead marketing architect for the Japan region, responsible for translating our global strategy into localized, high-impact programs to both land and expand in the largest enterprise accounts.
+As our founding **Field Marketing Manager,** you will be the primary growth engine and lead marketing architect for the Japan region, responsible for translating our global strategy into localized, high-impact programs to both land and expand in the largest enterprise accounts.
 
 We are looking for a high-energy, revenue-minded marketing strategist who can alternate between strategic pipeline and account planning with the Sales Team and flawless execution of experiences for customer executives. If you are obsessed with driving pipeline impact from high-touch, standout programs and are a self-starter that thrives at the intersection of technical innovation and enterprise GTM, we want you!
 
@@ -28,7 +28,7 @@ We are looking for a high-energy, revenue-minded marketing strategist who can al
 * **Design the Regional Playbook:** Build and execute a data-driven marketing plan tailored to your region’s specific needs, focusing on the largest enterprise accounts.
 * **Master the Land & Expand:** Own the regional pipeline target. You will deploy a mix of high-touch events, executive roundtables, thought leadership roadshows, industry tradeshows, and account-based activations to identify and accelerate opportunities that ensure wall-to-wall adoption in our highest potential accounts.
 * **Creative Agility:** Fearlessly think outside the standard playbook to deploy memorable experiences across in person, virtual and next gen marketing formats as well as the operational workflows that bring them to life. Be ready and eager to break the mold and go big!
-* **Big Picture Operator:** Be excited to bring the SpaceXAI mission and story to our customers by partnering with corporate marketing to ensure sharp messaging at every touchpoint.
+* **Big Picture Operator:** Be excited to bring the SpaceXSI mission and story to our customers by partnering with corporate marketing to ensure sharp messaging at every touchpoint.
 * **Sales Partner:** Act as the strategic marketing partner to Regional Sales Teams. You’ll lead marketing planning calls, provide account-level insights, analyze regional pipeline trends, ensure absolute alignment on account priorities and maximize the adoption and impact of all marketing efforts.
 
 ### **Measurement & Operational Excellence**
