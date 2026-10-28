@@ -1,16 +1,16 @@
 ---
-title: Associate Facilities Coordinator (R5671)
-status: active
-id: 6fcda6d0-fe59-4bc2-bdb8-0cfa5a357b1c
+title: Front Desk Coordinator (R5313)
+status: archived
+id: bddfa4f1-a13d-45cb-8dd9-7a23f76de5eb
 source: lever
-url: https://jobs.lever.co/shieldai/6fcda6d0-fe59-4bc2-bdb8-0cfa5a357b1c
-lastmod: '2026-09-16T18:17:40.393000+00:00'
-date: '2026-09-16T18:17:40.393000+00:00'
-location: Dallas, Texas
+url: https://jobs.lever.co/shieldai/bddfa4f1-a13d-45cb-8dd9-7a23f76de5eb
+lastmod: '2026-07-09T02:13:17.323000+00:00'
+date: '2026-07-09T02:13:17.323000+00:00'
+location: Bonham, Texas
 departments:
 - Facilities
 offices:
-- Dallas, Texas
+- Bonham, Texas
 ---
 
 Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
@@ -24,10 +24,11 @@ The Front Desk Coordinator serves as the first point of contact for visitors, cl
 * Greet and assist visitors, ensuring a positive and professional first impression
 * Manage emails and general inquiries, routing as appropriate
 * Coordinate visitor access, badging, and check-in processes
-* Maintain office organization, cleanliness, and readiness at all times
+* Maintain front desk organization, cleanliness, and readiness at all times
 * Schedule meetings and manage conference room bookings
 * Support office operations including mail distribution, deliveries, and supply inventory
 * Coordinate with vendors and service providers as needed
+* Assist with planning and execution of office events and meetings
 * Partner with Facilities, IT, and Security teams to support workplace needs
 * Maintain accurate records and handle sensitive information with discretion
 
@@ -52,9 +53,7 @@ The Front Desk Coordinator serves as the first point of contact for visitors, cl
 
 ### Work environment:
 
-This role is Monday to Friday from 8am-5pm, based on-site in Frisco, TX and requires consistent presence during posted hours.
-
-#LI-ML2
+This role is Monday to Friday from 8am-5pm, based on-site in Bonham, TX and requires consistent presence during posted hours.
 
 #LB
 
