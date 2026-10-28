@@ -1,5 +1,5 @@
 ---
-title: Sr Proposal Manager (R5816)
+title: Lead Proposal Manager (R5816)
 status: active
 id: 10fac21b-fceb-4e91-b3db-8ec09c6b40c1
 source: lever
@@ -11,7 +11,7 @@ departments:
 - International Business Development
 offices:
 - San Diego, California
-- San Mateo, California
+- Washington, D.C.
 ---
 
 Shield AI is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include Hivemind autonomy software, V-BAT and X-BAT aircraft, and Aechelon simulation and synthetic reality technologies. With offices and facilities across the U.S., Europe, the Middle East, and Asia-Pacific, Shield AI’s technology actively supports operations worldwide. For more information, visit [www.shield.ai](https://shield.ai/). Follow Shield AI on [LinkedIn](https://www.linkedin.com/company/shield-ai), [X](https://x.com/shieldaitech), [Instagram](https://www.instagram.com/shield_ai), and [YouTube](https://www.youtube.com/@Shield_AI).
@@ -52,7 +52,7 @@ The primary function of this Proposal Specialist role is supporting US federal a
 
 ### Required Qualifications:
 
-+ 2-4+ years of U.S. Federal or international government proposal development or BD operations experience.
++ 5+ years of U.S. Federal or international government proposal development or BD operations experience.
 
 - In lieu of direct government proposal experience, have 3+ years of experience working with U.S. Federal or International government requirements.
 
