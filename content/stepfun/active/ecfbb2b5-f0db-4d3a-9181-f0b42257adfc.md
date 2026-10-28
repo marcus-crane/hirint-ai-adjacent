@@ -4,11 +4,12 @@ status: active
 id: ecfbb2b5-f0db-4d3a-9181-f0b42257adfc
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/ecfbb2b5-f0db-4d3a-9181-f0b42257adfc
-lastmod: '2026-10-23T17:25:45'
+lastmod: '2026-10-28T16:30:47'
 date: '2026-10-22T11:05:04'
-location: 徐汇区
+location: 海淀区, 徐汇区
 offices:
 - 徐汇区
+- 海淀区
 ---
 
 【岗位职责】
