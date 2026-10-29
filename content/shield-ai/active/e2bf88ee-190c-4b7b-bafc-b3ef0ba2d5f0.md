@@ -8,7 +8,7 @@ lastmod: '2026-10-19T23:01:25.241000+00:00'
 date: '2026-10-19T23:01:25.241000+00:00'
 location: Seattle, Washington
 departments:
-- X-BAT Engineering - Avionics
+- Ranger Eng - Avionics
 offices:
 - Seattle, Washington
 ---
