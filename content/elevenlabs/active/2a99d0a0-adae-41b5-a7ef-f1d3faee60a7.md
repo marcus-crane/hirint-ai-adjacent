@@ -4,8 +4,8 @@ status: active
 id: 2a99d0a0-adae-41b5-a7ef-f1d3faee60a7
 source: ashby
 url: https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7
-lastmod: '2026-10-13T09:53:19.313+00:00'
-date: '2026-10-13T09:53:19.313+00:00'
+lastmod: '2026-10-21T11:57:45.308+00:00'
+date: '2026-10-21T11:57:45.308+00:00'
 location: London
 departments:
 - Engineering & Product
@@ -46,7 +46,7 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Growth paths:** Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.
 * **Learning & development**: ElevenLabs proactively supports professional development through an annual discretionary stipend.
 * **Social travel**: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.
-* **Annual company offsite:** Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
+* **Annual team offsite:** Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
 ## About the role
