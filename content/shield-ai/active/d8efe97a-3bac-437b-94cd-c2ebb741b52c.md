@@ -31,7 +31,6 @@ As an Autonomy Engineer, you’ll work at the intersection of artificial intelli
 * Integrate Shield AI autonomy products together with third-party aircraft and systems.
 * Collaborate across AI, robotics, and systems engineering teams to deliver integrated solutions.
 * Contribute to architecture, code quality, design reviews and best practices.
-* Lead and Mentor junior engineers
 
 ### Required qualifications:
 
