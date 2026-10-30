@@ -1,5 +1,5 @@
 ---
-title: Manufacturing Engineer
+title: 2nd Shift Manufacturing Engineer
 status: active
 id: 13ebddf9-31a8-410f-b1fe-e27dc6e7fcde
 source: ashby
@@ -16,7 +16,7 @@ Saronic Technologies is a leader in revolutionizing autonomy at sea, dedicated t
 
 # **Job Overview**
 
-We are seeking a Manufacturing Engineer, specializing in production, to play a crucial role in the development and optimization of manufacturing processes for our autonomous surface vessels. You will work closely with cross-functional teams to ensure the efficient and cost-effective production of high-quality ASVs for the DoD.
+We are seeking a 2nd Shift Manufacturing Engineer, specializing in production, to play a crucial role in the development and optimization of manufacturing processes for our autonomous surface vessels. You will work closely with cross-functional teams to ensure the efficient and cost-effective production of high-quality ASVs for the DoD.
 
 # **Responsibilities**
 
