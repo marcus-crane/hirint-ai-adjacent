@@ -10,6 +10,9 @@ location: San Francisco
 departments:
 - Applied AI
 - Applied AI Infrastructure
+offices:
+- New York City
+- Seattle
 compensation: $230K – $490K • Offers Equity
 ---
 
@@ -55,7 +58,7 @@ As OpenAI continues to grow, we are looking for experienced, problem-solving eng
 * Experience with microservices architecture and service mesh technologies.
 * Knowledge of security best practices in cloud environments.
 
-This role is exclusively based in our San Francisco HQ. We offer relocation assistance to new employees.
+This role is based in San Francisco, Seattle, or New York City. We offer relocation assistance to new employees.
 
 **About OpenAI**
 

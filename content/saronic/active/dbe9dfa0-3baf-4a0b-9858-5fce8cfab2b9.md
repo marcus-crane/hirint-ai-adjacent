@@ -1,5 +1,5 @@
 ---
-title: Sr. Program Scheduler
+title: Sr. Quality Program Scheduler
 status: active
 id: dbe9dfa0-3baf-4a0b-9858-5fce8cfab2b9
 source: ashby
