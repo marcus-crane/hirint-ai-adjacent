@@ -1,18 +1,21 @@
 ---
-title: FP&A Lead
+title: Site Reliability Engineer
 status: archived
-id: eec0ee0e-ad68-47af-a0a8-8d2191aee4ba
+id: 2a99d0a0-adae-41b5-a7ef-f1d3faee60a7
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba
-lastmod: '2026-10-13T17:27:05.977+00:00'
-date: '2026-10-13T17:27:05.977+00:00'
-location: United Kingdom
+url: https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7
+lastmod: '2026-10-21T11:57:45.308+00:00'
+date: '2026-10-21T11:57:45.308+00:00'
+location: London
 departments:
-- Finance
+- Engineering & Product
+- Infrastructure
 offices:
-- Belgium
-- France
+- Dublin
+- New York
 - Poland
+- Sofia
+- Switzerland
 ---
 
 ## About ElevenLabs
@@ -46,35 +49,30 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual team offsite:** Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-## The role
+## About the role
 
-We're hiring the first dedicated owner of central FP&A at ElevenLabs. You'll own the plan of record: the consolidated company model, the budgeting cycle and the monthly reporting cadence that the CFO, CEO and board use to run the company as we prepare for IPO. Pigment is in place and our data sits in a warehouse with dashboards on top, but the company isn't fully modeled yet. You'll build the core model first, then use it to evaluate every major investment.
+We’re hiring Site Reliability Engineers to set the reliability standard across everything we build. Businesses and developers build their own products and customer experiences on our platforms, from live customer conversations to content production, much of it real time and latency-sensitive. Our reliability is part of theirs, so there is very little room for downtime. You’ll join our dedicated Reliability team and own how we design for resilience, respond to incidents and keep improving.
 
-* Build and own the driver-based company model and opex model in Pigment, bringing inputs from commercial, product and compute finance into one model of record.
-* Run the annual budget and quarterly reforecasts end to end, including headcount envelopes and G&A forecasting with budget owners.
-* Set up the monthly cadence of results, budget vs. actuals, functional reviews and quarterly business reviews, and prepare the financial section of the board pack.
-* Bring capital allocation discipline to large decisions on hiring, compute and strategic spend.
+You’ll work directly with product and engineering teams to define reliability targets, build the tooling to measure them, and shape the architecture and practices behind them.
 
-You're a builder who still builds the model yourself. You've likely done this at a high-growth tech company where the planning process had to be created while the business scaled, and you care about recommendations that get implemented, not only presented.
+* Design and run disaster recovery programmes, setting ambitious recovery targets and testing against them regularly.
+* Define SLAs and SLOs with each product team, and build the tooling to track them by product and customer.
+* Own how we detect, respond to and learn from incidents, including alerting design, the incident process and post-mortems, and our on-call process.
+* Build AI-assisted investigation and auto-resolution, from agent-led diagnosis to automated remediation.
+* Embed with product teams to shape architecture and engineering practices for resilience at scale.
 
 ## Requirements
 
-* You've built a driver-based company model or long-range plan from scratch and used it to drive real decisions.
-* You've run an annual budget and reforecast cycle end to end at a high-growth tech company, and turned the numbers into a clear narrative for executives or the board.
-* Strong commercial judgment: you think in unit economics and gross profit, not only revenue, and your recommendations get implemented.
-* Hands-on with a planning tool (Pigment, Anaplan, Adaptive or similar), comfortable with SQL and working off a data warehouse, and you use AI tools every day.
-* **Bonus:** experience with usage-based or consumption revenue, IPO readiness or public-company FP&A, hands-on Pigment, or building a team.
-
-## Growth Potential
-
-We believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:
-
-* Lead a central FP&A team as it grows toward IPO.
-* Own the planning and guidance process once we are a public company.
-* Take on broader strategic finance scope as the function scales.
+* Hands-on experience running production systems at scale as an SRE, infrastructure engineer or similar, with a track record of measurably improving reliability.
+* A strong background in backend development, and a habit of solving reliability problems with code and automation.
+* Experience owning incident response, on-call and post-mortems, and driving fixes through to completion.
+* Experience with observability and alerting, and with defining and tracking SLOs or SLAs.
+* Solid grounding in Kubernetes and cloud infrastructure (GCP and AWS preferred)
 
 ## Location
 
-This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT+0 to GMT+2 timezones preferred. If you prefer, you can work from our offices in Warsaw and London.
+This role is remote and can be executed globally. If you prefer, you can work from our offices in London, New York, San Francisco, and Warsaw.
+
+#LI-Remote
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

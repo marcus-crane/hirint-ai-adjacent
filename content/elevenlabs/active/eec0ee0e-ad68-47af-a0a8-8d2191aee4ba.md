@@ -1,32 +1,18 @@
 ---
-title: Infrastructure Engineer
+title: FP&A Lead
 status: active
-id: 31a6f0f4-8e1d-4d77-9d00-026ed12213f2
+id: eec0ee0e-ad68-47af-a0a8-8d2191aee4ba
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/31a6f0f4-8e1d-4d77-9d00-026ed12213f2
-lastmod: '2026-10-09T20:09:11.183+00:00'
-date: '2026-10-09T20:09:11.183+00:00'
-location: London
+url: https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba
+lastmod: '2026-11-01T22:19:56.067+00:00'
+date: '2026-11-01T22:19:56.067+00:00'
+location: United Kingdom
 departments:
-- Engineering & Product
-- Infrastructure
+- Finance
 offices:
-- Amsterdam
-- Berlin
-- Czechia
-- Dublin
+- Belgium
 - France
-- Germany
-- Hungary
-- New York
-- Paris
 - Poland
-- Sofia
-- Stockholm
-- Switzerland
-- Toronto
-- United Kingdom
-- Zurich
 ---
 
 ## About ElevenLabs
@@ -60,31 +46,35 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual team offsite:** Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-## **About the role**
+## The role
 
-We’re hiring Infrastructure Engineers to build the platform every ElevenLabs team ships on. From the GPU clusters that train and serve our models to the cloud platform our product teams build on, you’ll own the infrastructure that millions of users and thousands of businesses depend on.
+We're hiring the first dedicated owner of central FP&A at ElevenLabs. You'll own the plan of record: the consolidated company model, the budgeting cycle and the monthly reporting cadence that the CFO, CEO and board use to run the company as we prepare for IPO. Pigment is in place and our data sits in a warehouse with dashboards on top, but the company isn't fully modeled yet. You'll build the core model first, then use it to evaluate every major investment.
 
-You’ll work directly with research, product, security and safety engineers to launch new infrastructure, scale it as their needs grow, and lead the migrations and platform improvements that make it more reliable, secure and cost-efficient.
+* Build and own the driver-based company model and opex model in Pigment, bringing inputs from commercial, product and compute finance into one model of record.
+* Run the annual budget and quarterly reforecasts end to end, including headcount envelopes and G&A forecasting with budget owners.
+* Set up the monthly cadence of results, budget vs. actuals, functional reviews and quarterly business reviews, and prepare the financial section of the board pack.
+* Bring capital allocation discipline to large decisions on hiring, compute and strategic spend.
 
-* Run and scale Kubernetes clusters, including GPU clusters for inference and training, across cloud and on-prem.
-* Set up compute, networking, permissions and access for other teams as they grow.
-* Host and operate the data systems product teams depend on.
-* Build the tooling, automations and services that make infrastructure self-serve for the rest of the companyTake on large efforts, such as cluster builds and cloud migrations, and see them through end to end.
+You're a builder who still builds the model yourself. You've likely done this at a high-growth tech company where the planning process had to be created while the business scaled, and you care about recommendations that get implemented, not only presented.
 
-We’re a flat team, so you’ll be hands-on from day one. You have strong opinions about doing things right, and you can still move fast when parts of the stack aren’t perfect.
+## Requirements
 
-## **Requirements**
+* You've built a driver-based company model or long-range plan from scratch and used it to drive real decisions.
+* You've run an annual budget and reforecast cycle end to end at a high-growth tech company, and turned the numbers into a clear narrative for executives or the board.
+* Strong commercial judgment: you think in unit economics and gross profit, not only revenue, and your recommendations get implemented.
+* Hands-on with a planning tool (Pigment, Anaplan, Adaptive or similar), comfortable with SQL and working off a data warehouse, and you use AI tools every day.
+* **Bonus:** experience with usage-based or consumption revenue, IPO readiness or public-company FP&A, hands-on Pigment, or building a team.
 
-* Deep, hands-on experience running Kubernetes in production at scale.
-* Strong experience with GCP, including designing, building and migrating cloud infrastructure end to end as an individual contributor.
-* Strong Python and/or Golang skills and a habit of solving infrastructure problems with code and automation.
-* Experience operating stateful systems (databases, observability stacks) on behalf of other engineering teams.
-* Solid fundamentals in infrastructure as code (Terraform, ArgoCD), IAM management, and the pragmatism to prioritise what matters in a fast-moving environment.
+## Growth Potential
 
-**Bonus:** experience with GPU clusters or ML training/inference infrastructure (e.g. vLLM, Slurm), on-prem/bare-metal or deep networking experience, or open-source contributions in the cloud-native community.
+We believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:
+
+* Lead a central FP&A team as it grows toward IPO.
+* Own the planning and guidance process once we are a public company.
+* Take on broader strategic finance scope as the function scales.
 
 ## Location
 
-This role is remote and can be executed globally. If you prefer, you can work from our offices in Bangalore, Dublin, London, New York, San Francisco, Tokyo, and Warsaw.
+This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT+0 to GMT+2 timezones preferred. If you prefer, you can work from our offices in Warsaw and London.
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
