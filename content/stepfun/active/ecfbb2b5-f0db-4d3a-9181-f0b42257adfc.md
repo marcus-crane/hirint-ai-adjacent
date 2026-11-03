@@ -1,10 +1,10 @@
 ---
-title: FP&A
+title: FP&A(阶跃)
 status: active
 id: ecfbb2b5-f0db-4d3a-9181-f0b42257adfc
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/ecfbb2b5-f0db-4d3a-9181-f0b42257adfc
-lastmod: '2026-10-28T16:30:47'
+lastmod: '2026-11-03T16:17:30'
 date: '2026-10-22T11:05:04'
 location: 海淀区, 徐汇区
 offices:
