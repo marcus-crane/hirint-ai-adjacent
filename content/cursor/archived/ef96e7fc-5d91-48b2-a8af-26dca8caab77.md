@@ -1,6 +1,6 @@
 ---
 title: Field Engineer, Commercial
-status: active
+status: archived
 id: ef96e7fc-5d91-48b2-a8af-26dca8caab77
 source: ashby
 url: https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77

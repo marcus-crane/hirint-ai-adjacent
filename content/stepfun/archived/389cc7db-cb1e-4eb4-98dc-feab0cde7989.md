@@ -1,6 +1,6 @@
 ---
 title: 成本管理（暂不使用）
-status: active
+status: archived
 id: 389cc7db-cb1e-4eb4-98dc-feab0cde7989
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/389cc7db-cb1e-4eb4-98dc-feab0cde7989

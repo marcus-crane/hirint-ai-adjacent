@@ -1,6 +1,6 @@
 ---
 title: Growth Lead, France
-status: active
+status: archived
 id: c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68
 source: ashby
 url: https://jobs.ashbyhq.com/openai/c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68
