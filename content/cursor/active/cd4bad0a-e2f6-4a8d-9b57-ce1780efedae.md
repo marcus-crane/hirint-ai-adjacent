@@ -6,12 +6,12 @@ source: ashby
 url: https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae
 lastmod: '2026-01-27T22:54:08.223+00:00'
 date: '2026-01-27T22:54:08.223+00:00'
-location: San Francisco
+location: San Francisco, CA
 departments:
 - Engineering
 - Machine Learning
 offices:
-- New York
+- New York, NY
 ---
 
 SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.  

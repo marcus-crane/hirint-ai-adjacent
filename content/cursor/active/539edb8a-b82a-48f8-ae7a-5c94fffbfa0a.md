@@ -6,13 +6,13 @@ source: ashby
 url: https://jobs.ashbyhq.com/cursor/539edb8a-b82a-48f8-ae7a-5c94fffbfa0a
 lastmod: '2026-10-30T17:29:12.520+00:00'
 date: '2026-10-30T17:29:12.520+00:00'
-location: San Francisco
+location: San Francisco, CA
 departments:
 - Revenue Operations
 - Strategy and Operations
 offices:
-- Austin
-- New York
+- Austin, TX
+- New York, NY
 ---
 
 SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.  

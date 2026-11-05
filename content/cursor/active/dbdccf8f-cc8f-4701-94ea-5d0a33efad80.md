@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80
 lastmod: '2026-08-28T00:20:40.955+00:00'
 date: '2026-08-28T00:20:40.955+00:00'
-location: San Francisco
+location: San Francisco, CA
 departments:
 - Sales
 - Sales Development

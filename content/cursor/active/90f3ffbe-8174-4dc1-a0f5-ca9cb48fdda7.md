@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/cursor/90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7
 lastmod: '2026-07-31T23:21:13.509+00:00'
 date: '2026-07-31T23:21:13.509+00:00'
-location: San Francisco
+location: San Francisco, CA
 departments:
 - Marketing
 ---
