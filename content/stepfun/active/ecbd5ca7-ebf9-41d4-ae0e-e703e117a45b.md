@@ -1,10 +1,10 @@
 ---
-title: 产品经理（企业应用）
+title: 主数据产品经理
 status: active
 id: ecbd5ca7-ebf9-41d4-ae0e-e703e117a45b
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/ecbd5ca7-ebf9-41d4-ae0e-e703e117a45b
-lastmod: '2026-10-27T17:26:38'
+lastmod: '2026-11-05T17:21:23'
 date: '2026-10-22T16:42:15'
 location: 徐汇区
 offices:
