@@ -3,7 +3,7 @@ title: Forward Deployed Engineer - Software Engineer - USA
 status: active
 id: 6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6
+url: https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6
 lastmod: '2026-10-14T01:20:28.144+00:00'
 date: '2026-10-14T01:20:28.144+00:00'
 location: San Francisco

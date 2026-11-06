@@ -79,10 +79,7 @@ The primary function of this Proposal Specialist role is supporting US federal a
 - Strong technical background especially with unmanned/uncrewed systems and/or autonomy software.
 
 * Demonstrated understanding and knowledge of military operations and Asia/Middle East defense acquisition processes.
-
-+ Understanding of international markets/geopolitical trends in aerospace / defense industry.
-
-- Active US security clearance.
+* Understanding of international markets/geopolitical trends in aerospace / defense industry.
 
 #LC
 

@@ -3,7 +3,7 @@ title: Senior AI transformation lead (Central)
 status: active
 id: 02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc
 source: ashby
-url: https://jobs.ashbyhq.com/writer/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc
+url: https://jobs.ashbyhq.com/WRITER/02acc8ae-76ae-41c5-b5b0-f0b7d6bfd3fc
 lastmod: '2026-11-03T23:37:15.978+00:00'
 date: '2026-11-03T23:37:15.978+00:00'
 location: Chicago, IL

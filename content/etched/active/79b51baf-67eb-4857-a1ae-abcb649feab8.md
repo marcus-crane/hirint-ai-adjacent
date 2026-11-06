@@ -3,7 +3,7 @@ title: 'Mechanical Engineer '
 status: active
 id: 79b51baf-67eb-4857-a1ae-abcb649feab8
 source: ashby
-url: https://jobs.ashbyhq.com/etched/79b51baf-67eb-4857-a1ae-abcb649feab8
+url: https://jobs.ashbyhq.com/Etched/79b51baf-67eb-4857-a1ae-abcb649feab8
 lastmod: '2026-10-19T05:29:50.102+00:00'
 date: '2026-10-19T05:29:50.102+00:00'
 location: San Jose

@@ -3,7 +3,7 @@ title: Strategic account executive (UK)
 status: active
 id: 94cc108b-ccd3-42d2-a485-b2afdcefef46
 source: ashby
-url: https://jobs.ashbyhq.com/writer/94cc108b-ccd3-42d2-a485-b2afdcefef46
+url: https://jobs.ashbyhq.com/WRITER/94cc108b-ccd3-42d2-a485-b2afdcefef46
 lastmod: '2026-11-03T23:41:36.430+00:00'
 date: '2026-11-03T23:41:36.430+00:00'
 location: London, UK

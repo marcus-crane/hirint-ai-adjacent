@@ -3,7 +3,7 @@ title: Internal Acceleration, Research Engineer (Kernels)
 status: active
 id: 885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7
 source: ashby
-url: https://jobs.ashbyhq.com/etched/885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7
+url: https://jobs.ashbyhq.com/Etched/885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7
 lastmod: '2026-10-15T20:42:52.681+00:00'
 date: '2026-10-15T20:42:52.681+00:00'
 location: San Jose

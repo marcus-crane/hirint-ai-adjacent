@@ -3,7 +3,7 @@ title: Influencer Marketer
 status: active
 id: ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9
+url: https://jobs.ashbyhq.com/ElevenLabs/ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9
 lastmod: '2026-09-10T18:09:53.507+00:00'
 date: '2026-09-10T18:09:53.507+00:00'
 location: United States

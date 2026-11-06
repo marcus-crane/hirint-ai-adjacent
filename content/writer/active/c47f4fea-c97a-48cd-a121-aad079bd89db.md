@@ -3,7 +3,7 @@ title: Design engineer (US)
 status: active
 id: c47f4fea-c97a-48cd-a121-aad079bd89db
 source: ashby
-url: https://jobs.ashbyhq.com/writer/c47f4fea-c97a-48cd-a121-aad079bd89db
+url: https://jobs.ashbyhq.com/WRITER/c47f4fea-c97a-48cd-a121-aad079bd89db
 lastmod: '2026-11-03T23:35:13.588+00:00'
 date: '2026-11-03T23:35:13.588+00:00'
 location: New York City, NY

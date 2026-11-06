@@ -3,7 +3,7 @@ title: Product Quality Engineer
 status: active
 id: 5cc7effb-c1d8-4cb8-a0c3-0bd4f7045fe5
 source: ashby
-url: https://jobs.ashbyhq.com/etched/5cc7effb-c1d8-4cb8-a0c3-0bd4f7045fe5
+url: https://jobs.ashbyhq.com/Etched/5cc7effb-c1d8-4cb8-a0c3-0bd4f7045fe5
 lastmod: '2026-05-27T20:57:31.436+00:00'
 date: '2026-05-27T20:57:31.436+00:00'
 location: San Jose

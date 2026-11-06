@@ -3,7 +3,7 @@ title: Platform Product Reliability
 status: active
 id: fbade92c-43c8-4e8d-931a-be9c5ec27b5b
 source: ashby
-url: https://jobs.ashbyhq.com/etched/fbade92c-43c8-4e8d-931a-be9c5ec27b5b
+url: https://jobs.ashbyhq.com/Etched/fbade92c-43c8-4e8d-931a-be9c5ec27b5b
 lastmod: '2026-05-12T02:31:58.682+00:00'
 date: '2026-05-12T02:31:58.682+00:00'
 location: San Jose

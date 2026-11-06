@@ -3,7 +3,7 @@ title: Nordics Strategic Account Executive - Telecom
 status: active
 id: 0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc
 source: ashby
-url: https://jobs.ashbyhq.com/elevenlabs/0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc
+url: https://jobs.ashbyhq.com/ElevenLabs/0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc
 lastmod: '2026-07-16T19:35:40.660+00:00'
 date: '2026-07-16T19:35:40.660+00:00'
 location: Sweden
