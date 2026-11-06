@@ -6,11 +6,11 @@ source: lever
 url: https://jobs.lever.co/shieldai/10fac21b-fceb-4e91-b3db-8ec09c6b40c1
 lastmod: '2026-08-26T22:54:17.801000+00:00'
 date: '2026-08-26T22:54:17.801000+00:00'
-location: San Diego, California
+location: Washington, D.C.
 departments:
 - International Business Development
 offices:
-- San Diego, California
+- Remote
 - Washington, D.C.
 ---
 

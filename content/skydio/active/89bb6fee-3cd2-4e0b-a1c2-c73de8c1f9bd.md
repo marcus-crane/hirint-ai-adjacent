@@ -40,9 +40,6 @@ The RFD Platform team builds the browser platform every remote pilot uses: live 
 * Experience in modern web development (React, TypeScript, GraphQL, WebGL/Three.js).
 * Experience building and maintaining scalable APIs, services, and integrations for handling large datasets.
 * Bonus: familiarity with robotics software development concepts.
-
-**What Makes You a Good Fit:**
-
 * Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.
 
 **Compensation:** The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $70/hr for PhD students\*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. Interns are eligible to receive the following benefits: Paid vacation time, sick leave, holiday pay and 401K savings plan. This position and all associated benefits are subject to applicable federal, state, and local laws, as well as the Company’s policies and eligibility criteria.
