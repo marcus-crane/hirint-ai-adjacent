@@ -1,5 +1,5 @@
 ---
-title: Summer 2027 - Electrical Engineering Co-op (June 2027)
+title: June 2027 Co-0p - Electrical Engineering Intern
 status: active
 id: 8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6
 source: lever

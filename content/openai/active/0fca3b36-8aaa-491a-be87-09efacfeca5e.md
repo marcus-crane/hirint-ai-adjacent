@@ -1,58 +1,48 @@
 ---
-title: Senior Procurement Manager – Infrastructure Complex Deals
+title: Sourcing Manager, Core Products
 status: active
 id: 0fca3b36-8aaa-491a-be87-09efacfeca5e
 source: ashby
 url: https://jobs.ashbyhq.com/openai/0fca3b36-8aaa-491a-be87-09efacfeca5e
-lastmod: '2026-10-29T14:12:18.476+00:00'
-date: '2026-10-29T14:12:18.476+00:00'
+lastmod: '2026-11-06T21:02:17.892+00:00'
+date: '2026-11-06T21:02:17.892+00:00'
 location: San Francisco
 departments:
 - Finance
-compensation: $234K – $260K • Offers Equity
+compensation: $185K – $205K • Offers Equity
 ---
 
-**About the team**
+## **About the Team**
 
-Hardware Procurement Operations enables OpenAI’s hardware and infrastructure businesses to execute supplier engagements and purchases at speed while maintaining financial discipline, clear ownership, and effective controls.
+OpenAI Finance helps ensure the organization is positioned for long-term success as we pursue our mission. The Strategic Sourcing & Procurement team enables OpenAI to scale responsibly, securely, and at speed by helping teams choose the right external partners, structure strong commercial agreements, and build resilient supplier ecosystems. We work at the intersection of innovation and execution, partnering closely with product and engineering leaders across the company to turn rapidly evolving needs into scalable, compliant, and economically sound solutions.
 
-Our work spans procurement execution, process and systems enablement, and lifecycle governance—from initial requests and agreements through purchasing, payment, and closeout, with related asset and inventory governance. We build practical operating models, resolve cross-functional barriers, and improve the tools and processes that help teams scale.
+**About the Role**
 
-**About the role**
+We are hiring a Sourcing Manager to keep vendor and partnership workflows moving from intake through onboarding, review and approval. You will coordinate a portfolio of agreed sourcing requests across multiple OpenAI product areas, bringing structure, accuracy and dependable follow-through.
 
-You will own procurement execution for complex infrastructure deals, including land transactions, lease agreements, power purchase agreements, and fast-moving colocation and fiber engagements. Scope may expand to cloud service provider (CSP) engagements and sourcing activities as business needs evolve.
+You will work with senior sourcing owners and cross-functional partners. Senior owners retain responsibility for strategic supplier selection, negotiations and sensitive commercial or data-rights decisions.
 
-This senior individual contributor role combines hands-on lifecycle management with commercial judgment and building scalable operations. You will recognize gaps in proposed supplier engagements, work with business owners, sourcing, Legal, and Finance to improve them, and translate agreements into executable purchasing and payment plans. You will also build standard processes and automation that help teams move faster while reducing deal risk.
+## In this role, you will:
 
-**In this role, you will:**
+* Run high-velocity, mid-complexity deals end-to-end: from vendor strategy and RFPs through negotiation, security review, contracting, and go-live.
+* Coordinate supplier onboarding, collect required documents and track dependencies through completion.
+* Drive approval follow-through with Legal, Security, Privacy, Finance and other reviewers.
+* Partner with Product and Engineering to ensure external vendors can support new product launches without blocking delivery or increasing risk.
+* Structure contracts and pricing models that preserve optionality, support rapid scaling, and minimize long-term lock-in and switching costs.
+* Maintain accurate deal records, status updates, decisions and next actions.
+* Support sourcing requests, renewals, evaluations and change orders.
+* Act as the control plane between fast-moving product teams and external dependencies, ensuring speed without sacrificing governance, compliance, or economics.
 
-* Drive assigned engagements from intake and agreement execution through purchasing, ongoing obligations, amendments, renewals, final payments, and closeout.
-* Assess commercial and operational readiness, identify gaps in scope, deliverables, acceptance criteria, and payment terms, and drive resolution with the appropriate partners.
-* Resolve commercial, financial, and operational dependencies, aligning owners on required reviews and approvals. Represent procurement operations in deal planning and senior stakeholder escalations, presenting clear recommendations on commercial readiness, risks, and execution tradeoffs while respecting each function’s decision authority.
-* Maintain accurate obligation and purchasing records; coordinate payment readiness, acceptance evidence, invoice exceptions, and reconciliation with business owners, Treasury, Accounting, and Accounts Payable.
-* Establish procurement operating standards and influence business, sourcing, Legal, and Finance partners to adopt practices that improve supplier engagement quality, accelerate execution, and reduce risk. Build the processes, templates, playbooks, and upstream review cycles that make those standards actionable.
-* Design, implement, and manage workflow automation and AI agents, partnering with technical teams where needed; own testing, adoption, monitoring, exception handling, and appropriate human review and approval controls.
+## You might thrive in this role if you:
 
-**You might thrive in this role if you:**
-
-* Have independently managed complex procurement engagements through post-signature execution and closeout, with experience in at least one infrastructure category such as land, leases, power, colocation, or fiber.
-* Can distinguish well-structured supplier engagements from those that create avoidable ambiguity or exposure, recommend practical improvements, and recognize when Legal or Accounting judgment is required.
-* Understand contractual obligations, payment structures, and procurement controls, and can translate them into clear execution plans.
-* Can independently prioritize time-sensitive engagements, navigate ambiguity, and resolve cross-functional dependencies, seeking guidance on complex or consequential decisions. Communicate risks and tradeoffs clearly and influence senior stakeholders without formal authority.
-* Have built repeatable processes in an ambiguous environment and use procurement, contract management, and ERP systems and operational data to improve execution.
-* Have delivered workflow automation or AI agent solutions with measurable results and can manage their reliability, exceptions, and controls.
-
-**Additional experience that would be useful:**
-
-* Experience across multiple infrastructure categories, CSP commercial models, multi-entity purchasing, milestone payments, or escrow arrangements.
-* Zip, Oracle, Ironclad, or comparable platforms; workflow configuration, low-code tools, APIs, or scripting.
-
-**What success looks like:**
-
-* Business, sourcing, Legal, and Finance partners adopt shared operating standards, templates, and early review cycles, improving engagement quality and contracting readiness.
-* Request-to-agreement execution and request-to-PO cycle times improve measurably, alongside fewer preventable delays, missed obligations, invoice exceptions, and financial or contractual exposures.
-* Engagements remain actively managed through final payment and closeout, with dependable visibility into obligations, risks, ownership, and payment readiness.
-* Automation and AI agents reduce manual effort and improve speed and accuracy while maintaining effective controls.
+* 5+ year experience leading technology partnerships, sourcing, or commercial negotiations in a high-growth, product-driven environment.
+* Strong cross-functional leadership—able to align Product, Engineering, Legal, Security, and Finance around complex, high-stakes decisions.
+* Comfort operating in regulated or high-risk domains (payments, identity, data, financial or health-adjacent infrastructure).
+* A track record of negotiating commercial, technical, and data-driven agreements with technology vendors.
+* The ability to move fast in ambiguity while maintaining commercial discipline, compliance, and risk awareness.
+* Strong analytical skills to evaluate pricing models, volume ramps, FX exposure, and vendor risk in the context of revenue and product growth.
+* An ownership mindset—you independently drive deals, resolve blockers, and close outcomes that materially impact product launches and revenue.
+* A desire to accelerate OpenAI’s mission by enabling better vendor partnerships, faster launches, and more effective execution at scale.
 
 **About OpenAI**
 
