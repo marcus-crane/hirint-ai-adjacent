@@ -1,6 +1,6 @@
 ---
 title: Senior Engineer, Full-Stack - Forge (R6244)
-status: active
+status: archived
 id: 3b4ee7c2-7daf-48b2-bfb2-bdb6ebdcd515
 source: lever
 url: https://jobs.lever.co/shieldai/3b4ee7c2-7daf-48b2-bfb2-bdb6ebdcd515

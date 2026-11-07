@@ -1,5 +1,5 @@
 ---
-title: Senior Autonomy Engineer, Technical Documentation
+title: Autonomy Engineer, Technical Documentation
 status: active
 id: bd301ff3-45b6-4add-91bb-3ad27dd4ee1b
 source: lever
