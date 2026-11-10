@@ -4,7 +4,7 @@ status: active
 id: ec5cc09a-7d24-4332-becb-9a8afade654b
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/ec5cc09a-7d24-4332-becb-9a8afade654b
-lastmod: '2026-10-12T13:59:01'
+lastmod: '2026-11-10T16:01:21'
 date: '2026-09-22T19:21:04'
 location: 南山区, 徐汇区
 offices:
@@ -44,7 +44,7 @@ offices:
 
 加分项
 
-1. 有 IoT、蓝牙设备、音频/录音、AI 对话类应用经验。
+1. 有智能穿戴（耳机，手表）app开发经验。
 
 2. 熟悉 Kotlin 或 Swift，可参与插件开发；有 KMP SDK 集成经验。
 

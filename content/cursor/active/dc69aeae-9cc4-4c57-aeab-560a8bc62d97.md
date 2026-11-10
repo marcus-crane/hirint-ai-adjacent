@@ -1,0 +1,65 @@
+---
+title: Sr. Model Engineer
+status: active
+id: dc69aeae-9cc4-4c57-aeab-560a8bc62d97
+source: ashby
+url: https://jobs.ashbyhq.com/cursor/dc69aeae-9cc4-4c57-aeab-560a8bc62d97
+lastmod: '2026-11-10T00:30:25.091+00:00'
+date: '2026-11-10T00:30:25.091+00:00'
+location: Palo Alto, CA
+departments:
+- Engineering
+- Machine Learning
+---
+
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.  
+  
+SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.
+
+**Sr. Model Engineer**
+
+SpaceXSI is building Super Intelligence to help humanity understand the universe. We train frontier coding agents and scale RL on real user data to make them increasingly effective. We're looking for Research Scientists who can drive effective RL or mid-training research in a small-team setting. You'll own ambiguous, hard research problems end-to-end: forming hypotheses, designing experiments, building the training/eval/data needed to test them, and pushing results into the next model.
+
+**RESPONSIBILITIES:**
+
+* Design and run rigorous experiments that turn research ideas into measurable gains in model capability
+* Improve data recipes through data quality, deduplication, and mixture experiments
+* Define what makes RL data and rewards good, including grader design and preventing reward hacking
+* Advance training science, from architecture and scaling experiments to post-training recipes for coding and computer-use agents
+* Build evals and targeted tasks that expose model weaknesses and guide where the team invests next
+* Partner with engineers to take promising results from small experiments to frontier-scale training runs
+
+**BASIC QUALIFICATIONS:**
+
+* 3+ years of hands-on experience training or post-training large neural networks (1B+ parameters), including work on pre-training, fine-tuning, or RL-based methods (e.g., RLHF, DPO).
+* Experience writing production-quality code in Python, PyTorch, JAX, Rust, or C++
+
+**PREFERRED SKILLS AND EXPERIENCE:**
+
+* Able to handle ambiguous research tasks with little guidance, and to own a research direction end to end
+* Care an unusual amount about data quality, and can dive into the data when appropriate
+* Truth seeking, aiming to learn more about the science than to prove your ideas are correct
+* Experience with RL algorithms for language models, scaling laws, or building RL environments and evals
+* Experience with distributed training at scale and debugging problems that only show up at scale
+* Experience training frontier-scale models
+* Strong background in RL and machine learning fundamentals
+* An excellent programmer and software engineer, comfortable working across the research stack in Python and PyTorch or JAX
+* Hands-on experience training large models, through pretraining, post-training or RL
+* A track record of original work in ML, such as new methods or real improvements, shown through research, open source or production impact
+* MS or PhD in CS, ML, math, physics or a related field, or equivalent research experience
+
+**ADDITIONAL REQUIREMENTS:**
+
+* Onsite role: must be able to work in person at the Palo Alto office
+
+**COMPENSATION AND BENEFITS:**
+
+The annual compensation range for this role is listed below.
+
+**Annual Salary:**
+
+$220,000 - $357,000 USD
+
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+
+Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks.
