@@ -1,5 +1,5 @@
 ---
-title: Staff Loads & Dynamics Engineer
+title: Staff Engineer, Loads & Dynamics
 status: active
 id: fb9e6beb-e4b8-4b1a-bc0a-beab5b9f86b8
 source: ashby
