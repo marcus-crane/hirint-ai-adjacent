@@ -82,6 +82,7 @@ These are the standards we hire to, and they describe how the best people on thi
 * Presence with institutional leadership and high personal integrity under quota pressure
 * Ability to travel at least 50% of the time, and based in one of the following regions: NW, SE, NE, SW
 * Experience selling into institutional customers with wide buying committees, such as higher education, healthcare, or government
+* Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.
 
 ***Preferred***
 

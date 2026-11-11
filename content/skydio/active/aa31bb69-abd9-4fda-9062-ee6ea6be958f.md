@@ -1,5 +1,5 @@
 ---
-title: Solutions Engineer – State, Local, Educational (SLED) Corrections Security
+title: Solutions Engineer - State, Local, Educational (SLED) Corrections Security
 status: active
 id: aa31bb69-abd9-4fda-9062-ee6ea6be958f
 source: ashby
@@ -62,7 +62,7 @@ Solutions Engineers are critical members of the Skydio organization and work clo
 
 ## **What Is Required**
 
-* FAA Part 107 Certificate, or the ability to obtain one within 60 days of hire.
+* Obtaining FAA Part 107 certification within the first 60 days of employment is strongly encouraged for all Skydio employees and required for certain positions.
 * Ability to travel 50 to 75% of the time.
 * Ability to lift up to 60 lbs unaided.
 
