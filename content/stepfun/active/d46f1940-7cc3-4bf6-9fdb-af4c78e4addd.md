@@ -1,10 +1,10 @@
 ---
-title: 功耗温升测试
+title: 功耗温升测试工程师
 status: active
 id: d46f1940-7cc3-4bf6-9fdb-af4c78e4addd
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/d46f1940-7cc3-4bf6-9fdb-af4c78e4addd
-lastmod: '2026-10-12T13:59:01'
+lastmod: '2026-11-11T17:29:55'
 date: '2026-09-22T15:51:35'
 location: 南山区, 徐汇区
 offices:

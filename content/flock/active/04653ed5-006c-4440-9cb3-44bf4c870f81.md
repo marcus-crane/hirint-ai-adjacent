@@ -21,7 +21,7 @@ We’re on a mission to make the world quantifiably safer. Join us!
 
 **THE ROLE**
 
-Our brokers play a crucial role in making this a reality. We’re an AI-first business, so whatever the role, we want people who reach for AI by default, stay curious about what it can do, and use it to work faster and think bigger. You’ll use AI day to day, from researching brokers to preparing for meetings, so more of your time goes on the conversations that win business. We’re looking for an ambitious and passionate Broker Development Manager to accelerate our distribution through brokers. In this role, you’ll maximise existing broker relationships and build strong, strategic, growth partnerships as part of our fast-paced distribution team right at the heart of Flock’s mission.
+Our brokers play a crucial role in making this a reality. We’re an AI-first business, so whatever the role, we want people who reach for AI by default, stay curious about what it can do, and use it to work faster and think bigger. You’ll use AI day to day, from researching brokers to preparing for meetings, so more of your time goes on the conversations that win business. We’re looking for an ambitious and passionate Broker Development Manager to accelerate our distribution through brokers. In this role, you’ll maximise existing broker relationships and build strong, strategic, growth partnerships as part of our fast-paced distribution team right at the heart of Flock’s mission. You’ll report to our Head of Distribution.
 
 **WHAT WE THINK IS MOST EXCITING ABOUT THE ROLE:**
 
@@ -69,7 +69,7 @@ Be a part of building something truly game changing in the fleet market. You’l
 * £500 per annum towards learning and development 🌱
 * 3 days paid leave for L&D purposes 🌻
 
-We work hybrid, typically three days a week in our Central London office (fewer office days can be accommodated for longer commute times), a few minutes from Moorgate and Liverpool Street. Visits to client sites, conferences and broker offices count towards office days.
+We work hybrid, typically three days a week in our Central London office (fewer office days can be accommodated for longer commute times), a few minutes from Moorgate and Liverpool Street. This role is expected to be field based rather than office based, so visits to client sites, conferences and broker offices count towards office days.
 
 **ONE LAST THING..**
 

@@ -1,6 +1,6 @@
 ---
 title: Engineer II, Integration - New Grad - 6202
-status: active
+status: archived
 id: de13deec-afa6-4d78-b920-aeb5571be9d3
 source: lever
 url: https://jobs.lever.co/shieldai/de13deec-afa6-4d78-b920-aeb5571be9d3

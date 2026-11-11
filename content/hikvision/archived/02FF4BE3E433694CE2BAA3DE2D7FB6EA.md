@@ -1,6 +1,6 @@
 ---
 title: 海康机器人-商务实习生-重庆
-status: active
+status: archived
 id: 02FF4BE3E433694CE2BAA3DE2D7FB6EA
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=02FF4BE3E433694CE2BAA3DE2D7FB6EA
