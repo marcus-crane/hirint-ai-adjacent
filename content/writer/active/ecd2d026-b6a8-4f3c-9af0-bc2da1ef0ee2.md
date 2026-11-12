@@ -4,15 +4,14 @@ status: active
 id: ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2
 source: ashby
 url: https://jobs.ashbyhq.com/WRITER/ecd2d026-b6a8-4f3c-9af0-bc2da1ef0ee2
-lastmod: '2026-11-12T00:14:32.999+00:00'
-date: '2026-11-12T00:14:32.999+00:00'
+lastmod: '2026-11-12T00:51:19.822+00:00'
+date: '2026-11-12T00:51:19.822+00:00'
 location: San Francisco, CA
 departments:
 - Engineering
 - Engineering, product & design
 offices:
 - New York City, NY
-- Seattle, WA
 compensation: $234K – $384K • Offers Equity
 ---
 
@@ -28,7 +27,7 @@ AI research at WRITER isn't just about publishing papers; it's about building th
 
 We're at an inflection point. Enterprises are moving from experimenting with AI to deeply embedding it across their operations, and WRITER's models are the engine making that possible. The work you do here—on post-training, planning, multi-step reasoning, and agentic workflows—will directly shape how the next generation of enterprise AI behaves, performs, and scales. You'll have the resources, infrastructure, and cross-functional support to pursue ambitious ideas and bring them to life quickly.
 
-This role is hybrid, based out of our San Francisco, Seattle, or New York City hub. You’ll report to our VP of AI research.
+This role is hybrid, based out of our San Francisco or New York City hub. You’ll report to our VP of AI research.
 
 Please note: role is open to Staff, and Sr. Staff applicants  
 *We are open to hiring for this role at multiple levels, with compensation ranges scaled to match your experience, expertise, and the scope of the role.*
