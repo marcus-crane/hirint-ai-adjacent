@@ -8,7 +8,6 @@ lastmod: '2026-06-05T05:02:58.415+00:00'
 date: '2026-06-05T05:02:58.415+00:00'
 location: San Francisco
 departments:
-- Research
 - Robotics
 compensation: $255K – $325K • Offers Equity
 ---
