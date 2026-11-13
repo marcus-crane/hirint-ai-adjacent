@@ -19,51 +19,33 @@ The Staff UAS Flight Test Operator leads system-level flight test operations sup
 
 ### What You’ll Do:
 
-+ Lead system-level flight test campaigns for Hivemind Mission Autonomy across multi-rotor, fixed-wing, and external UAS platforms, including day-to-day fly–fix–fly operations.
-
-- Plan and conduct missions in accordance with approved test plans, test cards, configuration requirements, release criteria, and safety procedures.
-
+* Lead system-level flight test campaigns for Hivemind Mission Autonomy across multi-rotor, fixed-wing, and external UAS platforms, including day-to-day fly–fix–fly operations.
+* Plan and conduct missions in accordance with approved test plans, test cards, configuration requirements, release criteria, and safety procedures.
 * Operate, configure, inspect, and maintain UAS, payloads, ground control systems, communications equipment, and supporting test infrastructure across laboratory, ground, and flight-test environments.
-
-+ Test pre-release HivemindSDK versions by verifying features, integrations, autonomy capabilities, and performance against defined product and quality requirements.
-
-- Develop and execute representative customer workflows and mission scenarios to assess SDK functionality, usability, reliability, and operational performance across aircraft types and multi-agent configurations.
-
+* Test pre-release HivemindSDK versions by verifying features, integrations, autonomy capabilities, and performance against defined product and quality requirements.
+* Develop and execute representative customer workflows and mission scenarios to assess SDK functionality, usability, reliability, and operational performance across aircraft types and multi-agent configurations.
 * Document test results, defects, anomalies, regressions, and limitations; provide actionable feedback to product, software, systems, autonomy, and quality teams; and support issue reproduction, triage, and corrective-action verification.
-
-+ Lead operational risk assessments, crew briefings, ground checks, launch and recovery preparations, and post-flight debriefs while serving in designated leadership roles during test conduct.
-
-- Monitor telemetry and system status, collect flight data, evaluate aircraft and autonomy behavior, and support initial anomaly investigation.
-
+* Lead operational risk assessments, crew briefings, ground checks, launch and recovery preparations, and post-flight debriefs while serving in designated leadership roles during test conduct.
+* Monitor telemetry and system status, collect flight data, evaluate aircraft and autonomy behavior, and support initial anomaly investigation.
 * Establish and maintain SOPs, test procedures, checklists, and operational standards; mentor flight test personnel; communicate test status and risks; and drive improvements in safety, efficiency, product quality, and customer readiness.
 
 ### Required Qualifications:
 
-+ 8+ years of experience operating, configuring, and maintaining Group 1/2 UAS platforms in test, military, commercial, or operational environments.
-
-- Demonstrated experience leading complex UAS flight operations, including mission planning, test-card execution, crew briefings and debriefings, and real-time coordination in dynamic test environments.
-
+* 8+ years of experience operating, configuring, and maintaining Group 1/2 UAS platforms in test, military, commercial, or operational environments.
+* Demonstrated experience leading complex UAS flight operations, including mission planning, test-card execution, crew briefings and debriefings, and real-time coordination in dynamic test environments.
 * Strong knowledge of COTS UAS hardware, autopilot systems, payloads, ground control stations, communications systems, and supporting test equipment.
-
-+ Experience assessing operational readiness and maintaining configuration control across aircraft, payloads, software, communications equipment, personnel, and test infrastructure.
-
-- Experience developing, implementing, and executing SOPs, checklists, risk assessments, hazard mitigations, and operational processes.
-
+* Experience assessing operational readiness and maintaining configuration control across aircraft, payloads, software, communications equipment, personnel, and test infrastructure.
+* Experience developing, implementing, and executing SOPs, checklists, risk assessments, hazard mitigations, and operational processes.
 * Working knowledge of National Airspace System operations, airspace coordination, flight authorization requirements, and operational planning for complex UAS missions.
-
-+ FAA Part 107 Remote Pilot Certificate holder
+* FAA Part 107 Remote Pilot Certificate holder
 
 ### Preferred Qualifications:
 
-+ Experience supporting autonomy, AI-enabled systems, or developmental flight test programs, particularly multi-aircraft or distributed UAS operations.
-
-- Experience supporting test progression across simulation, software-in-the-loop, hardware-in-the-loop, ground test, and flight test environments.
-
+* Experience supporting autonomy, AI-enabled systems, or developmental flight test programs, particularly multi-aircraft or distributed UAS operations.
+* Experience supporting test progression across simulation, software-in-the-loop, hardware-in-the-loop, ground test, and flight test environments.
 * Hands-on fabrication and integration experience involving mechanical assemblies, electrical systems, wiring harnesses, avionics, payloads, and supporting test equipment.
-
-+ Proficiency with ArduPilot, PX4, QGroundControl, and Mission Planner, with working knowledge of Linux, IP networking, MAVLink, ROS/ROS 2, or basic scripting.
-
-- Military UAS operations or experience supporting DoD developmental testing, operational testing, customer demonstrations, or other formally controlled test programs.
+* Proficiency with ArduPilot, PX4, QGroundControl, and Mission Planner, with working knowledge of Linux, IP networking, MAVLink, ROS/ROS 2, or basic scripting.
+* Military UAS operations or experience supporting DoD developmental testing, operational testing, customer demonstrations, or other formally controlled test programs.
 
 #LI-DS5
 

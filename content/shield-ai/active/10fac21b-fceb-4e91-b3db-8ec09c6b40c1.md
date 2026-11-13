@@ -34,50 +34,32 @@ The primary function of this Proposal Specialist role is supporting US federal a
 
 ### What You'll Do:
 
-+ Manage competing priorities across proposal and other deliverable (WPs, RFIs, ROMs, etc.) development in the fast-paced environment of the Int’l BD Ops team.
-
-- Lead end-to-end proposal execution from pre-RFP planning through submission and closeout.
-
+* Manage competing priorities across proposal and other deliverable (WPs, RFIs, ROMs, etc.) development in the fast-paced environment of the Int’l BD Ops team.
+* Lead end-to-end proposal execution from pre-RFP planning through submission and closeout.
 * Drive cross-functional proposal teams to deliver compliant, high-quality submissions on schedule.
-
-+ Continuously improve proposal processes, tools, templates, and best practices.
-
-- Mentor proposal contributors and foster high-performing, collaborative teams.
-
+* Continuously improve proposal processes, tools, templates, and best practices.
+* Mentor proposal contributors and foster high-performing, collaborative teams.
 * Support ASME GTM team with briefing and presentation development for customer engagements.
-
-+ Support customer meetings, demonstrations, and GTM events as required.
-
-- Provide additional support to BD Ops and GTM team leadership as needed.
+* Support customer meetings, demonstrations, and GTM events as required.
+* Provide additional support to BD Ops and GTM team leadership as needed.
 
 ### Required Qualifications:
 
-+ 5+ years of U.S. Federal or international government proposal development or BD operations experience.
-
-- In lieu of direct government proposal experience, have 3+ years of experience working with U.S. Federal or International government requirements.
-
+* 5+ years of U.S. Federal or international government proposal development or BD operations experience.
+* In lieu of direct government proposal experience, have 3+ years of experience working with U.S. Federal or International government requirements.
 * Bachelor's degree in business, communication, marketing, engineering, or equivalent industry experience.
-
-+ Strong record of academic achievement.
-
-- Experience with proposal methodologies (e.g. Shipley), compliance matrices, and implementing project management tools and processes.
-
+* Strong record of academic achievement.
+* Experience with proposal methodologies (e.g. Shipley), compliance matrices, and implementing project management tools and processes.
 * Proven record of leadership in a professional setting.
-
-+ Ability to communicate complex, technical ideas effectively – both orally and in writing.
-
-- Ability to work collaboratively and flexibly as part of a team, embrace the startup environment.
-
+* Ability to communicate complex, technical ideas effectively – both orally and in writing.
+* Ability to work collaboratively and flexibly as part of a team, embrace the startup environment.
 * Ability to work effectively with people at all levels of an organization.
-
-+ Demonstrated record of hard work, trustworthiness, holding oneself and others to high standards, and being kind to others.
+* Demonstrated record of hard work, trustworthiness, holding oneself and others to high standards, and being kind to others.
 
 ### Preferred Qualifications:
 
-+ Experience managing Foreign Military Sale and Direct Commercial Sale bids/proposals.
-
-- Strong technical background especially with unmanned/uncrewed systems and/or autonomy software.
-
+* Experience managing Foreign Military Sale and Direct Commercial Sale bids/proposals.
+* Strong technical background especially with unmanned/uncrewed systems and/or autonomy software.
 * Demonstrated understanding and knowledge of military operations and Asia/Middle East defense acquisition processes.
 * Understanding of international markets/geopolitical trends in aerospace / defense industry.
 

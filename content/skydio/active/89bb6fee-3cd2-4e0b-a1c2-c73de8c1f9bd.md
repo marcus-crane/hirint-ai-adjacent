@@ -1,5 +1,5 @@
 ---
-title: Frontend Software Engineer Intern - Summer 2027
+title: Frontend Software Engineer Intern
 status: active
 id: 89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd
 source: ashby

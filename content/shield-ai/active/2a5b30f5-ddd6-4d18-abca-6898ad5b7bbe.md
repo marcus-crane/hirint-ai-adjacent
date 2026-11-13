@@ -8,7 +8,7 @@ lastmod: '2026-10-06T19:31:48.159000+00:00'
 date: '2026-10-06T19:31:48.159000+00:00'
 location: Seattle, Washington
 departments:
-- X-BAT Engineering
+- X-BAT Ranger Engineering
 offices:
 - San Diego, California
 - Seattle, Washington

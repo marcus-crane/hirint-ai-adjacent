@@ -32,79 +32,79 @@ You will help evolve Forge into an integrated engineering environment with share
 
 ### What you'll do:
 
-+ Build and operate a front-end focused development platform embedded in the workflows used to train, validate, and deploy the AI Pilot.
+* Build and operate a front-end focused development platform embedded in the workflows used to train, validate, and deploy the AI Pilot.
 
-+ Design a composable UI architecture that lets applications contribute apps, dashboards, commands, widgets, and shared resource context.
+* Design a composable UI architecture that lets applications contribute apps, dashboards, commands, widgets, and shared resource context.
 
-+ Define typed, versioned contracts between the platform and independently developed Forge applications.
+* Define typed, versioned contracts between the platform and independently developed Forge applications.
 
-+ Create workflows for teams to package, publish, configure, install, upgrade, and disable applications.
+* Create workflows for teams to package, publish, configure, install, upgrade, and disable applications.
 
-+ Enable Forge’s native AI experiences and external agent harnesses to understand active context, invoke authorized tools, navigate applications, and compose dashboards.
+* Enable Forge’s native AI experiences and external agent harnesses to understand active context, invoke authorized tools, navigate applications, and compose dashboards.
 
-+ Deliver consistent application behavior across local-development and AI Factory environments.
+* Deliver consistent application behavior across local-development and AI Factory environments.
 
-+ Partner with simulation, autonomy, and ML subject-matter experts to build initial applications, validate the platform against real workflows, and incorporate what you learn.
+* Partner with simulation, autonomy, and ML subject-matter experts to build initial applications, validate the platform against real workflows, and incorporate what you learn.
 
-+ Work across infrastructure, security, product, and design to shape the platform’s architecture and engineering practices.
+* Work across infrastructure, security, product, and design to shape the platform’s architecture and engineering practices.
 
 ### Key outcomes:
 
 A successful engineer in this role will help deliver the following outcomes:
 
-+ Build and operate a front-end focused development platform embedded in the workflows used to train, validate, and deploy the AI Pilot.
+* Build and operate a front-end focused development platform embedded in the workflows used to train, validate, and deploy the AI Pilot.
 
-+ Design a composable UI architecture that lets applications contribute apps, dashboards, commands, widgets, and shared resource context.
+* Design a composable UI architecture that lets applications contribute apps, dashboards, commands, widgets, and shared resource context.
 
-+ Define typed, versioned contracts between the platform and independently developed Forge applications.
+* Define typed, versioned contracts between the platform and independently developed Forge applications.
 
-+ Create workflows for teams to package, publish, configure, install, upgrade, and disable applications.
+* Create workflows for teams to package, publish, configure, install, upgrade, and disable applications.
 
-+ Enable Forge’s native AI experiences and external agent harnesses to understand active context, invoke authorized tools, navigate applications, and compose dashboards.
+* Enable Forge’s native AI experiences and external agent harnesses to understand active context, invoke authorized tools, navigate applications, and compose dashboards.
 
-+ Deliver consistent application behavior across local-development and AI Factory environments.
+* Deliver consistent application behavior across local-development and AI Factory environments.
 
-+ Partner with simulation, autonomy, and ML subject-matter experts to build initial applications, validate the platform against real workflows, and incorporate what you learn.
+* Partner with simulation, autonomy, and ML subject-matter experts to build initial applications, validate the platform against real workflows, and incorporate what you learn.
 
-+ Work across infrastructure, security, product, and design to shape the platform’s architecture and engineering practices.
+* Work across infrastructure, security, product, and design to shape the platform’s architecture and engineering practices.
 
 ### Required qualifications:
 
-+ Experience owning production full-stack applications from design and implementation through rollout and support.
+* Experience owning production full-stack applications from design and implementation through rollout and support.
 
-+ Strong proficiency with TypeScript and React or an equivalent modern web stack.
+* Strong proficiency with TypeScript and React or an equivalent modern web stack.
 
-+ Experience building production backend services in Go, Python, Rust, or a comparable language.
+* Experience building production backend services in Go, Python, Rust, or a comparable language.
 
-+ Experience designing typed, versioned APIs and contracts between independently deployed components.
+* Experience designing typed, versioned APIs and contracts between independently deployed components.
 
-+ Strong knowledge of web and distributed-system architecture, including state management, routing, asynchronous communication, browser security, authentication, authorization, and failure handling.
+* Strong knowledge of web and distributed-system architecture, including state management, routing, asynchronous communication, browser security, authentication, authorization, and failure handling.
 
-+ Experience building real-time and high-performance applications (WebGL, WebGPU)
+* Experience building real-time and high-performance applications (WebGL, WebGPU)
 
-+ Sound judgment about when to extend an existing system, introduce an abstraction, or keep a solution intentionally small.
+* Sound judgment about when to extend an existing system, introduce an abstraction, or keep a solution intentionally small.
 
-+ Clear communication skills and the ability to work across frontend, backend, infrastructure, and product disciplines.
+* Clear communication skills and the ability to work across frontend, backend, infrastructure, and product disciplines.
 
 ### Preferred qualifications:
 
 Experience in every area below is not expected. Relevant experience may include:
 
-+ Extensible application platforms, including plugin systems, micro-frontends, web sandboxing, Web Components, or VS Code extensions.
+* Extensible application platforms, including plugin systems, micro-frontends, web sandboxing, Web Components, or VS Code extensions.
 
-+ Agent-tool integrations and protocols such as Model Context Protocol.
+* Agent-tool integrations and protocols such as Model Context Protocol.
 
-+ API gateways, reverse proxies, service catalogs, or policy-driven routing.
+* API gateways, reverse proxies, service catalogs, or policy-driven routing.
 
-+ Schema-driven API development using OpenAPI, JSON Schema, Protocol Buffers, gRPC, or generated clients.
+* Schema-driven API development using OpenAPI, JSON Schema, Protocol Buffers, gRPC, or generated clients.
 
-+ Kubernetes and ingress/gateways
+* Kubernetes and ingress/gateways
 
-+ Composable user experiences such as dashboard builders, configurable layouts, data visualization, or collaborative application state.
+* Composable user experiences such as dashboard builders, configurable layouts, data visualization, or collaborative application state.
 
-+ Robotics, autonomy, simulation, aerospace, or other domains where software interacts with real-world systems.
+* Robotics, autonomy, simulation, aerospace, or other domains where software interacts with real-world systems.
 
-+ Shipping Electron Applicatitions
+* Shipping Electron Applicatitions
 
 ### Why join us:
 

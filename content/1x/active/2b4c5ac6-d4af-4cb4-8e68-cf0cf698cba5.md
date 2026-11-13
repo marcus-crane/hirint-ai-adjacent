@@ -1,21 +1,21 @@
 ---
-title: 'Inventory Control Supervisor '
+title: 'Inventory Control Manager '
 status: active
 id: 2b4c5ac6-d4af-4cb4-8e68-cf0cf698cba5
 source: ashby
 url: https://jobs.ashbyhq.com/1x/2b4c5ac6-d4af-4cb4-8e68-cf0cf698cba5
-lastmod: '2026-08-06T00:18:22.691+00:00'
-date: '2026-08-06T00:18:22.691+00:00'
+lastmod: '2026-11-12T20:14:54.950+00:00'
+date: '2026-11-12T20:14:54.950+00:00'
 location: San Carlos, CA
 departments:
 - Manufacturing Operations
 - Materials & Logistics
 offices:
 - Hayward, CA
-compensation: $90K – $110K • Offers Equity
+compensation: $100,890 – $120,310 • Offers Equity
 ---
 
-Role Name: Inventory Control Supervisor
+Inventory Control Manager
 
 Department: Manufacturing Operations Materials & Logistics
 
@@ -33,40 +33,49 @@ If you’ve spent your career working on problems that matter and want to see th
 
 **About the Team:**
 
-The Logistics team keeps manufacturing moving by ensuring every component is accurately tracked from receipt through production. As 1X scales global robot manufacturing, inventory accuracy becomes critical to production planning, financial reporting, and operational efficiency. This team builds the systems, processes, and discipline that enable manufacturing to operate with confidence.
-
-**Your Charter:** Lead 1X's inventory control function by ensuring accurate inventory across manufacturing and warehouse operations while developing scalable processes, leading a high-performing inventory team, and providing the operational visibility needed to support production, finance, and supply chain decisions.
+The Materials & Logistics team ensures manufacturing has the materials, systems, and operational infrastructure needed to scale production. As 1X expands robot manufacturing, inventory management becomes increasingly critical to production planning, financial accuracy, and operational efficiency. The team is responsible for building scalable processes, maintaining inventory integrity, and establishing the operational discipline needed to support a growing manufacturing organization  
+  
+**Your Charter:** Own and scale 1X's inventory control function across manufacturing and warehouse operations. Establish the strategy, systems, and governance required to maintain inventory accuracy, improve material visibility, and support production at scale. Lead and develop a high-performing inventory control team while partnering cross-functionally with Manufacturing, Supply Chain, Finance, and Engineering to drive operational efficiency and sound inventory management practices.
 
 **Key Outcomes:**
 
-* Maintain best-in-class inventory accuracy by leading global cycle count programs, reconciliation efforts, and inventory governance across warehouses and work-in-process inventory.
-* Build, mentor, and develop a high-performing team of Inventory Control Analysts that delivers accurate inventory reporting and operational excellence.
-* Deliver timely inventory health reporting, KPI dashboards, and executive-level analytics that support production planning, financial reporting, and supply chain decisions.
-* Reduce inventory discrepancies through root cause analysis, process improvements, and standardized inventory control methodologies.
-* Partner with Manufacturing, Supply Chain, Finance, Engineering, and Logistics to optimize inventory flow, support Engineering Change Orders (ECOs), reduce excess and obsolete inventory, and improve overall inventory performance.
+* Establish and own inventory control strategy, policies, and standardized processes across warehouse operations, manufacturing locations, and work-in-process inventory.
+* Drive inventory accuracy through structured cycle count programs, physical inventory audits, reconciliation processes, and inventory governance.
+* Build, lead, and develop a high-performing inventory control team, establishing clear ownership, performance expectations, and operational accountability.
+* Own inventory performance metrics, reporting infrastructure, and KPI dashboards, providing leadership with actionable visibility into inventory health, discrepancies, and operational risks.
+* Partner with Finance to ensure inventory integrity, accurate valuation, financial reporting, and compliance with internal controls and audit requirements.
+* Drive root cause investigations and corrective actions to reduce inventory discrepancies, material losses, excess inventory, and obsolete stock.
+* Partner with Manufacturing, Supply Chain, Engineering, and Logistics to improve material flow, inventory availability, and traceability throughout the production lifecycle.
+* Lead inventory process and systems improvements, including ERP optimization, transaction discipline, material tracking, and support for Engineering Change Orders (ECOs).
+* Develop scalable inventory management practices that support increasing production volumes, additional warehouse capacity, and the operational complexity of a growing robotics manufacturing organization.
 
 **Key Competencies:**
 
-* Proven leadership experience building and developing inventory control or warehouse operations teams.
-* Strong analytical mindset with the ability to translate inventory data into actionable business decisions.
-* Deep understanding of inventory control methodologies, including cycle counting, ABC classification, inventory reconciliation, and root cause analysis.
-* Highly organized with exceptional attention to detail and the ability to manage multiple priorities in a fast-paced manufacturing environment.
-* Collaborative communicator who builds strong cross-functional partnerships and drives continuous improvement.
+* Proven ability to lead and scale inventory control or materials management functions within a manufacturing or distribution environment.
+* Strong understanding of inventory management principles, including cycle counting, ABC classification, inventory reconciliation, inventory valuation, and material traceability.
+* Strategic and analytical mindset with the ability to translate complex inventory data into operational improvements and business decisions.
+* Experience establishing inventory governance, standard operating procedures, internal controls, and performance management frameworks.
+* Strong leadership capabilities with a track record of developing teams, setting expectations, and driving accountability.
+* Ability to influence cross-functional stakeholders and align inventory management practices with manufacturing, finance, and supply chain objectives.
+* Demonstrated ability to identify operational gaps, lead process improvements, and implement scalable solutions in a fast-paced environment.
 
 **Minimum Requirements:**
 
-* 5+ years of experience in inventory control, inventory management, logistics, supply chain, or manufacturing operations, including experience leading or mentoring a team.
-* Experience managing cycle count programs, inventory reconciliation, variance investigations, and inventory reporting within a manufacturing environment.
-* Advanced proficiency with Excel and experience using ERP systems such as SAP, Oracle, Odoo, or similar.
-* Experience creating reports and dashboards using Power BI, Tableau, SQL, or similar business intelligence tools.
+* 7+ years of experience in inventory control, inventory management, materials management, logistics, or manufacturing operations.
+* 3+ years of direct people management experience, including hiring, developing, and leading inventory or materials management teams.
+* Demonstrated ownership of inventory control programs, including cycle counting, inventory reconciliation, variance investigations, and inventory accuracy improvements.
+* Experience managing inventory across multiple warehouses, manufacturing locations, or complex production environments.
+* Advanced proficiency with Excel and experience managing ERP systems such as SAP, Oracle, Odoo, or similar.
+* Experience developing and maintaining inventory reporting, KPI dashboards, and operational analytics.
+* Strong understanding of inventory controls, financial reporting requirements, and audit processes within a manufacturing environment.
 
 **Preferred Skills:**
 
-* Bachelor's degree in Supply Chain, Business, Finance, Accounting, or a related field.
+* Bachelor's degree in Supply Chain, Business, Finance, Accounting, Operations Management, or equivalent experience.
 * Experience supporting high-volume manufacturing in robotics, automotive, aerospace, semiconductor, or electronics industries.
 * APICS certification (CPIM, CSCP, or CLTD).
-* Experience supporting Foreign Trade Zones (FTZ), duty drawback programs, or global logistics operations.
-* Experience leading ERP implementations, inventory system improvements, or warehouse process optimization initiatives.
+* Experience leading ERP implementations, warehouse management system (WMS) deployments, or large-scale inventory process improvements.
+* Experience managing inventory through Engineering Change Orders (ECOs), product transitions, and new product introduction (NPI).
 
 **What does a successful 1X Team Member look like:**
 
@@ -74,7 +83,7 @@ Team members at 1X who thrive here are builders. They move fast, own their work 
 
 **Compensation Range:**
 
-**$90,000 - $115,000**
+**$100,890.00 - $120,310.00**
 
 **Benefits:**
 

@@ -26,37 +26,36 @@ You’ll bring depth in an area such as object tracking, classical/ML-based dete
 
 ### What you'll do:
 
-+ Develop perception algorithms and production software in modern C++.
+* Develop perception algorithms and production software in modern C++.
 
-+ Own features from design and implementation through integration, testing, and delivery.
+* Own features from design and implementation through integration, testing, and delivery.
 
-+ Investigate system behavior using sensor data, simulation, logs, and focused experiments.
+* Investigate system behavior using sensor data, simulation, logs, and focused experiments.
 
-+ Collaborate across teams to turn research and customer-driven work into reusable product capabilities.
+* Collaborate across teams to turn research and customer-driven work into reusable product capabilities.
 
-+ Contribute to technical direction, review designs and code, and mentor other engineers.
+* Contribute to technical direction, review designs and code, and mentor other engineers.
 
 ### Required qualifications:
 
-+ Experience delivering production C++ software for perception, robotics, autonomy, or a related technical field.
+* Experience delivering production C++ software for perception, robotics, autonomy, or a related technical field.
 
-+ Strong technical depth in at least one relevant area: detection, tracking, computer vision, image processing, estimation (e.g. Kalman Filtering), or sensor fusion.
+* Strong technical depth in at least one relevant area: detection, tracking, computer vision, image processing, estimation (e.g. Kalman Filtering), or sensor fusion.
 
-+ An ability to debug complex systems and build software that others can understand, test, and maintain.
+* An ability to debug complex systems and build software that others can understand, test, and maintain.
 
-+ Comfort using Python or similar tools for experimentation and data analysis.
+* Comfort using Python or similar tools for experimentation and data analysis.
 
-+ Sound technical judgment and a collaborative approach to solving problems.
+* Sound technical judgment and a collaborative approach to solving problems.
 
 ### Preferred qualifications:
 
 * Experience with
+* real sensors (EO/IR, Radar, LiDAR, IMU)
 
-  + real sensors (EO/IR, Radar, LiDAR, IMU)
+* embedded or GPU deployment
 
-  + embedded or GPU deployment
-
-  + resource-constrained compute environments
+* resource-constrained compute environments
 
 This role can be based in San Diego, San Mateo, Washington, DC, or Orlando, with a hybrid schedule of three days per week in the office.
 
