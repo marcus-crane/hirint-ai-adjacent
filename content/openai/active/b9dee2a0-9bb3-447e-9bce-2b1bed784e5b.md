@@ -8,6 +8,7 @@ lastmod: '2025-03-17T16:10:28.608+00:00'
 date: '2025-03-17T16:10:28.608+00:00'
 location: San Francisco
 departments:
+- Research
 - Safety Systems
 compensation: $207K – $385K • Offers Equity
 ---

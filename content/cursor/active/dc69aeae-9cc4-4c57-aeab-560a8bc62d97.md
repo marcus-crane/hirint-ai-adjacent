@@ -1,5 +1,5 @@
 ---
-title: Sr. Model Engineer
+title: Sr. Model Engineer, RL Data
 status: active
 id: dc69aeae-9cc4-4c57-aeab-560a8bc62d97
 source: ashby
@@ -16,7 +16,7 @@ SpaceX was founded under the belief that a future where humanity is out explorin
   
 SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.
 
-**Sr. Model Engineer**
+**Sr. Model Engineer, Safety**
 
 SpaceXSI is building Super Intelligence to help humanity understand the universe. We train frontier coding agents and scale RL on real user data to make them increasingly effective. We're looking for Research Scientists who can drive effective RL or mid-training research in a small-team setting. You'll own ambiguous, hard research problems end-to-end: forming hypotheses, designing experiments, building the training/eval/data needed to test them, and pushing results into the next model.
 
