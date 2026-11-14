@@ -46,43 +46,45 @@ Everything we do is the result of the creativity and commitment of our team - bu
 * **Annual team offsite:** Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún
 * **Co-working**: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-**About the role**
+## **About the role**
 
-As Enterprise Sales Lead - Financial Services, you’ll own our North America enterprise motion across Banking and Insurance, helping institutions put agents in front of customers, policyholders, and advisors that are safe, compliant, and fit the systems they already run.
+We're hiring a Head of Financial Services to own ElevenLabs' US business across banking and insurance. Financial institutions want agents that talk to customers, policyholders, and advisors and that are safe, compliant, and compatible with the systems they already run. You'll own the financial services business from strategy and pipeline through to the team that delivers the revenue.
 
-In regulated industries, relationships are the currency, so we’re looking for a leader who already knows the buyers and the rulebook. This is a rare chance to join while the vertical is moving from pilots to production, with the mandate to win net-new logos, drive agent sales, and build the playbook and the team.
+We don't use traditional job titles at ElevenLabs. This role is equivalent in scope and seniority to a Vice President of Financial Services, with ownership of the vertical, authority to hire and lead the sales team, and the chance to work closely with ElevenLabs leaders across the company.
 
-**In this role, you will:**
+Financial services buyers hold vendors to a high bar on risk, compliance, and reliability, and we're looking for a leader who has met that bar before. You'll build the financial services business end to end, including the strategy, team, pipeline, and playbook. You'll stay close to the most strategic deals while hiring and developing the leaders who will run segments as the business grows.
 
-* Win net-new logos and drive adoption of ElevenLabs, including closing deals yourself and also building and scaling the team
-* Own the enterprise Banking and Insurance function and playbook: strategy, pipeline, forecast, process, execution
-* Define the enterprise ICP, sales methodology, and a repeatable motion for each of Banking and Insurance, including different buyers, regulators, and use cases
-* Open doors through your own network of senior buyers, and turn early wins into the references the rest of the vertical will call
-* Guide buyers through model-risk review, architecture review, and vendor security, bringing Risk, Compliance, and InfoSec in early
-* Help customers pick a narrow, high-volume first use case in Banking (servicing, caller verification, collections, onboarding) and Insurance (claims intake, policy servicing, renewals), and scale from there
-* Partner with our Forward Deployed Engineers, Product, Marketing, and Customer Success to co-build and share what the field teaches us
-* Lead executive briefings, events, and high-stakes negotiations
-* Bring a sharp view of the competitive landscape, including build-vs-buy and platform bundlers, to positioning and strategy
-* Set the bar for sales culture, integrity, and customer-first execution
+## **In this role you will**
 
-**Requirements:**
+* Define and execute the go-to-market strategy across banking and insurance.
+* Own the financial services revenue number, forecast accuracy, pipeline quality, and sales process, working with Revenue Operations on clean data and clear insight.
+* Recruit and lead the sales team, starting with Account Executives and adding segment leaders as the business grows. Coach reps on deal strategy and execution, and develop future leaders.
+* Define the enterprise ICP, sales methodology, and a repeatable motion for banking and for insurance, which differ in buyers, regulators, and priorities.
+* Lead the largest strategic pursuits with your team, and own the executive relationships at our most important banks and insurers.
+* Build the customer reference base that establishes ElevenLabs as a trusted partner across banking and insurance.
+* Build our approach to model-risk, architecture, and vendor security review, and develop the executive relationships with Risk, Compliance, and InfoSec leaders that large institutions require.
+* Partner with Product, Engineering, Forward Deployed Engineering, Marketing, and Customer Success leaders to shape what we build, deploy, and bring to market for financial institutions.
+* Establish how we land and expand with each institution, from first deployment through enterprise-wide adoption.
+* Define our position against build-vs-buy decisions and platform bundlers.
+* Represent ElevenLabs at industry events and in high-stakes negotiations.
 
-* 10+ years of enterprise sales experience, including at least 2 years leading a team.
-* Track record selling into banks and/or insurers, and navigating Risk, Compliance, and InfoSec gatekeepers
-* An established network of senior decision-makers in banking and/or insurance, so you can name the buyers you’d call in your first 30 days
-* Passion for experimenting to find the positioning and messaging that wins in market, and turn what works into the playbook
-* Experience building a new sales motion or playbook from scratch, whether as a founding leader or inside a larger company
-* Deep fluency in banking and insurance regulation (model risk, third-party risk, data protection, consumer protection), which you can speak to without a briefing
-* Seven-figure enterprise deals and complex, multi-stakeholder cycles
-* Ability to be strategic and hands-on at once
-* Executive presence at C-suite and board levels
-* Low ego and hands-on: equally at home in a C-suite briefing and in the weeds of a prospecting list or Proof of Value. Motivated by impact and growth more than title
-* Passion for the transformative potential of voice and conversational AI
+## **What we're looking for**
 
-**Location**
+* 10-15+ years of enterprise sales experience, including at least 5 years leading sales teams.
+* A track record selling into banks and/or insurers, with experience working through Risk, Compliance, and InfoSec reviews.
+* A record of earning the trust of senior banking and insurance leaders, and of bringing new technology into their organizations.
+* Working fluency in banking and insurance regulation, including model risk, third-party risk, data protection, and consumer protection.
+* A history of closing at least seven-figure enterprise deals in complex, multi-stakeholder cycles.
+* Comfort moving between a C-suite briefing and the details of a prospecting list or Proof of Value.
 
-This role is remote-first, so it can be executed from anywhere in the United States, however the ability to operate in EST, CST, or PST timezones is required.
+## **Preferred**
 
-There is a preference for candidates to be based in New York or San Francisco, with the option to work out of our office.
+* Experience building a sales motion or playbook from the ground up, whether as a founding leader or inside a larger company.
+* Fluency with AI products and workflows.
+* Interest in voice and conversational AI.
+
+## **Why this role**
+
+The opportunity is to define the strategy, hire the team, and shape what we build for financial services, with support from leadership and a company growing as fast as ElevenLabs.
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
