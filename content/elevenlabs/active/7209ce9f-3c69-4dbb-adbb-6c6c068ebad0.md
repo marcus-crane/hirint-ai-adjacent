@@ -1,5 +1,5 @@
 ---
-title: Sales Lead - Enterprise - Financial Services
+title: Head of Financial Services, AMER
 status: active
 id: 7209ce9f-3c69-4dbb-adbb-6c6c068ebad0
 source: ashby
@@ -86,5 +86,9 @@ Financial services buyers hold vendors to a high bar on risk, compliance, and re
 ## **Why this role**
 
 The opportunity is to define the strategy, hire the team, and shape what we build for financial services, with support from leadership and a company growing as fast as ElevenLabs.
+
+## **Location**
+
+This role is remote-first, so it can be executed from anywhere in the United States, however the ability to operate in EST, CST, or PST timezones is required. There is a preference for candidates to be based in New York or San Francisco, with the option to work out of our office.
 
 We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.
