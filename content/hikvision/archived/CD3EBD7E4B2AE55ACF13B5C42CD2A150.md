@@ -1,6 +1,6 @@
 ---
 title: 海康微影-法务BP-杭州
-status: active
+status: archived
 id: CD3EBD7E4B2AE55ACF13B5C42CD2A150
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=CD3EBD7E4B2AE55ACF13B5C42CD2A150
