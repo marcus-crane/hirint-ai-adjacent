@@ -18,7 +18,7 @@ compensation: $57 – $70 per hour
 
 **About the Role**
 
-We’re seeking a Contract Recruiting Coordinator to join our team, focusing on supporting the logistics and coordination of the recruiting efforts for OpenAI.
+We’re seeking a Contract Recruiting Coordinator for a temporary assignment through a staffing agency, supporting recruiting logistics and coordination for OpenAI.
 
 **In this role, you will:**
 

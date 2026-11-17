@@ -8,7 +8,7 @@ lastmod: '2026-10-23T15:08:45.212+00:00'
 date: '2026-10-23T15:08:45.212+00:00'
 location: Brownsville, TX
 departments:
-- People
+- G&A
 - Recruiting
 ---
 
