@@ -1,0 +1,67 @@
+---
+title: Deployment Lead (DL), FDE - Seoul
+status: active
+id: e47f0627-6aef-49b0-beea-f46cb6cc07ad
+source: ashby
+url: https://jobs.ashbyhq.com/openai/e47f0627-6aef-49b0-beea-f46cb6cc07ad
+lastmod: '2026-11-17T23:49:15.501+00:00'
+date: '2026-11-17T23:49:15.501+00:00'
+location: Seoul, South Korea
+departments:
+- Forward Deployed Engineering
+---
+
+**About the team**
+
+OpenAI’s Forward Deployed Engineering (FDE) team partners with customers to turn research breakthroughs into production systems. We operate at the intersection of customer delivery and core platform development.
+
+**About the Role**
+
+This is a founding role. As Korea’s first Deployment Lead (DL), you’ll lead some of OpenAI’s most strategic AI engagements from the first executive conversation through production and adoption. You’ll work with executive sponsors to understand what they want to change, spend time with the people who do the work today, and partner with engineers to test what’s feasible. Alongside the account director, you’ll turn what you learn into a case for investment and a deployment plan both teams can commit to.
+
+You will own delivery end-to-end: embedding with customers to map workflows and success criteria, ensuring components ship on time, and leading readiness and change management for adoption. You’ll track progress, manage dependencies, make sequencing decisions, and drive 0→1 prototypes through MVP and scale. You will also share field insights with Product and Research to guide roadmap and priorities.
+
+Success will be measured first and foremost by impact - deployments that deliver measurable value against customer goals, drive adoption, and become critical to their workflows. Additional measures of success include delivery reliability (milestones hit), operating leverage (patterns reused across deployments), judgment under pressure, and product impact (field signal that shifts roadmaps).
+
+This is a high-trust, high-autonomy role. Success requires deep technical project management expertise, extreme ownership of outcomes, and an ability to immerse in customer workflows and partner with customer teams to solve complex engineering problems at pace.
+
+This role is based in Seoul. We use a hybrid work model of 3 days in the office per week. We offer relocation assistance.
+
+**IIn this role, you will:**
+
+* **Scope and win strategic customer engagements partnering with the account director.** Work with customer teams and engineers to prioritize what to build and map the path to production. Turn those choices into a phased proposal defining each side’s commitments, what phase one must prove, and when to expand.
+* **Own value cases and ROI.** Set impact hypotheses, baselines, and KPIs; run pre/post deployment measurement and report to exec sponsors.
+* **Own the technical delivery plan** for multiple work streams. Translate business objectives into a roadmap with milestones, dependencies, and acceptance criteria. Run day-to-day engineering execution and keep progress unblocked.
+* **Shape account strategy with the account director.** Build relationships with customer executives from scoping through adoption. Connect deployment results to business priorities, resolve trade-offs, and agree on where to invest next.
+* **Embed with customer teams to land production deployments and drive adoption.** Map workflows, shape tools/integrations, and translate requirements into a delivery plan. Lead onboarding, adoption, and change management.
+* **Codify solution patterns and evals.** Extract reusable patterns and package field signals to improve product and models.
+* **Partner with Product and Research** so platform components and research work streams land in time to support deployment goals.
+
+**You’ll thrive in this role if you:**
+
+* Bring 7+ years of customer‑facing technical delivery leadership.
+* Track record of successfully leading large, complex, high-stakes customer engagements where customer outcomes depended on tight coordination and fast decision making, ideally involving AI.
+* You’ve helped win or expand a complex technology engagement. You’ve shaped the scope with engineers, influenced what the customer chose to fund, and led delivery against the commitments you helped make.
+* You’re a translator with executive presence. You make complex technical trade-offs legible to business leaders and convert strategy into day-to-day technical execution.
+* You have shipped AI/LLM systems, have strong technical fluency and understand production pitfalls.
+* You are able to step back from execution detail, recognize broader trends across deployments, and connect customer needs to scalable, reusable solutions.
+* Excel in high ambiguity environments where you help build the function.
+* Have expertise in at least one major sector (e.g., healthcare, life sciences, energy, financial services, semiconductors, legal) to elevate solution framing and credibility.
+
+**About OpenAI**
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+For additional information, please see [OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement](https://cdn.openai.com/policies/eeo-policy-statement.pdf).
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through [this form](https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA). No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this [link](https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241).
+
+[OpenAI Global Applicant Privacy Policy](https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf)
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.

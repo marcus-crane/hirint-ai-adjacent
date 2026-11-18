@@ -1,30 +1,32 @@
 ---
-title: Sourcing Manager, Core Products
+title: Senior Manager, Technology Sourcing
 status: active
 id: 0fca3b36-8aaa-491a-be87-09efacfeca5e
 source: ashby
 url: https://jobs.ashbyhq.com/openai/0fca3b36-8aaa-491a-be87-09efacfeca5e
-lastmod: '2026-11-06T21:02:17.892+00:00'
-date: '2026-11-06T21:02:17.892+00:00'
+lastmod: '2026-11-17T20:55:18.868+00:00'
+date: '2026-11-17T20:55:18.868+00:00'
 location: San Francisco
 departments:
 - Finance
-compensation: $185K – $205K • Offers Equity
+compensation: $185K – $260K • Offers Equity
 ---
 
 ## **About the Team**
 
-OpenAI Finance helps ensure the organization is positioned for long-term success as we pursue our mission. The Strategic Sourcing & Procurement team enables OpenAI to scale responsibly, securely, and at speed by helping teams choose the right external partners, structure strong commercial agreements, and build resilient supplier ecosystems. We work at the intersection of innovation and execution, partnering closely with product and engineering leaders across the company to turn rapidly evolving needs into scalable, compliant, and economically sound solutions.
+Technology Sourcing is part of OpenAI’s Finance team. We partner with Product, Engineering, and the Partnerships Team early in development, when the choice of a technology or data provider can shape what teams build and how quickly they can ship.
+
+On this team, you’ll help bring new products to market faster, turn supplier partnerships into new sources of revenue and build scalable commercial models. Your work ultimately supports OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity.
 
 **About the Role**
 
-We are hiring a Sourcing Manager to keep vendor and partnership workflows moving from intake through onboarding, review and approval. You will coordinate a portfolio of agreed sourcing requests across multiple OpenAI product areas, bringing structure, accuracy and dependable follow-through.
+As Senior Manager, Technology Sourcing, you’ll lead supplier deals that help OpenAI launch new products in both consumer and enterprise spaces. You’ll take deals from requirements and evaluate vendors through negotiation, approval, and launch. You’ll get involved while teams are still making product decisions, when the choice of partner can change what ships and how quickly.
 
-You will work with senior sourcing owners and cross-functional partners. Senior owners retain responsibility for strategic supplier selection, negotiations and sensitive commercial or data-rights decisions.
+You will directly support Product and Engineering teams who work on cutting edge products such as Codex, Sites and Dots and be at the forefront of product development for consumer and enterprise customers. You will also work with cross-functional partners including legal, security and privacy to get relevant deal approvals.
 
 ## In this role, you will:
 
-* Run high-velocity, mid-complexity deals end-to-end: from vendor strategy and RFPs through negotiation, security review, contracting, and go-live.
+* Run high-velocity deals end-to-end: from vendor strategy and RFPs through negotiation, legal and security reviews, contracting, and go-live.
 * Coordinate supplier onboarding, collect required documents and track dependencies through completion.
 * Drive approval follow-through with Legal, Security, Privacy, Finance and other reviewers.
 * Partner with Product and Engineering to ensure external vendors can support new product launches without blocking delivery or increasing risk.
@@ -35,12 +37,12 @@ You will work with senior sourcing owners and cross-functional partners. Senior 
 
 ## You might thrive in this role if you:
 
-* 5+ year experience leading technology partnerships, sourcing, or commercial negotiations in a high-growth, product-driven environment.
+* 8+ year experience in technology sourcing, or commercial negotiations in a high-growth, product-driven environment with a strong focus on software.
 * Strong cross-functional leadership—able to align Product, Engineering, Legal, Security, and Finance around complex, high-stakes decisions.
 * Comfort operating in regulated or high-risk domains (payments, identity, data, financial or health-adjacent infrastructure).
-* A track record of negotiating commercial, technical, and data-driven agreements with technology vendors.
+* A track record of negotiating commercial, technical, and data-driven agreements with software technology vendors.
 * The ability to move fast in ambiguity while maintaining commercial discipline, compliance, and risk awareness.
-* Strong analytical skills to evaluate pricing models, volume ramps, FX exposure, and vendor risk in the context of revenue and product growth.
+* Strong analytical skills to evaluate pricing models, volume ramps and vendor risk in the context of revenue and product growth.
 * An ownership mindset—you independently drive deals, resolve blockers, and close outcomes that materially impact product launches and revenue.
 * A desire to accelerate OpenAI’s mission by enabling better vendor partnerships, faster launches, and more effective execution at scale.
 
