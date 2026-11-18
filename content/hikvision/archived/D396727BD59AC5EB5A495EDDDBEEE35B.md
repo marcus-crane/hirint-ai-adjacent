@@ -1,6 +1,6 @@
 ---
 title: 萤石-产品技术支持-杭州
-status: active
+status: archived
 id: D396727BD59AC5EB5A495EDDDBEEE35B
 source: hikvision
 url: https://talent.hikvision.com/society/postDetail?postSecureId=D396727BD59AC5EB5A495EDDDBEEE35B
