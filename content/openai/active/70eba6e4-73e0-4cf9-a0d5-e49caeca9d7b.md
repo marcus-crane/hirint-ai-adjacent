@@ -1,5 +1,5 @@
 ---
-title: Onboarding Coordinator - APAC
+title: Onboarding Program Manager - APAC
 status: active
 id: 70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b
 source: ashby
@@ -20,7 +20,7 @@ Our Coaching, Learning & Development team manages programs ranging from new empl
 
 ## **About the Role**
 
-We’re looking for an Onboarding Coordinator to support our APAC onboarding program, seated in Singapore As Singapore continues to serve as a regional hub for APAC, and with new offices  this role will provide critical operational support as hiring and onboarding complexity grows across the region.
+We’re looking for an Onboarding Program Manager to support our APAC onboarding program, seated in Singapore As Singapore continues to serve as a regional hub for APAC, and with new offices  this role will provide critical operational support as hiring and onboarding complexity grows across the region.
 
 This role will manage the day-to-day execution of onboarding activities across APAC, ensuring a smooth, welcoming, and well-coordinated experience for new hires and their managers. The coordinator will support onboarding operations across Singapore,  and other APAC locations, with a particular focus on enabling the continued growth of the GTM function in the region.
 
