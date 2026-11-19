@@ -1,5 +1,5 @@
 ---
-title: Strategic Partner Manager
+title: Strategic Technology Partner Manager
 status: active
 id: 0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943
 source: ashby
