@@ -9,6 +9,7 @@ date: '2026-11-09T13:58:27.834+00:00'
 location: Munich, Germany
 departments:
 - Go To Market
+- Technical Success
 ---
 
 **About the Team**

@@ -8,6 +8,7 @@ lastmod: '2026-09-18T03:35:03.118+00:00'
 date: '2026-09-18T03:35:03.118+00:00'
 location: Korea
 departments:
+- Business Operations
 - IT Operations
 ---
 
