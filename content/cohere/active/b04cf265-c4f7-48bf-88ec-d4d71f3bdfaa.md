@@ -9,7 +9,7 @@ date: '2026-10-20T01:22:20.798+00:00'
 location: Germany
 departments:
 - Engineering Program Management
-- Product Management & Program Management
+- Product & Design
 ---
 
 ## **Who are we?**
