@@ -1,47 +1,44 @@
 ---
-title: Research Engineer/Research Scientist- Post Training, Model Experience
+title: Research Engineer / Research Scientist - Post Training, Memory
 status: active
-id: 872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9
+id: ecfe655c-1369-4bcd-aae0-4a3b75fdf61b
 source: ashby
-url: https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9
-lastmod: '2026-07-22T15:54:35.536+00:00'
-date: '2026-07-22T15:54:35.536+00:00'
+url: https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b
+lastmod: '2026-11-22T17:17:35.967+00:00'
+date: '2026-11-22T17:17:35.967+00:00'
 location: San Francisco
 departments:
 - Post-training
 - Research
-compensation: $380K – $500K • Offers Equity
+compensation: $380K – $500K
 ---
 
 **About the Team**
 
-The Post Training team is responsible for training and improving pre-trained models to be deployed into ChatGPT, the API, and potential future products. In the Model Experience team, we shape the default character and behavior of ChatGPT: how the model communicates, responds to users, uses its capabilities, and behaves across different contexts and languages. Our goal is to make every interaction with ChatGPT thoughtful, helpful, and trustworthy. We take an opinionated view of what good human–AI interaction should look like, then turn that vision into real model behavior through human data, evaluations, reward models, and post-training.
-
-Our work sits at the intersection of research, product, and model design. We partner closely with teams across OpenAI to conduct research and ensure our models are thoughtful, safe, reliable to serve millions of users.
+The Personalization-Memory team, within OpenAI's broader Post Training organization, is focused on developing agents that can learn from prior interactions in order to become more helpful and efficient over time. We build general-purpose memory and personalization capabilities that transfer across ChatGPT and other agentic products, and we collaborate with applied engineering on the product surfaces that allow users to interact with memory.
 
 **About the Role**
 
-As a Research Engineer / Scientist, you will research and develop improvements to our models. Our team works in research areas combining reinforcement learning and products.
+As a Research Engineer / Research Scientist on the Personalization-Memory team, your work will span memory architecture, post-training, and developing long-horizon tasks for training and evaluations.
 
-We're looking for individuals with strong ML engineering skills and research experience, especially with novel and highly capable models. An ideal candidate is passionate about product-driven research and the quality of human-AI interaction.
+We're looking for individuals who have a background in reinforcement learning research, are able to iterate quickly, and who can convert scientific rigor and long-term research into realized product impact.
 
 This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
 
 **In this role, you will:**
 
-* Own and pursue a research agenda to improve model capability and performance.
-* Collaborate closely with the other research and product teams, allowing customers to optimize their own models.
+* Own and pursue a research agenda for improving long-horizon memory and personalization in frontier models.
 * Build robust evaluations for tracking modeling improvements.
 * Design, implement, test, and debug code across our research stack.
+* Collaborate closely with the research and product teams to influence the shape of technical solutions in the product.
 
 **You might thrive in this role if you:**
 
-* Have a deep understanding of machine learning and machine learning applications.
-* Have good judgment about model behavior and can communicate this judgment effectively.
-* Enjoy taking ambitious, qualitative problems and turning them into concrete training interventions.
-* Have a working knowledge of relevant models, and building evaluations for model capability improvement.
+* Love being on the cutting edge of RL and frontier model research.
+* Value principled approaches and research craftsmanship.
+* Are passionate about long-horizon tasks, memory, and turning your research into product impact.
 * Are comfortable diving into a large ML codebase to debug.
-* Thrive in a dynamic, technically complex, and collaborative environment.
+* Thrive in a fast-paced, dynamic, and technically complex environment.
 
 **About OpenAI**
 
