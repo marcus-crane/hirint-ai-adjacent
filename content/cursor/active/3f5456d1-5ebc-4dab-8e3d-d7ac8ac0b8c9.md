@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/cursor/3f5456d1-5ebc-4dab-8e3d-d7ac8ac0b8c9
 lastmod: '2026-11-12T17:19:40.075+00:00'
 date: '2026-11-12T17:19:40.075+00:00'
-location: Washington, D.C.
+location: Remote
 departments:
 - Sales
 - Vertical Sales
