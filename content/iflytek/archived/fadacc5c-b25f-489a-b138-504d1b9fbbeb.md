@@ -1,6 +1,6 @@
 ---
 title: AI研究院-中级研究算法工程师-代码agent方向
-status: active
+status: archived
 id: fadacc5c-b25f-489a-b138-504d1b9fbbeb
 source: beisen
 url: https://iflytek.zhiye.com/jobs/fadacc5c-b25f-489a-b138-504d1b9fbbeb
