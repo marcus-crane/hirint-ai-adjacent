@@ -6,7 +6,7 @@ source: ashby
 url: https://jobs.ashbyhq.com/openai/2bc7ca9b-4eae-4bda-982b-c1ac1d4e8596
 lastmod: '2026-11-10T17:12:09.180+00:00'
 date: '2026-11-10T17:12:09.180+00:00'
-location: San Francisco
+location: Seattle
 departments:
 - Go To Market
 - Partnerships

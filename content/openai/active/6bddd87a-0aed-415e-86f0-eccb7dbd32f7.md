@@ -10,7 +10,7 @@ location: New York City
 departments:
 - Go To Market
 - Strategy & Operations
-compensation: $239K – $265K • Offers Equity
+compensation: $211K – $234K • Offers Equity
 ---
 
 **About the Role**
