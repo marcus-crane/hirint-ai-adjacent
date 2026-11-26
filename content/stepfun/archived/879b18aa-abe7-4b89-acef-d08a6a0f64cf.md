@@ -1,6 +1,6 @@
 ---
 title: 底层安全 & 生物识别工程师
-status: active
+status: archived
 id: 879b18aa-abe7-4b89-acef-d08a6a0f64cf
 source: moka
 url: https://app.mokahr.com/social-recruitment/step/94904/job/879b18aa-abe7-4b89-acef-d08a6a0f64cf
